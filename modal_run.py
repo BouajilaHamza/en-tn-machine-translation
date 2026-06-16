@@ -165,7 +165,7 @@ def train_sft(max_steps=400):
     import numpy as np
 
     log(f"GPU: {torch.cuda.get_device_name(0)}")
-    log(f"VRAM: {torch.cuda.get_device_properties(0).total_mem / 1e9:.1f} GB")
+    log(f"VRAM: {torch.cuda.get_device_properties(0).total_memory / 1e9:.1f} GB")
     log("Loading NLLB-200 3.3B + LoRA (L4 optimized)...")
 
     tokenizer = AutoTokenizer.from_pretrained("facebook/nllb-200-3.3B")
