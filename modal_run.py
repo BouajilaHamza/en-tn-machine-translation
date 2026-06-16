@@ -394,18 +394,39 @@ def main(mode="full"):
     log(f"CSV: {len(csv_data)} bytes")
 
     if mode == "eval":
-        # The volume only exists inside containers, so existence is checked
-        # remotely inside evaluate() rather than here on the local host.
         sft = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-sft")
         log(f"SFT: {sft}")
         dpo = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta0.3")
         log(f"DPO: {dpo}")
         return
 
+    if mode == "resume":
+        # Data + SFT already done on volume — pick up from DPO
+        log("Resuming: skipping prepare_data and train_sft (already on volume)")
+        log("Step 3/4: Generating DPO data...")
+        generate_dpo.remote()
+        log("Step 4/4: Training DPO...")
+        train_dpo.remote(beta=0.3, max_steps=400)
+        log("Evaluating...")
+        sft = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-sft")
+        log(f"SFT: {sft}")
+        dpo = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta0.3")
+        log(f"DPO: {dpo}")
+        log(f"FINAL — SFT: {sft}  |  DPO: {dpo}")
+        return
+
+    # Full pipeline from scratch
+    log("Step 1/4: Preparing data...")
     prepare_data.remote(csv_data)
+    log("Step 2/4: Training SFT...")
     train_sft.remote(max_steps=600)
+    log("Step 3/4: Generating DPO data...")
     generate_dpo.remote()
+    log("Step 4/4: Training DPO...")
     train_dpo.remote(beta=0.3, max_steps=400)
+    log("Evaluating...")
     sft = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-sft")
+    log(f"SFT: {sft}")
     dpo = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta0.3")
+    log(f"DPO: {dpo}")
     log(f"FINAL — SFT: {sft}  |  DPO: {dpo}")
