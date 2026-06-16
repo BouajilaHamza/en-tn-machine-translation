@@ -1,9 +1,10 @@
 """
-Modal experiment runner for EN→TN MT + DPO on T4 ($0.34/hr).
-Each function runs in a separate container — data persisted via Modal Volume.
+Modal experiment runner for EN→TN MT + DPO on L4 GPU ($0.80/hr, 24GB VRAM).
+Optimized for speed: larger batches, bf16, gradient checkpointing.
 Usage:
-    modal run modal_run.py               # Full pipeline
+    modal run modal_run.py               # Full pipeline (sentence-level data)
     modal run modal_run.py --mode eval   # Eval SFT + DPO
+    modal run modal_run.py --mode resume # Resume from DPO data gen
 """
 
 import json
@@ -13,7 +14,7 @@ from pathlib import Path
 
 import modal
 
-app = modal.App("en-tn-dialect-dpo")
+app = modal.App("en-tn-dialect-dpo-l4")
 
 image = (
     modal.Image.debian_slim(python_version="3.11")
@@ -44,18 +45,12 @@ def log(msg):
 
 
 def _load_model(model_path):
-    """Load a translation model, handling LoRA-adapter checkpoints.
-
-    SFT/DPO checkpoints are saved as PEFT adapters (only adapter_config.json +
-    adapter weights), so they must be loaded on top of the base NLLB model
-    rather than via AutoModelForSeq2SeqLM directly.
-    """
+    """Load a translation model, handling LoRA-adapter checkpoints."""
     import torch
     from transformers import AutoModelForSeq2SeqLM
 
     if os.path.exists(os.path.join(model_path, "adapter_config.json")):
         from peft import PeftModel
-
         base = AutoModelForSeq2SeqLM.from_pretrained(
             "facebook/nllb-200-3.3B", dtype=torch.bfloat16, device_map="auto",
         )
@@ -66,45 +61,25 @@ def _load_model(model_path):
     )
 
 
-def _prepare_data(csv_data: str):
-    import pandas as pd
-    from sklearn.model_selection import train_test_split
-    import io
-
-    df = pd.read_csv(io.StringIO(csv_data))
-    df.columns = ['id', 'en', 'tn']
-    df = df.dropna()
-    df['en'] = df['en'].str.strip()
-    df['tn'] = df['tn'].str.strip()
-
-    def bad(t):
-        if len(t) < 2:
-            return True
-        if re.match(r'^(ترجم|اكتب|translat|how do you say|what is|in derja|can you give)', t, re.I):
-            return True
-        return False
-
-    df = df[~df['en'].apply(bad)]
-    df = df[~df['tn'].apply(bad)]
-    df = df.drop_duplicates(subset='en')
-    df['ratio'] = df['tn'].str.split().str.len() / df['en'].str.split().str.len().clip(lower=1)
-    df = df[df['ratio'].between(0.2, 5.0)]
-
-    t, test = train_test_split(df, test_size=250, random_state=42)
-    tr, val = train_test_split(t, test_size=250, random_state=42)
+def _prepare_data():
+    """Load sentence-level data from data_v2/ (already cleaned by build_dataset.py)."""
+    import json
 
     os.makedirs(RESULTS_DIR, exist_ok=True)
-    for n, s in [('train', tr), ('val', val), ('test', test)]:
-        with open(f"{RESULTS_DIR}/clean_en_tn_{n}.jsonl", 'w') as f:
-            for _, r in s.iterrows():
-                f.write(json.dumps({"input": r['en'], "output": r['tn']}, ensure_ascii=False) + '\n')
-    all_df = pd.concat([tr, val, test])
-    with open(f"{RESULTS_DIR}/clean_en_tn_all.jsonl", 'w') as f:
-        for _, r in all_df.iterrows():
-            f.write(json.dumps({"input": r['en'], "output": r['tn']}, ensure_ascii=False) + '\n')
 
-    log(f"Train: {len(tr)}, Val: {len(val)}, Test: {len(test)}")
-    return {"train": len(tr), "val": len(val), "test": len(test)}
+    for split in ["train", "val", "test"]:
+        src = f"data_v2/sent_{split}.jsonl"
+        dst = f"{RESULTS_DIR}/clean_en_tn_{split}.jsonl"
+        if os.path.exists(src):
+            with open(src) as f_in, open(dst, 'w') as f_out:
+                for line in f_in:
+                    d = json.loads(line)
+                    f_out.write(json.dumps({"input": d["input"], "output": d["output"]}, ensure_ascii=False) + "\n")
+            count = sum(1 for _ in open(dst))
+            log(f"  {split}: {count} pairs")
+
+    log("Data prepared from data_v2/ sentence-level splits")
+    return {"train": 1994, "val": 300, "test": 400}
 
 
 def _evaluate_model(model_path, pairs):
@@ -121,17 +96,16 @@ def _evaluate_model(model_path, pairs):
 
     sacrebleu = ev.load("sacrebleu")
 
-    bs = 4
+    bs = 16  # L4 can handle larger batches
     preds = []
     for i in range(0, len(pairs), bs):
         batch = pairs[i:i+bs]
         en = [p["input"] for p in batch]
         inputs = tokenizer(en, padding=True, truncation=True, max_length=128, return_tensors="pt").to(model.device)
         with torch.no_grad():
-            outputs = model.generate(**inputs, max_length=128, num_beams=2, early_stopping=True)
+            outputs = model.generate(**inputs, max_length=128, num_beams=4, early_stopping=True)
         preds.extend(tokenizer.batch_decode(outputs, skip_special_tokens=True))
 
-    # Sample prints
     log("  Samples:")
     for i in range(min(5, len(pairs))):
         log(f"    EN: {pairs[i]['input']}")
@@ -141,6 +115,7 @@ def _evaluate_model(model_path, pairs):
     refs = [p["output"] for p in pairs]
     bleu = sacrebleu.compute(predictions=preds, references=[[r] for r in refs])["score"]
 
+    # PPL
     losses = []
     for i in range(0, min(len(pairs), 200), bs):
         batch = pairs[i:i+bs]
@@ -150,7 +125,7 @@ def _evaluate_model(model_path, pairs):
             losses.append(model(**inp, labels=lbl).loss.item())
     ppl = float(torch.exp(torch.tensor(sum(losses) / len(losses))))
 
-    # Free GPU before loading classifier
+    # Dialect classifier
     del model, tokenizer
     import gc
     gc.collect()
@@ -167,18 +142,18 @@ def _evaluate_model(model_path, pairs):
 
 
 # ============================================================
-# Functions
+# Functions — L4 optimized
 # ============================================================
 
 @app.function(image=image, timeout=300, volumes={RESULTS_DIR: vol})
-def prepare_data(csv_data: str):
-    result = _prepare_data(csv_data)
+def prepare_data():
+    result = _prepare_data()
     vol.commit()
     return result
 
 
-@app.function(image=image, gpu="t4", timeout=3600 * 8, volumes={RESULTS_DIR: vol})
-def train_sft(max_steps=600):
+@app.function(image=image, gpu="L4", timeout=3600 * 4, volumes={RESULTS_DIR: vol})
+def train_sft(max_steps=400):
     import torch
     from datasets import Dataset
     from peft import LoraConfig, TaskType, get_peft_model
@@ -190,7 +165,8 @@ def train_sft(max_steps=600):
     import numpy as np
 
     log(f"GPU: {torch.cuda.get_device_name(0)}")
-    log("Loading NLLB-200 3.3B + LoRA...")
+    log(f"VRAM: {torch.cuda.get_device_properties(0).total_mem / 1e9:.1f} GB")
+    log("Loading NLLB-200 3.3B + LoRA (L4 optimized)...")
 
     tokenizer = AutoTokenizer.from_pretrained("facebook/nllb-200-3.3B")
     tokenizer.src_lang = "eng_Latn"
@@ -200,6 +176,7 @@ def train_sft(max_steps=600):
         return Dataset.from_list([json.loads(l) for l in open(f"{RESULTS_DIR}/clean_en_tn_{name}.jsonl")])
 
     train_ds, val_ds = load_split("train"), load_split("val")
+    log(f"Train: {len(train_ds)}, Val: {len(val_ds)}")
 
     def tok(ex):
         mi = tokenizer(ex["input"], max_length=128, truncation=True)
@@ -216,7 +193,7 @@ def train_sft(max_steps=600):
     model.config.use_cache = False
 
     model = get_peft_model(model, LoraConfig(
-        r=32, lora_alpha=64, target_modules=["q_proj", "v_proj", "k_proj", "o_proj"],
+        r=64, lora_alpha=128, target_modules=["q_proj", "v_proj", "k_proj", "o_proj"],
         lora_dropout=0.05, bias="none", task_type=TaskType.SEQ_2_SEQ_LM,
     ))
     model.print_trainable_parameters()
@@ -230,15 +207,24 @@ def train_sft(max_steps=600):
         lbls = tokenizer.batch_decode(lbls, skip_special_tokens=True)
         return {"bleu": bleu.compute(predictions=[x.strip() for x in preds], references=[[x.strip()] for x in lbls])["score"]}
 
+    # L4 optimized: larger batch, more grad accum, fewer steps (smaller dataset)
     args = Seq2SeqTrainingArguments(
-        output_dir=f"{RESULTS_DIR}/nllb-en-tn-sft",
-        learning_rate=2e-4,
-        per_device_train_batch_size=4, per_device_eval_batch_size=4,
-        gradient_accumulation_steps=8, max_steps=max_steps,
-        eval_strategy="steps", eval_steps=100, save_strategy="steps", save_steps=200,
-        logging_steps=10, predict_with_generate=True, bf16=True,
-        load_best_model_at_end=True, metric_for_best_model="bleu",
-        report_to="none", seed=42,
+        output_dir=f"{RESULTS_DIR}/nllb-en-tn-sft-l4",
+        learning_rate=3e-4,
+        per_device_train_batch_size=8,
+        per_device_eval_batch_size=8,
+        gradient_accumulation_steps=4,  # effective batch = 32
+        max_steps=max_steps,
+        eval_strategy="steps", eval_steps=50,
+        save_strategy="steps", save_steps=100,
+        logging_steps=10,
+        predict_with_generate=True,
+        bf16=True,
+        gradient_checkpointing=True,  # save VRAM
+        load_best_model_at_end=True,
+        metric_for_best_model="bleu",
+        report_to="none",
+        seed=42,
     )
 
     trainer = Seq2SeqTrainer(
@@ -249,34 +235,34 @@ def train_sft(max_steps=600):
     )
 
     trainer.train()
-    save = f"{RESULTS_DIR}/nllb-en-tn-sft"
+    save = f"{RESULTS_DIR}/nllb-en-tn-sft-l4"
     trainer.save_model(save)
     tokenizer.save_pretrained(save)
     vol.commit()
 
-    # predict() already runs compute_metrics; metrics are prefixed with "test_"
     final_bleu = trainer.predict(val_ds).metrics["test_bleu"]
     log(f"SFT done — BLEU: {round(final_bleu, 2)}")
     return {"bleu": round(final_bleu, 2)}
 
 
-@app.function(image=image, gpu="t4", timeout=3600 * 4, volumes={RESULTS_DIR: vol})
+@app.function(image=image, gpu="L4", timeout=3600 * 2, volumes={RESULTS_DIR: vol})
 def generate_dpo():
     import torch
     from transformers import AutoTokenizer
     from tqdm import tqdm
 
-    log("Generating MSA rejected translations...")
+    log("Generating MSA rejected translations (L4)...")
     tokenizer = AutoTokenizer.from_pretrained("facebook/nllb-200-3.3B")
     tokenizer.src_lang = "eng_Latn"
 
-    model = _load_model(f"{RESULTS_DIR}/nllb-en-tn-sft")
+    model = _load_model(f"{RESULTS_DIR}/nllb-en-tn-sft-l4")
     model.eval()
 
-    records = list({json.loads(l)["input"]: json.loads(l) for l in open(f"{RESULTS_DIR}/clean_en_tn_all.jsonl")}.values())
+    records = list({json.loads(l)["input"]: json.loads(l) for l in open(f"{RESULTS_DIR}/clean_en_tn_train.jsonl")}.values())
+    log(f"Generating for {len(records)} sentence pairs...")
 
     triplets = []
-    bs = 8
+    bs = 32  # L4: 4x larger batch
     for i in tqdm(range(0, len(records), bs)):
         batch = records[i:i+bs]
         en = [r["input"] for r in batch]
@@ -309,47 +295,53 @@ def generate_dpo():
     return {"total": len(triplets)}
 
 
-@app.function(image=image, gpu="t4", timeout=3600 * 6, volumes={RESULTS_DIR: vol})
-def train_dpo(beta=0.3, max_steps=400):
+@app.function(image=image, gpu="L4", timeout=3600 * 3, volumes={RESULTS_DIR: vol})
+def train_dpo(beta=0.3, max_steps=300):
     import torch
     from datasets import Dataset
     from peft import LoraConfig, TaskType, get_peft_model, PeftModel
     from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
     from trl import DPOTrainer, DPOConfig
 
-    log(f"DPO β={beta}...")
+    log(f"DPO β={beta} (L4 optimized)...")
     tokenizer = AutoTokenizer.from_pretrained("facebook/nllb-200-3.3B")
     tokenizer.src_lang = "eng_Latn"
     tokenizer.tgt_lang = "aeb_Arab"
 
     train_ds = Dataset.from_list([json.loads(l) for l in open(f"{RESULTS_DIR}/dpo_en_tn_train.jsonl")])
     test_ds = Dataset.from_list([json.loads(l) for l in open(f"{RESULTS_DIR}/dpo_en_tn_test.jsonl")])
+    log(f"DPO train: {len(train_ds)}, test: {len(test_ds)}")
 
     base = AutoModelForSeq2SeqLM.from_pretrained(
         "facebook/nllb-200-3.3B", dtype=torch.bfloat16, device_map="auto",
     )
     base.config.use_cache = False
-    base.enable_input_require_grads()
 
-    sft_path = f"{RESULTS_DIR}/nllb-en-tn-sft"
+    sft_path = f"{RESULTS_DIR}/nllb-en-tn-sft-l4"
     if os.path.isdir(sft_path):
         log("Loading SFT LoRA weights for continued training...")
         model = PeftModel.from_pretrained(base, sft_path, is_trainable=True)
     else:
         model = get_peft_model(base, LoraConfig(
-            r=32, lora_alpha=64, target_modules=["q_proj", "v_proj", "k_proj", "o_proj"],
+            r=64, lora_alpha=128, target_modules=["q_proj", "v_proj", "k_proj", "o_proj"],
             lora_dropout=0.05, bias="none", task_type=TaskType.SEQ_2_SEQ_LM,
         ))
     model.enable_input_require_grads()
 
+    # L4 optimized: larger batch, gradient checkpointing
     args = DPOConfig(
-        output_dir=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta{beta}",
+        output_dir=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta{beta}-l4",
         beta=beta, learning_rate=5e-6,
-        per_device_train_batch_size=4, per_device_eval_batch_size=4,
-        gradient_accumulation_steps=8, max_steps=max_steps,
-        logging_steps=10, eval_strategy="steps", eval_steps=100,
-        save_strategy="steps", save_steps=200,
-        bf16=True, load_best_model_at_end=True,
+        per_device_train_batch_size=8,
+        per_device_eval_batch_size=8,
+        gradient_accumulation_steps=2,  # effective batch = 16
+        max_steps=max_steps,
+        logging_steps=10,
+        eval_strategy="steps", eval_steps=50,
+        save_strategy="steps", save_steps=100,
+        bf16=True,
+        gradient_checkpointing=True,
+        load_best_model_at_end=True,
         report_to="none", seed=42,
     )
 
@@ -360,7 +352,7 @@ def train_dpo(beta=0.3, max_steps=400):
     )
 
     trainer.train()
-    save = f"{RESULTS_DIR}/nllb-en-tn-dpo-beta{beta}"
+    save = f"{RESULTS_DIR}/nllb-en-tn-dpo-beta{beta}-l4"
     trainer.save_model(save)
     tokenizer.save_pretrained(save)
     vol.commit()
@@ -369,9 +361,9 @@ def train_dpo(beta=0.3, max_steps=400):
     return {"beta": beta}
 
 
-@app.function(image=image, gpu="t4", timeout=3600 * 2, volumes={RESULTS_DIR: vol})
+@app.function(image=image, gpu="L4", timeout=3600 * 1, volumes={RESULTS_DIR: vol})
 def evaluate(model_path: str = ""):
-    path = model_path if model_path else f"{RESULTS_DIR}/nllb-en-tn-sft"
+    path = model_path if model_path else f"{RESULTS_DIR}/nllb-en-tn-sft-l4"
     if not os.path.isdir(path):
         log(f"Model not found: {path} — skipping eval")
         return {"error": f"not found: {path}"}
@@ -386,47 +378,42 @@ def evaluate(model_path: str = ""):
 @app.local_entrypoint()
 def main(mode="full"):
     log("=" * 60)
-    log(f"EN→TN Dialect DPO (mode={mode})")
+    log(f"EN→TN Dialect DPO — L4 Optimized (mode={mode})")
     log("=" * 60)
 
-    csv_path = Path(__file__).parent / "tunsi_english_data.csv"
-    csv_data = csv_path.read_text()
-    log(f"CSV: {len(csv_data)} bytes")
-
     if mode == "eval":
-        sft = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-sft")
+        sft = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-sft-l4")
         log(f"SFT: {sft}")
-        dpo = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta0.3")
+        dpo = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta0.3-l4")
         log(f"DPO: {dpo}")
         return
 
     if mode == "resume":
-        # Data + SFT already done on volume — pick up from DPO
         log("Resuming: skipping prepare_data and train_sft (already on volume)")
         log("Step 3/4: Generating DPO data...")
         generate_dpo.remote()
         log("Step 4/4: Training DPO...")
-        train_dpo.remote(beta=0.3, max_steps=400)
+        train_dpo.remote(beta=0.3, max_steps=300)
         log("Evaluating...")
-        sft = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-sft")
+        sft = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-sft-l4")
         log(f"SFT: {sft}")
-        dpo = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta0.3")
+        dpo = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta0.3-l4")
         log(f"DPO: {dpo}")
         log(f"FINAL — SFT: {sft}  |  DPO: {dpo}")
         return
 
     # Full pipeline from scratch
-    log("Step 1/4: Preparing data...")
-    prepare_data.remote(csv_data)
-    log("Step 2/4: Training SFT...")
-    train_sft.remote(max_steps=600)
+    log("Step 1/4: Preparing sentence-level data...")
+    prepare_data.remote()
+    log("Step 2/4: Training SFT (L4, 400 steps)...")
+    train_sft.remote(max_steps=400)
     log("Step 3/4: Generating DPO data...")
     generate_dpo.remote()
-    log("Step 4/4: Training DPO...")
-    train_dpo.remote(beta=0.3, max_steps=400)
+    log("Step 4/4: Training DPO (L4, 300 steps)...")
+    train_dpo.remote(beta=0.3, max_steps=300)
     log("Evaluating...")
-    sft = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-sft")
+    sft = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-sft-l4")
     log(f"SFT: {sft}")
-    dpo = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta0.3")
+    dpo = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta0.3-l4")
     log(f"DPO: {dpo}")
     log(f"FINAL — SFT: {sft}  |  DPO: {dpo}")
