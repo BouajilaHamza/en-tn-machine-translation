@@ -95,6 +95,19 @@ dialects** and can *reward MSA collapse*. This (a) motivates a fidelity-first ev
 - Raw `tunsi_english_data.csv` (13,037 rows): **66% single-word**, only **4% ≥4 words**.
 - ✅ `drejja_clean_sentences.jsonl`: **2,497 genuine EN→TN sentence pairs** (EN mean 4.5 words).
 
+**Status — `build_dataset.py` implemented (offline core run on local data):**
+- Merges `drejja_clean_sentences.jsonl` + `tunsi_english_data.csv`; strips garbage/
+  instruction leakage (`ترجم …`, 2,857 rows), dedups pairs + EN side (~3,000 rows),
+  length-ratio filter. Output dir `data_v2/`, with per-row provenance in `*.meta.jsonl`.
+- **Sentence track** (both sides multi-word): 2,694 → train 1,994 / val 300 / test 400.
+- **Lexical track** (dictionary glosses): 5,797 (`lex_all.jsonl`).
+- **Eval set is 100% authentic `drejja` sentences with ≥3-word targets** (reliable BLEU/chrF);
+  synthetic-English rows are auto-flagged `needs_human_verification`.
+- Optional, network-gated filters wired but not yet run: `--semantic_filter` (LaBSE alignment,
+  drops bad LLM pairs) and `--dialect_filter` (CAMeL DID classifier, drops MSA-leaning targets).
+- **Pending the HF parallel dataset** (`--hf_dataset <id>`, `en_origin=synthetic_en`) once
+  `huggingface.co` is allowlisted — it will become the dominant sentence-level source.
+
 **Plan:**
 1. **Define two tasks/sets explicitly and report both transparently:**
    - **(A) Sentence-level EN→TN** — train/eval primarily on `drejja_clean_sentences.jsonl`

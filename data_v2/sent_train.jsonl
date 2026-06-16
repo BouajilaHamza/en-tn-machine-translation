@@ -1,0 +1,1994 @@
+{"input": "he's more intelligent than that one", "output": "مْهَفْ عْلِيهْ"}
+{"input": "to sleep late, sleep in", "output": "رْقدْ إمَخِّرْ"}
+{"input": "You should talk with him gently so it doesn't turn into a problem.", "output": "ماذا بيك تحكي معاه بالسياسة بش متوليش مشكلة الحكاية."}
+{"input": "the pillars of Islam", "output": "اركان الاسلام"}
+{"input": "to have the same fond feelings for something, grow nostalgic", "output": "رَجَّعْلُو الحَنِينْ"}
+{"input": "he was stabbed to death", "output": "مَاتْ مَدْغُورْ"}
+{"input": "to lower the price, make a discount", "output": "أعْمْلِلنَّا رُومِيزْ"}
+{"input": "he acted like he wasn't there", "output": "حْسِبْ رُوحُو مَهُوشْ لَهْنَا"}
+{"input": "to annoy a lot, really frustrate", "output": "فَدُّو فِي رُوحُو"}
+{"input": "to brownnose, spy for a boss/teacher", "output": "إهِزْلُو فِي الُقفَّة"}
+{"input": "it is slow, long", "output": "سِي لُونْ"}
+{"input": "to saunter, drag one's legs while walking", "output": "كركر ساقيه"}
+{"input": "a small laugh, faint smile", "output": "ضحكه صغيره"}
+{"input": "something you hope for", "output": "حاجه مرجوه"}
+{"input": "to speak by revelation", "output": "تكلم بالوحي"}
+{"input": "I didn't expect, predict", "output": "مَاكُنْتِشْ مِتْوَقْعَةْ"}
+{"input": "only one piece of paper", "output": "وَرْقَة شَايْحَة"}
+{"input": "to lead to destruction, cause to perish", "output": "تْهِزْ لِلْهَاوِيَة"}
+{"input": "how many sugar cubes would you like?", "output": "قداه سكر"}
+{"input": "you feel bad for him, it makes you sad, things are hard for him", "output": "حَالْتُو يُرْثَى لَهَا"}
+{"input": "he made him live eternally in paradise", "output": "خَلّدو فِي الجَنَّة"}
+{"input": "the tide is coming in", "output": "بحر قدم"}
+{"input": "unlawful, illegal, against the law", "output": "ضد القانون"}
+{"input": "to give alms, give to a beggar", "output": "مِدْ حْوِيجَة لْرَبِّي"}
+{"input": "he got a loan", "output": "خذا قرض"}
+{"input": "to grow very angry and to go wild and evil", "output": "تَأَبَّطَ شَرْ"}
+{"input": "to heat up, prepare breakfast", "output": "سَخِّنْ الفْطُورْ"}
+{"input": "to put out a cigarette (to finish later)", "output": "جَيِّفْ سِيقَارُو"}
+{"input": "to start a family", "output": "كَوِّنْ عَايْلَةْ"}
+{"input": "death certificate, announcement of death", "output": "إعْلَانْ وَفَاةْ"}
+{"input": "not felt, light, not a big deal, intangible", "output": "مهوش محسوس"}
+{"input": "May God put curses far from us", "output": "رَبِّي بَعِّدْ عْلِينَا البْلَاءْ"}
+{"input": "to ask God for guidance before doing something", "output": "استخار ربي"}
+{"input": "to use one's time for something", "output": "وظف وقتو"}
+{"input": "it makes him angry, causes diabetes", "output": "إرَكَّبْلُو السُّكِّرْ"}
+{"input": "to bite one's fingernails", "output": "تْليّمْ الضْوَافِرْ"}
+{"input": "to clean a fish, prepare it for cooking", "output": "نظف الحوت"}
+{"input": "rich people of the country (crass)", "output": "كرز لبلاد"}
+{"input": "to void a contract", "output": "قَصّْ عَلْ الكُونْتْرَا"}
+{"input": "to look at someone up and down", "output": "هَزًّو وَ حَطًّو"}
+{"input": "to grant all powers", "output": "عْطَاهْ جَمِيعْ الصَلَاحِيَاتْ"}
+{"input": "set of gold jewelry", "output": "طَاقِمْ ذْهَبْ"}
+{"input": "He kept nagging me and calling me, bothering me because he wants me to give him money.", "output": "شد ما سيب بتاليفونات يمرج فيا يحبني نعطيه لفلوس"}
+{"input": "to make a profit", "output": "حَقَّقْ أَرْبَاحْ"}
+{"input": "to use force, violence", "output": "إسْتَعْمِلْ العْصَا"}
+{"input": "everyone went away, they're far from each other", "output": "كُلْ وَاحِدْ فِي شِيرَةْ"}
+{"input": "from the beginning to the end", "output": "ملول للخر"}
+{"input": "drop by drop, slowly, manner of irrigation", "output": "قطره قطره"}
+{"input": "cement (made with lime and clay)", "output": "خَلْطَة مْتَاعْ سِيمَانْ"}
+{"input": "In a state of readiness, at attention", "output": "فِي حَالَةْ إِسْتَعْدَادْ"}
+{"input": "he ended his life, committed suicide", "output": "وَفَّى أَيَّامَاتًو بِيدُو"}
+{"input": "GSM (text message, cell phone)", "output": "ج س م"}
+{"input": "not just a little, a decent amount", "output": "مُوشْ شْوَيَّةْ"}
+{"input": "prisoner of war camp", "output": "معسكر اعتقال"}
+{"input": "something likely to happen", "output": "حَاجَة وَارْدَة"}
+{"input": "to empty a shop, leave a shop", "output": "فضي لمحل"}
+{"input": "to amend a contract", "output": "نَقَّحْ عَقْدْ"}
+{"input": "he made a schedule", "output": "عْمَلْ أُنْبُلْوَا دُو تُونْ"}
+{"input": "to speak with your nose", "output": "حْكَى بْخَشْمُو"}
+{"input": "to make the finishing touches", "output": "عمل فينيسيون"}
+{"input": "to offer a sale, propose a sale", "output": "اقترح البيوع"}
+{"input": "to be holding onto political office", "output": "شاد كرسيه"}
+{"input": "to give money to the poor, to donate money", "output": "عْطَى فْلُوسُو لِزْوَاوْلَةْ"}
+{"input": "The guard took the door and closed it today and didn't let me go meet the director.", "output": "اليوم البواب شد الباب سكرو ماخلنيش ندخل نقابل المدير"}
+{"input": "very white, beautiful, pure", "output": "كِي الحْلِيبْ"}
+{"input": "to make fun of someone, mock", "output": "فَرَّكْهُمْ عْلِيهْ"}
+{"input": "to cast a net", "output": "لَوَّحْ الشِّبْكَةْ"}
+{"input": "to light a cigarette", "output": "شعل سيقارو"}
+{"input": "to hang something with clothespins", "output": "شدها بالشكاكل"}
+{"input": "in that place, spot", "output": "فَاكَا لِبْلَاصَةْ"}
+{"input": "unintentionally, not on purpose", "output": "مُوشْ بِلْعَانِي"}
+{"input": "half-baked, not fully cooked", "output": "نَاقِصْ طْيَابْ"}
+{"input": "reasonable prices, good prices", "output": "اسوام معقوله"}
+{"input": "he has a bad reputation", "output": "معروف بالخايب"}
+{"input": "a wise point of view, good opinion", "output": "رَأْي صَايِبْ"}
+{"input": "to quit over something small", "output": "عَلْ البَزْقَةْ يْشِدّْ فْرَانْ"}
+{"input": "a man and his wife", "output": "رَاجِلْ وْ مَرْتُو"}
+{"input": "to face things with care, slowly", "output": "خْذَا الأمُورْ بِالسْيَاسَة"}
+{"input": "empty space, free spot", "output": "اسپاص فارغ"}
+{"input": "to get a copy of your birth certificate", "output": "طلّعْ مَضْمُونْ"}
+{"input": "he's comfortable, at ease", "output": "مَاخُو رَاحْتُو"}
+{"input": "to make a request", "output": "قدم طلب"}
+{"input": "personal security, body gard", "output": "حارس شخصي"}
+{"input": "large, open traditional tent", "output": "بِيتْ شْعَرْ"}
+{"input": "Be careful not to pour out the oil on your clothes, because it leaves a spot that doesn’t come out of clothes.", "output": "رد بالك تكب الزيت على دبشك خاطرو يخلي تراس مايتنحش من الدبش"}
+{"input": "saw the light / salvation has come", "output": "را النور"}
+{"input": "middle school, junior high", "output": "مدرسه اعداديه"}
+{"input": "the loss of appetite", "output": "شَاهْيَة مَقْطُوعَة"}
+{"input": "worship of (intangible) idols", "output": "عباده الاوثان"}
+{"input": "to put pressure on someone, use your power", "output": "شَدِّدْ عْلِيهْ"}
+{"input": "bread made of barley", "output": "خبز شعير"}
+{"input": "to pay an advance, deposit for a hall (usually for wedding)", "output": "عَرْبِنْ عَ الصَّالَةْ"}
+{"input": "to cut into pieces", "output": "قَصْ تْرُوفْ تْرُوفْ"}
+{"input": "to get prepared for the wedding", "output": "حَضِّرْ لِلْعِرْسْ"}
+{"input": "Al-Hafsia church in Tunis", "output": "كنيسه الحفصيه"}
+{"input": "he went into the sea", "output": "دخل للبحر"}
+{"input": "to follow the new fad", "output": "رْكِبْ المُوجَة"}
+{"input": "to get someone on the right path by force", "output": "جابو للثنية بالسيف"}
+{"input": "to post something on line to sell it", "output": "هَبِّطْهَا عَلْ الأَنْتِرْنَاتْ بِشْ إِبِيعْهَا"}
+{"input": "he died by surprise", "output": "غدرو لموت"}
+{"input": "at the height of", "output": "في ارتفاع"}
+{"input": "he went there by foot", "output": "مْشَالْهَا كَعَّابِي"}
+{"input": "He took his seat and was well-behaved.", "output": "شد بلاصتو وبقى رايض"}
+{"input": "they don't meet because they don't agree, don't get along", "output": "مَا يَتْقَابْلُوشْ"}
+{"input": "may God protect us from it", "output": "عياذ بالله"}
+{"input": "notarization, official recognition of signature", "output": "تَعْرِيفْ بِالِإمْضَاءْ"}
+{"input": "he tends to, he's likely to", "output": "عَنْدُو تُونْدُونْسْ"}
+{"input": "he can't any more", "output": "سَايَا مَعَادِشْ يْنَجِّمْ"}
+{"input": "the frequency of events", "output": "تَوَاتُرْ الأَحْدَاثْ"}
+{"input": "he acts like an adult", "output": "تصرّف كيما الكبار"}
+{"input": "Fertilize the trees well; let this year be abundant.", "output": "غبر الشجر مليح خلي يجينا عام صابة"}
+{"input": "to prepare for something, be ready", "output": "قْرَى حِسَابْ حَاجَةْ"}
+{"input": "his face became yellow from surprise or fear", "output": "وجهو صفار"}
+{"input": "it's hard to believe", "output": "صْعِيبَةْ تِتْصَدَّقْ"}
+{"input": "the price is reasonable", "output": "سُومْ مُسْتْحَبْ"}
+{"input": "close neighbor, good friend", "output": "جار الساس"}
+{"input": "to make a trap, ambush", "output": "عملو كمين"}
+{"input": "he has an exhausting and miserable life", "output": "حياتو صلاتة"}
+{"input": "he's not allowed to work in the public sector", "output": "مَعَنْدُوشْ الحَقّْ فِي الوَظِيفَةْ العُمُومِيَّةْ"}
+{"input": "to make a trap, to set a trap", "output": "عمل بياج"}
+{"input": "divorce by mutual consent", "output": "طلاق بالتراضي"}
+{"input": "I'm going to go to the town hall tomorrow to take care of my papers.", "output": "غدوة باش نمشي للبلدية نڨد أوراقي."}
+{"input": "he doesn't listen to gossip", "output": "مَيَعْطِيشْ وِذْنُو"}
+{"input": "fruit cocktail with bananas and milk", "output": "لَا دْ بُولْ"}
+{"input": "injection used for the death penalty", "output": "زُرِّيقَة الهْوَا"}
+{"input": "New Year's day in the Muslim calendar", "output": "رَاسْ العَامْ الهِجْرِي"}
+{"input": "he has his share, part", "output": "عندو باي"}
+{"input": "to waste money, spend a lot of money", "output": "لَوَّحْ فْلُوسْ"}
+{"input": "to repent before God", "output": "تاب لربي"}
+{"input": "he's always longing for something (cigarette, hookah, etc.)", "output": "دِيمَا مْحَشِّشْ"}
+{"input": "hick accent, countryside language", "output": "لُغِةْ جْبُورَةْ"}
+{"input": "his position remained unmoved", "output": "مَوْقْفُو قْعَدْ ثَابِتْ"}
+{"input": "it kept (the team) from being relegated", "output": "مَنَّعْهَا مِ الطُّيُوحْ"}
+{"input": "to get lots of money", "output": "ضْرَبْ الدَزَّةْ"}
+{"input": "he gets angry easily", "output": "فِيسَعْ مَا يَتْنَرْفِزْ"}
+{"input": "If you want to become tougher, eat a lot of protein and exercise a lot.", "output": "تحب تغول كول برشة بروتيين و أعمل برشة سبور"}
+{"input": "to quit school; drop out", "output": "بَطِّلْ القْرَايَة"}
+{"input": "to draw/drag water with a squeegee", "output": "جْبِدْ بِالسَّلَّاتَا"}
+{"input": "it doesn't fit, it doesn't work", "output": "مَا تَنْطَبِقِشْ"}
+{"input": "to pass on, connect electricity", "output": "عَدَّى الضَوْ"}
+{"input": "may you get sick (curse)", "output": "بو مراض"}
+{"input": "he has nothing to do with, isn't connected to", "output": "مَعَنْدُوشْ عَلاَقَةْ بِ"}
+{"input": "it becomes her, fits her, looks good on her", "output": "تْجِي عْلِيهَا"}
+{"input": "to ashame, embarrass someone, make someone do what is rightsocially", "output": "حَشْمُوهْ عْلَى رُوحُو"}
+{"input": "they didn't work well together, they didn't agree", "output": "مَا تْفَاهْمُوشْ"}
+{"input": "party clothes, fancy clothes", "output": "لبسه سواري"}
+{"input": "it's not my favorite, my cup of tea", "output": "مَهُوشْ جَوِّي"}
+{"input": "very busy, has a lot of work", "output": "شارجا بالخدمة"}
+{"input": "piece or tract of land", "output": "طبه ارض"}
+{"input": "his way, as he wants", "output": "علي كيفو"}
+{"input": "to change the route, path", "output": "بدللها الثنية"}
+{"input": "Superintendent, principal at school", "output": "قَيّمْ عَامْ"}
+{"input": "to improve yourself, get out of a bad situation", "output": "سَلِّكْ رُوحُو"}
+{"input": "I no longer respect him, he's lost respect", "output": "طَاحْ مِنْ عِينُو"}
+{"input": "to be snobby, act better than others, be prideful", "output": "دَازْ خَشْمُو"}
+{"input": "After all that he had done, he repented and walked on the straight path.", "output": "بعد لعمايل الي عملها الكل تاب و شد الطريق المستقيم"}
+{"input": "to greet, handshake, hold tightly", "output": "كْبِسْ عَلِيهْ"}
+{"input": "he is frustrated, confused", "output": "داخل بعضه"}
+{"input": "he went and kept looking back", "output": "مْشَى يِتْلَفِّتْ"}
+{"input": "Having a bad reputation", "output": "مَنْعُوت بِالصْبُعْ"}
+{"input": "rights to a company and its location", "output": "فُونْ دْ كُومَارِسْ"}
+{"input": "he got his freedom", "output": "خْذَا حُرِّيتُو"}
+{"input": "we ate together and are trusted friends", "output": "كْلِينَا المَاءْ وَ المِلْحْ"}
+{"input": "to put out, extinguish with water", "output": "طفاها بالماء"}
+{"input": "to get married, sign the marriage contract", "output": "كْتِبْ صْدَاقْ"}
+{"input": "a man of his word", "output": "راجل بكلمتو"}
+{"input": "he's letting his hair grow out and isn't brushing it", "output": "هَيِّجْ شَعْرُو"}
+{"input": "in his place, shop, house", "output": "في محلو"}
+{"input": "he has no principles, he doesn't believe in anything", "output": "مَا عَنْدُوشْ بْرَانْسِيبْ"}
+{"input": "someone who depends on himself (older word)", "output": "سيد روحو"}
+{"input": "to give to charity, give to poor", "output": "عْطَى صَدْقَةْ"}
+{"input": "to assume power, take power", "output": "تْوَلَّي السُّلْطَة"}
+{"input": "to come into the world, arrive, be born", "output": "جا للدنيا"}
+{"input": "his knees are showing, he rolled up his pants", "output": "مَعَرِّي رَكَايْبُو"}
+{"input": "he made a fool of himself", "output": "قَرِّدْ رُوحُو"}
+{"input": "dirty person, evil and perverted", "output": "فُلَانْ زَبّالْ"}
+{"input": "he's hospitable, provides for guests", "output": "مَا يْخَلِّيشْ الضّْيُوفْ نَاقْصِينْ حَاجَةْ"}
+{"input": "to welcome people, treat them well", "output": "فْرَحْ بِلْعْبَادْ"}
+{"input": "to have a dish of something", "output": "عمل صحن"}
+{"input": "to clean one's nose, blow one's nose", "output": "ينظف خشمو"}
+{"input": "to commit a crime", "output": "عمل جريمه"}
+{"input": "to be distributed in all directions", "output": "تْوَزْعُو فِي الشِّيرَاتْ الكُلْ"}
+{"input": "he didn't find what he was looking for", "output": "ما لقاش حاجتو"}
+{"input": "he gave false testimony", "output": "شهد بالزّور"}
+{"input": "once upon a time", "output": "نْهَارْ مِ النْهَارَاتْ"}
+{"input": "to drink a lot", "output": "شرب برشا"}
+{"input": "to contact someone, catch up to someone", "output": "التحق بشخص"}
+{"input": "he left it incomplete", "output": "خَلَّاهَا ما َهِيشْ كَامْلَة"}
+{"input": "her face is ugly, turns you off", "output": "وجها اعيف"}
+{"input": "Her friend held it over her and always threatened her.", "output": "صاحبها شد عليها البروفا وديما يهدد فيها"}
+{"input": "to hardly control onself", "output": "شَادّْ رُوحُو بِالسِّيفْ"}
+{"input": "to make a complaint, ask for something to be fixed", "output": "عْمَلْ رِكْلَامَاسْيُونْ"}
+{"input": "he acted like a man with him, was faithful", "output": "إسترجل معاه"}
+{"input": "a clever, tricky person", "output": "واحد حلوف"}
+{"input": "to cut into slices", "output": "قَصّْ تْرُونْشَاتْ"}
+{"input": "The hearing was adjourned", "output": "رُفِعَتْ الجَلْسَة"}
+{"input": "he made a suggestion", "output": "عطي اقتراح"}
+{"input": "someone with contacts, high up", "output": "وَاحِدْ وَاصِلْ"}
+{"input": "in love with her, has a crush on", "output": "مَضْرُوبْ فِيهَا"}
+{"input": "to offer someone money", "output": "بروبوزى عليه فلوس"}
+{"input": "you can count on him", "output": "تْنَجِّمْ تعمل عْلِيهْ"}
+{"input": "to sign (sign language)", "output": "حكي بالاشارات"}
+{"input": "He's going to take himself to destruction.", "output": "بش يهز روحو للتهلكة"}
+{"input": "the ambiance of the Eid", "output": "جَوّْ العِيدْ"}
+{"input": "young man (usually to criticize)", "output": "سي شباب"}
+{"input": "to bring up a subject", "output": "جبد موضوع"}
+{"input": "he yelled at him", "output": "عَيِّطْ عْلِيهْ"}
+{"input": "what is your opinion? What do you think?", "output": "شنوّا رايكم"}
+{"input": "Champs Elysées, main street of Paris", "output": "شُونْ زٍلِيزِي"}
+{"input": "they kept it going, finished them off", "output": "كَمْلُو عْلَاهُمْ"}
+{"input": "ruling based on equality", "output": "حُكْمْ بِالمُسَاوَاةْ"}
+{"input": "Messi got into a pattern of scoring every match.", "output": "ميسي شد الريتم متاع التسجيل في كل ماتش"}
+{"input": "to have done a favor for someone", "output": "عَامِلْ عْلِيهْ مْزِيَّةْ"}
+{"input": "to quit thinking about, forget", "output": "فرغ مخو"}
+{"input": "to put gel in your hair", "output": "حَطْ جَالْ"}
+{"input": "to stay at home, always be at home", "output": "شَادْ الدَّارْ"}
+{"input": "to strike with a belt", "output": "عْطَاهَا شَحْطَةْ"}
+{"input": "he dares to bother him constantly", "output": "خْرَطْ عْلِيهْ"}
+{"input": "he realized he had made a mistake, was wrong", "output": "فْهِمْ رُوحُو غَالِطْ"}
+{"input": "they discovered what happened, figured it out", "output": "اكتشفو الحكايه"}
+{"input": "to review the lesson, prepare the lesson", "output": "حَضِّرْ فِي الكُورْ"}
+{"input": "cousin (on maternal uncle's side)", "output": "بنت خال"}
+{"input": "to respect, treat according to his value", "output": "عْطَاهْ قِيمْتُو"}
+{"input": "to change one's haircuts", "output": "بَدِّلْ المَشْطَة"}
+{"input": "related, from our family", "output": "مِلْ العَايْلَةْ"}
+{"input": "pretending to be someone smart (crass)", "output": "لَاعِبْهَا قَحْبُونْ"}
+{"input": "cousin (on maternal aunt's side)", "output": "بنت خالتي"}
+{"input": "he doesn't talk, is really quiet", "output": "وَادْ سَاكِتْ"}
+{"input": "elite institute; elite school", "output": "معهد نموذجي"}
+{"input": "Amin has a car and put it online to sell it.", "output": "أمين عندو كرهبا هبطها عل الأنترنات بش إبيعها"}
+{"input": "to do a pedicure/manicure, to groom nails", "output": "تَعْمِلْ مَانِيكِيرْ فِي ضْوَافِرْهَا"}
+{"input": "crazy for her, can't stop thinking about her", "output": "مْهَلْوِسْ بِيهَا"}
+{"input": "to agree by mutual consent, to be in accord", "output": "تْفَاهْمُو بِالتَّرَاضِي"}
+{"input": "he didn't get anything, understand anything", "output": "مَفْهِمْ حَتَّى شَيْ"}
+{"input": "an idea came into his mind", "output": "خُطْرِتْ عَلَى بَالُو"}
+{"input": "to memorize very well", "output": "حْفَظْ شَرْبَة مَاءْ"}
+{"input": "he is out of patience", "output": "وْفَالُو الصَّبْرْ"}
+{"input": "he's not sensitive, has no feelings", "output": "قَلْبُو عَلْ يْمِينْ"}
+{"input": "not sure of himself", "output": "مُوشْ وَاثِقْ مِنْ رُوحُو"}
+{"input": "he entrusted him with a responsibility", "output": "حَمْلُو المَسْؤُولِيَّة"}
+{"input": "to do the same thing back to that person", "output": "رَجَّعْلُو فَازْتُو"}
+{"input": "to encourage, cheer up", "output": "طَلَّعْ المُورَالْ"}
+{"input": "revision of the law, amending", "output": "تنقيح القانون"}
+{"input": "to fast without eating breakfast", "output": "صَامْ عَ الشَّايَحْ"}
+{"input": "they couldn't keep up with him", "output": "مَا سِبْقُهُوشْ"}
+{"input": "to live with no goal, pointlessly", "output": "عَاشْ عَلْ هَامِشْ"}
+{"input": "he's really skinny, has long cheeks", "output": "وِجُّو مَمْصُوصْ"}
+{"input": "to hold a wedding or party", "output": "عْمَلْ فَرْحْ"}
+{"input": "to rot as a corpse, decompose, stink", "output": "تعفن الجثه"}
+{"input": "doesn't keep his word, not trustworthy", "output": "مِشَ رَاجِلْ"}
+{"input": "he came back to life", "output": "قام مالموت"}
+{"input": "he's heartless, has no feelings", "output": "مَعَنْدُوشْ إِحْسَاسْ"}
+{"input": "to make an offering", "output": "قَدِّمْ قٌرْبَانْ"}
+{"input": "to become aware, grow up", "output": "شم سنانو"}
+{"input": "to infringe property rights", "output": "تْعَدِّي عَلْ المِلْكِيَّة"}
+{"input": "to have patience, long-suffering", "output": "عَنْدُو السُّوفِلْ"}
+{"input": "God loved him, he's lucky, blessed", "output": "حبو ربي"}
+{"input": "he betrayed her with another woman", "output": "خَانْهَا مْعَ مْرَا أخْرَى"}
+{"input": "he took a moment", "output": "خذا لحظه"}
+{"input": "to solve an equation", "output": "إحِلْ لاَكْوَاسْيُونْ"}
+{"input": "to bring a bailiff to the house", "output": "جَابْ العْدُولْ لِلْدَارْ"}
+{"input": "leave me alone, don't bother me (slang)", "output": "سيّب صالح"}
+{"input": "Open the envelope and let's see what's in it.", "output": "حل الماصو خلي نشوفو شنوا فيه"}
+{"input": "he was the last one", "output": "جَا لِخْرانِي"}
+{"input": "he's always after women, prostitutes", "output": "مَارْكَةْ قْحَابْ"}
+{"input": "depending on the mood", "output": "حَسْبْ الجَوُ"}
+{"input": "he doesn't eat or use more than necessary of something", "output": "مَا يَكَثِّرِشْ مِنْ"}
+{"input": "disappeared like a piece of salt", "output": "ذَابْ كِي المِلْحَة"}
+{"input": "he is valuable, you can't do without him", "output": "مَا تِسْتَغْنَاشْ عَلِيهْ"}
+{"input": "a woman's first husband", "output": "رَاجِلْهَا لُولَانِي"}
+{"input": "proverbs or wisdom of previous generations", "output": "كلام الجدود"}
+{"input": "El Azhar Mosque in Cairo", "output": "جامع الازهر"}
+{"input": "to face something difficult and not say anything or do anything", "output": "كْلَاهَا فِي عْضَامُو"}
+{"input": "he believed a wrong idea", "output": "دَخْلِتْ لْمُخُّو مَعْلُومَة غَالْطَة"}
+{"input": "He dreamt a lot and imagined that life was easy; then he ran into reality.", "output": "حلم برشا وكان يستخايل الدنيا ساهلا ، ياخي بعديكا تصدم بالواقع"}
+{"input": "standing like a statue", "output": "واقف صنبه"}
+{"input": "the first lady, president's wife", "output": "مَعَالِي حَرَمْ سِيَادَةْ رَئِيسْ الجُمْهُورِيَّةْ"}
+{"input": "he got a licence, permit", "output": "خْذَا رُخْصَة"}
+{"input": "to show to everyone", "output": "توري للعيان"}
+{"input": "he was proved to be innocent after all the bad things he has done", "output": "خْرَجْ صَابُونُو نْظِيفْ"}
+{"input": "to be still awake", "output": "بقي فايق"}
+{"input": "Palm of the hand", "output": "كف اليد"}
+{"input": "he always does the same thing", "output": "دِيمَا يَعْمِلْ نَفْسْ الحَاجَة"}
+{"input": "to make extra money, invest one's money", "output": "دَوِّرْ الزِّيرُو"}
+{"input": "to lay tiles in the house", "output": "جَلِّزْ الدَّارْ"}
+{"input": "according to expectations, the report", "output": "حسب التوقعات"}
+{"input": "I'm going to the federation tomorrow to bring the prizes for the players.", "output": "غدوة باش نمشي للفيديراسيون باش نجيب الاجازات متع الملاعبية"}
+{"input": "Jugurtha's table (mountain in Kef)", "output": "مَايْدَةْ يُوغُرْطَةْ"}
+{"input": "he didn't greet him", "output": "مَسَلِّمِشْ عَلِيهْ"}
+{"input": "to fill with a cup, small pitcher", "output": "عَبَّى بِالطَّاسَةْ"}
+{"input": "to discourage, make sad", "output": "طَيَّحْ المُورَالْ"}
+{"input": "he's always absentminded, daydreaming", "output": "دِيمَا سَارَحْ"}
+{"input": "he's slow of mind, not quick on his feet", "output": "فِكْرُو رْزِينْ"}
+{"input": "he's sensitive, soft, kind", "output": "قَلْبُو رْهَيِّفْ"}
+{"input": "soldier called for service", "output": "جندي مدعو"}
+{"input": "to pour the foundation", "output": "صَبّْ المِيدَةْ"}
+{"input": "he took a small bite", "output": "خْذَا نَتْشَة"}
+{"input": "Byzantine debate: pointless discussion", "output": "نقاش بيزنطي"}
+{"input": "to take a place over, colonize", "output": "احتل مكان"}
+{"input": "to hate something, not believe in it, leave it", "output": "كْفَرْ بْحَاجَةْ"}
+{"input": "Pineappples are really good, but too bad, they're not very common in Tunisia.", "output": "الأناناس غلة بنينة برشة أما خسارة موش موجودة برشة في تونس"}
+{"input": "the youngest in the family", "output": "ڨْرَيِّدْ العِشّْ"}
+{"input": "he took out old stuff, worthless things", "output": "خَرِّجْ الڨُرِبِجْ"}
+{"input": "to figure out that something's going on", "output": "شم لحكايه"}
+{"input": "to muddy, dirty with one's feet", "output": "هلكها بساقيه"}
+{"input": "to step down from power", "output": "تَنَحِّي م السُّلْطَة"}
+{"input": "he has bad intentions", "output": "نِيْتُو مْقَعْمْزَةْ"}
+{"input": "to cancel the wedding", "output": "بَطِّلْ العِرْسْ"}
+{"input": "stuffed dish with peppers, tomatoes and corn", "output": "فُنْدِقْ لْغَلَّةْ"}
+{"input": "to surrender oneself (usually to the police)", "output": "سلم نفسو"}
+{"input": "to give a harsh/nasty look, scowl", "output": "عطاه صفة ڨحرة"}
+{"input": "hightops, shoes that reach the ankles", "output": "صَبَّاطْ نُصْ قَصْبَةْ"}
+{"input": "he's his own worst luck", "output": "مْعَتِّبْ عَلَى رُوحُو"}
+{"input": "to hang out clothes", "output": "نشر لحوايج"}
+{"input": "the public, everyone, most people", "output": "عامه الشعب"}
+{"input": "to measure the heat, temperature", "output": "قَاسْ السّْخَانَةْ"}
+{"input": "he won with his loud voice", "output": "غْلِبْهُمْ بْصُوتُو"}
+{"input": "to cancel/annul a contract", "output": "لغي العقد"}
+{"input": "to shoot a bullet with a gun", "output": "تيري بالرصاص"}
+{"input": "watered-down drink (was too concentrated before)", "output": "شرب محلول"}
+{"input": "full name, including father's, grandfather's and great grandfather's name", "output": "إسْمْ عَلْ الرَّابَعْ"}
+{"input": "I lost my way, I got lost", "output": "ضيعت الثنيه"}
+{"input": "from the sea, maritime, fresh", "output": "من البحر"}
+{"input": "someone preventing himself from good things", "output": "حَارِمْ رُوحُو"}
+{"input": "to control one's temper, not react", "output": "تْمَالِكْ أعْصَابُو"}
+{"input": "bread of the family: what a family lives by", "output": "خُبْزْ العَائِلَة"}
+{"input": "Ursula Major (a constellation in the northern celestial hemisphere)", "output": "دُبْ الأَكْبَرْ"}
+{"input": "better than nothing, it is a blessing", "output": "فَاهَا البَرْكَةْ"}
+{"input": "to wash the dead", "output": "غسل الميت"}
+{"input": "to convert to a different religion", "output": "اعتنق دين"}
+{"input": "Someone who doesn't understand anything, idiot", "output": "رَاسْ اللحَمْ"}
+{"input": "to have fun, a good time", "output": "عْمَلْ بْلَازِيرْ"}
+{"input": "it has a taste", "output": "فِيهْ مَطْعِمْ"}
+{"input": "siblings from your brothers", "output": "خْوَاتْ مِنْ البُو"}
+{"input": "to put confidence in, trust", "output": "حاط ثِيقْتُو"}
+{"input": "he was hit with the evil eye", "output": "ضربو بعين"}
+{"input": "seeds or pits in fruit", "output": "قَلْبْ الغَلَّةْ"}
+{"input": "in my point of view, opinion", "output": "حَسْبْ رَايِي"}
+{"input": "scrooge, careful with money, tightwad", "output": "يِدُّو مَيْدَخِّلْهَاشْ لْجِيبُو"}
+{"input": "Bon appetite, eat up", "output": "شَاهْيَةْ طَيْبَةْ"}
+{"input": "to go to sleep early", "output": "رْقَدْ بِكْرِي"}
+{"input": "always at home like a woman", "output": "كِي المْرَا نْهَارْ الكُلّْ شَادْ الدَّارْ"}
+{"input": "to speak out of turn, speak inappropriately", "output": "طَوِّلْ لسانو"}
+{"input": "he acted like he hadn't seen", "output": "حْسِبْ رُوحُو مَاشَافِشْ"}
+{"input": "he walked with a cane", "output": "مْشَى عَلَى عُكَّازْ"}
+{"input": "wearing really nice clothes, dressed up", "output": "حَاطِتْ الحَطَّة"}
+{"input": "to completely cover something", "output": "غطاها لكل"}
+{"input": "they agree, are of one mind", "output": "رَاسْ على الرَّاسْ"}
+{"input": "he walks well, quickly", "output": "مَسَرِّحْ فِي المَشْيْ"}
+{"input": "to grow up, become wise", "output": "عْمَلْ مُخّْ"}
+{"input": "to do it upside down, backwards", "output": "عْمَلْهَا بِلْمَقْلُوبْ"}
+{"input": "he has a badge", "output": "عَنْدُو بَادْجْ"}
+{"input": "My friend had many jobs - once as a farmer, once as a builder, and once as a taxi driver.", "output": "صاحبي خدم برشا خدم ، مرا فلاح ، مرا بناي ، مرا تاكسيست"}
+{"input": "to make a call, call someone", "output": "عمل تلفون"}
+{"input": "he didn't even have a chance at life", "output": "مَاتْ وُ هُوَ مَاشَافِشْ الدِّنْيَا"}
+{"input": "person's way of doing things", "output": "طريقه متبنيه"}
+{"input": "he gets what's going on", "output": "فَاهِمْ الوَاقِعْ"}
+{"input": "to provide supplies for soldiers, equip", "output": "تموين الجيوش"}
+{"input": "he doesn't keep his word", "output": "مَعَنْدُوشْ كِلْمَةْ"}
+{"input": "popular movement, people's demonstration", "output": "تحرك شعبي"}
+{"input": "to mean something, to matter", "output": "تعنيلو حاجه"}
+{"input": "to stay with one's in-laws", "output": "قْعَدْ مَعَ دَارْ أَنْسَابُو"}
+{"input": "very low spirits, feeling awful", "output": "مُورَالُو فِي الزِّيرُو"}
+{"input": "she has a (boy)friend", "output": "عندها كوبان"}
+{"input": "to make fun of, treat like a clown", "output": "عملو كركوز"}
+{"input": "to explain extremely simply for someone who isn't getting it", "output": "صَبْلُو بِالقْمَعْ"}
+{"input": "he kept it from falling down", "output": "مَنَّعْهَا مِ الطُّيُوحْ"}
+{"input": "it totally humiliated him", "output": "بَهْذَلُّو بْحَالْتُو"}
+{"input": "to make someone do something (positive)", "output": "شدها بالسيف"}
+{"input": "it doesn't go with you, it doesn't become you", "output": "مَا تَطْلَعِشْ عْلِيهْ"}
+{"input": "he considers him responsible", "output": "حَمْلُو المَسْؤُولِيَّة"}
+{"input": "to give something importance", "output": "عطي امبورطونس"}
+{"input": "to jump in place", "output": "إنَڨِّزْ عَلَى بْلَاصْتُو"}
+{"input": "he's not focused, thinking of something else", "output": "مُخُّو سَارِحْ"}
+{"input": "to tear one's clothes", "output": "قَطَعْ حْوَايْجُو"}
+{"input": "to turn off the light", "output": "طَفَّى الضَوّْ"}
+{"input": "to knock on the door", "output": "دق الباب"}
+{"input": "it doesn't fit him, she's not right for him", "output": "مَهِيشْ عَلَى قْيَاسُو"}
+{"input": "to make a profit, earn money", "output": "عْمَلْ بِنِفِيسْ"}
+{"input": "to dig the foundation", "output": "حفر الساس"}
+{"input": "delivery by sand truck", "output": "فْوَايَاجْ رْمَلْ"}
+{"input": "the sound of women's high heels", "output": "حِسْ الطَّالُونْ"}
+{"input": "it keeps you from reality, in your imagination", "output": "تْخَلِّيكْ هَايِمْ"}
+{"input": "its source is unknown", "output": "مَعَنْدْهَاشْ أَصْلْ"}
+{"input": "place in Binzerte near Raf Raf", "output": "عِينْ المِسْتِيرِي"}
+{"input": "odorizer spray/hanging: Air Fraiche", "output": "آرْ فْرَاشْ"}
+{"input": "has no life experience", "output": "مَا عَنْدُوشْ خِبْرَةْ فِي الحَيَاةْ"}
+{"input": "to bread or batter meat before frying", "output": "غَطِّسْ فِي لْفَرِينَةْ"}
+{"input": "he got a bad hand in cards", "output": "كَارْطَة كَفْرِتْ"}
+{"input": "cat in a bag, something unknown and unseen", "output": "قَطُّوسْ فِي شْكَارَةْ"}
+{"input": "he led them far away, wandered with them", "output": "سرح بيهم"}
+{"input": "he always has a good appetite", "output": "شَاهِيتُو دِيمَا مَحْلُولَةْ"}
+{"input": "Light the candle so that it will light up the room.", "output": "شعل كشمعة خلي تضويلنا إلبيت"}
+{"input": "he changed his thinking, cleaned up his mind", "output": "عْمَلْ فِيدُونْجْ لْمُخُّو"}
+{"input": "cousin (on paternal uncle's side)", "output": "بنت عم"}
+{"input": "to be old but still working", "output": "شَادَّةْ رُوحْهَا"}
+{"input": "impassable, blocked, closed road", "output": "كَيَّاسْ مْحَجِّرْ"}
+{"input": "February, by the European calendar", "output": "فْرَايِرْ العَجْمِي"}
+{"input": "certificate of payment, of clearance", "output": "أتَسْتَاسْيُونْ دُو بَايْمُونْ"}
+{"input": "to be broken easily", "output": "تكسر فيسع"}
+{"input": "He kept his position and didn't want to cahnge his views.", "output": "شد في موقفو وما حبش يبدل توجهاتو"}
+{"input": "prideful, stuck up, head held high", "output": "رَاسُو عَالِي"}
+{"input": "he gave his approval", "output": "عْطَى لَاكُورْ مْتَاعُو"}
+{"input": "he hid the money", "output": "خَبَّى الفْلُوسْ"}
+{"input": "to relax the nerves, calm down, loosen up", "output": "ترخف الاعصاب"}
+{"input": "wanted to be promoted, succeed", "output": "حَبْ يِتلَنْسَى"}
+{"input": "person with expertise, knows his stuff", "output": "وِلْدْ رْبَطْ"}
+{"input": "take care of him", "output": "عينك عليه"}
+{"input": "to pass by on the side", "output": "تْعَدَّاتْ عْلَى جْنَبْ"}
+{"input": "to be in opposition to, take the other side", "output": "جَايْ عَكْسْ"}
+{"input": "someone who goes from one place to another very quickly", "output": "مِنْ أَصْحَابْ الخَطْوَةْ"}
+{"input": "He brought it on himself", "output": "جَابْهَا لْرُوحُو"}
+{"input": "to burn the head (usually of a sheep)", "output": "شوشط الرّاس"}
+{"input": "presenter/host on TV show", "output": "مقدم البرنامج"}
+{"input": "a beautiful, good dream", "output": "حلمه دلوله"}
+{"input": "a fast food shop", "output": "حَانُوتْ أكْلَة خَفِيفَة"}
+{"input": "busy with wedding errands, things to do", "output": "لَاهِي فِي حُوصِةْ العِرْسْ"}
+{"input": "I have a presentation at work tomorrow.", "output": "غدوة عندي إكسبوزي في الخدمة"}
+{"input": "to have an erection on", "output": "نَوِّضْ عْلَى"}
+{"input": "being ashamed of oneself", "output": "إستعار من روحو"}
+{"input": "mad about something, crazy about it, in love with", "output": "مَهْبُولْ بْحَاجَةْ"}
+{"input": "let bygones be bygones, it's over, water under the bridge", "output": "فَاتْ مَاتْ"}
+{"input": "to come down on, use force against", "output": "هبط عليه"}
+{"input": "he wanted to ruin things, mess things up", "output": "حَبْ يْبَلْبَزْهَا"}
+{"input": "to take your place", "output": "شد بلاصتو"}
+{"input": "closed book, doesn't say anything", "output": "صَبُّورَةْ كَحْلَةْ"}
+{"input": "he scared him, discouraged him", "output": "طَيَّحْلُو المَاءْ فِي رْكَايِبو"}
+{"input": "he made himself forget certain events", "output": "عْمَلْ فِيدُونْجْ لْمُخُّو"}
+{"input": "to make connections, get to know people, network", "output": "رْبَطْ خْيُوطُو"}
+{"input": "to mess things up, toss things on top of each other", "output": "قْلِبْهَا سَافِلْهَا عَلَى عَالِيهَا"}
+{"input": "a scratching sound, sound of radio interference", "output": "صوت يخشخش"}
+{"input": "he put her legs up, to have sex", "output": "هزلها ساقيها"}
+{"input": "cake sold on the streets", "output": "هَرِيسَةْ لُوزْ"}
+{"input": "standing somewhere without moving", "output": "كِي العُرْصَةْ"}
+{"input": "it shouldn't have been done", "output": "مَحَقْهَاشْ تْعَمْلِتْ"}
+{"input": "to spray against mosquitoes", "output": "فَشْفِشْ بِالفْليطُوكِسْ"}
+{"input": "he's an evil person", "output": "قَلْبُو أَكْحِلْ"}
+{"input": "Now Mister President is going to speak.", "output": "توا بش يحكي سعادة الرئيس"}
+{"input": "He always puts things off; if you tell him to come and do something, he tells you, 'Let's do it tomorrow.'", "output": "ديما موخرها التالي,تقلو إيجا نعملو أكا الحاجة يقلك توا غدوة"}
+{"input": "he was sent to the disciplinary board", "output": "عَدَّاوَاهْ عَلْ كُونْسَايْ"}
+{"input": "to trespass, to go beyond, to advance", "output": "دُوبْلْ عْلِيهْ"}
+{"input": "organized one's wedding parties", "output": "نَظِّمْ عِرْسُو"}
+{"input": "the house of the bride", "output": "دار العروسه"}
+{"input": "to take out seeds", "output": "نَحَّى مِنْهَا الزُرِّيعَةْ"}
+{"input": "God's, doesn't belong to people", "output": "متاع الله"}
+{"input": "there's something missing after he left", "output": "خلا بقعتو"}
+{"input": "attracted by something, drawn to", "output": "منجذب بحاجه"}
+{"input": "to panic from, be scared of, imagine", "output": "هَلْوِسْ مِنْ"}
+{"input": "it's super easy, easy as pie", "output": "نْكَمِلْهَا فِي شَرْبِةْ مَاءْ"}
+{"input": "public works (especially in Middle East)", "output": "أشْغَالْ عَامَّة"}
+{"input": "how much does this cost?", "output": "قَدَّاهْ تَعْمِلْ القَطْعَةْ هَاذِي"}
+{"input": "he left them behind", "output": "خَلَّاهُمْ لْتَالِي"}
+{"input": "to take care of one's hygiene", "output": "عْمَلْ تْوَالاَتْ أَنْتِيمْ"}
+{"input": "marginalized class, forgotten people", "output": "طَبَقَة مُنْحَطَّةْ"}
+{"input": "a guy and his girlfriend", "output": "صَاحِبْ وْ صَاحْبَةْ"}
+{"input": "Official Journal in which legal and commercial announcements are printed", "output": "رَائِدْ الرَّسْمِي"}
+{"input": "unique, one of a kind", "output": "مَعَنْدْهَاشْ أُخْتْهَا"}
+{"input": "to gather one's children, get them all together", "output": "إلِمْ وْلَادُو"}
+{"input": "Mister President, Your Excellency", "output": "سعاده الرئيس"}
+{"input": "help me out, give me a better price", "output": "سَاعِدْنَا شْوَيَّا"}
+{"input": "to read slowly, in a quiet voice", "output": "قرَى بِالشَوَيَّةْ"}
+{"input": "people ignore him, don't talk to him", "output": "مَتَلْفِينُو لَعْبَاْد"}
+{"input": "from the tree, fresh", "output": "مِ الشَجْرَةْ"}
+{"input": "in my opinion, beliefs", "output": "حسب اعتقادي"}
+{"input": "to muzzle its mouth", "output": "اكمملو فمو"}
+{"input": "they set a trap for him", "output": "نصبلو الفخ"}
+{"input": "to reunite, be gathered altogether", "output": "تْلَمْ الشَّمْلْ"}
+{"input": "please lower the price", "output": "رَاعِينَا فِي السُّومْ"}
+{"input": "to piece together the story", "output": "ربط لحكايه"}
+{"input": "to come to an agreement, make a deal", "output": "تفاهم معاه"}
+{"input": "he gave me a sign, signal", "output": "عْطَانِي سِينْيْ"}
+{"input": "he left him and went away", "output": "خَلَّاهْ وْ مْشَى"}
+{"input": "to hold his hand", "output": "شَادُّو فِي يَدُّو"}
+{"input": "I finished my meal, my dish, my food", "output": "كملت صحني"}
+{"input": "to take a century, long time", "output": "قعد قرن"}
+{"input": "to knead, prepare dough", "output": "ڨَدّْ لَعْجِينَةْ"}
+{"input": "he always puts things off, procrastinates, discourages", "output": "دِيمَا مْوَخَّرْهَا لْتَالِي"}
+{"input": "he didn't like it, doesn't want it", "output": "مَهُوشْ شَارِهْ عَلِيهَا"}
+{"input": "to ignore, not care", "output": "مَشَّاهُمْ فِي العَفْسْ"}
+{"input": "he avoided him, got away from him", "output": "سْلِمْ مِنُّو"}
+{"input": "Life isn't that hard.", "output": "الدنيا مهيش صعيبة برشا"}
+{"input": "We're going to take the bride's gift tomorrow.", "output": "غدوة باش نهزو العقيرة للعروسة"}
+{"input": "dish with brik and other foods", "output": "بْرِيكْ الدَنُّونِي"}
+{"input": "to not give your all", "output": "رْخِفْ السِّبْتَة"}
+{"input": "understanding of Islam or Islamic law", "output": "علم الفقه"}
+{"input": "he's wiser and more intelligent than he", "output": "فَاتُو بِالعْقَلْ"}
+{"input": "to took something firmly, have a strong hold on", "output": "شد بالقوي"}
+{"input": "not set, not wound up, not tuned", "output": "مَهِيشْ مْعَدْلَةْ"}
+{"input": "Breast milk is very healthy for the newborn, and also it is better than any other milk.", "output": "حليب الرضاعة صحي برشا للمولود إجديد وزادا خير برشا من أي حليب آخر"}
+{"input": "to look down upon", "output": "غْزَرْلُو بْعِينْ دُونِيَّةْ"}
+{"input": "the desolation of locusts", "output": "زحف الجراد"}
+{"input": "set on something, fixated", "output": "رَاكِزْعَلَى حَاجَة"}
+{"input": "to stay next to for a long time", "output": "رْكِشْ بَحْذَا"}
+{"input": "to reconcile, come back together", "output": "رجعو لبعضهم"}
+{"input": "belonging to the family", "output": "متاع دار"}
+{"input": "life is tough for him, he has bad luck", "output": "طَاحَتْ بِيهْ"}
+{"input": "they left him so that they can deal with him at the end", "output": "خَلَّاوَهْ فِي اللّاِخِّرْ"}
+{"input": "old Peugeot used for farming", "output": "كَتْكَاتْ بَاشِي"}
+{"input": "nice clothes, good-looking outfit", "output": "هِنْدَامْ لَايَقْ"}
+{"input": "to treat everyone the same without exception (whether people areguilty/involved or not)", "output": "دَوَرْهَا عَارِي وْ لَابِسْ"}
+{"input": "someone who left a will", "output": "صاحب الوصيه"}
+{"input": "spring (used for Garcie water)", "output": "عِينْ قَارْسِي"}
+{"input": "to put something in the oven", "output": "حْشَى فِي الكُوشَة"}
+{"input": "to not change your mind, keep your opinion", "output": "شَدّْ فِي رَايُو"}
+{"input": "he took account of his cash / papers", "output": "حْسِبْ أَوْراقُو"}
+{"input": "to decrease spending, expenses", "output": "نَقِّصْ فِي المَصْرُوفْ"}
+{"input": "he says what's on his mind, he speaks his mind", "output": "كِلْمْتُو إِقُولْهَا"}
+{"input": "to be ashamed of yourself", "output": "حْشِمْ عْلَى رُوحُو"}
+{"input": "to train, tame (animal)", "output": "عملو دراساج"}
+{"input": "to put out one's legs, rest, lie around", "output": "إمِدْ سَقِيهْ فِي بْلَاصَة"}
+{"input": "they broke up, got divorced, it's over", "output": "وْفَى المَكْتُوبْ"}
+{"input": "in the direction of", "output": "في اتجاه"}
+{"input": "please tell me where ….?", "output": "خُويَا بِاللّه مْنِينْ"}
+{"input": "how much does it cost?", "output": "شنوا سومها"}
+{"input": "sound of gunfire, bullets", "output": "حِسْ مْتَاعْ كَرْطُوشْ"}
+{"input": "Wafa Movement, Tunisian political party", "output": "حَرَكَةْ وَفَاءْ"}
+{"input": "he doesn't practice religion", "output": "مَاهُوشْ بَرَاتِيكُونْ"}
+{"input": "Sorry, can you show me how to get to…", "output": "سَمَحْنِي تْنَجِمْ تْوَرِّينِي مْنِينْ نِمْشِي لِ"}
+{"input": "he's unbeatable, don't fight with him", "output": "مَا يِتْفَارِعِشْ"}
+{"input": "to prove, show skills", "output": "ثبت مهاراتو"}
+{"input": "illogical, doesn't make sense", "output": "مُوشْ مَعْقُول"}
+{"input": "to divide one's property", "output": "قْسِمْ أَمْلَاكُو"}
+{"input": "he missed the train, it's too late, time's up", "output": "فَاتُو التْرَانْ"}
+{"input": "he knows nothing but money, cares only about it", "output": "مَيَعْرِفْ شَيْ مَعَ لِفْلُوسْ"}
+{"input": "old-fashioned, for old people", "output": "مَتَاعْ شِيَّابْ"}
+{"input": "to win a war", "output": "ربح الحرب"}
+{"input": "to perform magic on someone", "output": "عْمَلُّو البُخُوخُو"}
+{"input": "a traditional small Tunisian cup for tea", "output": "كَاسْ طْرَابِلْسِي"}
+{"input": "to put up your guard", "output": "شد ڨارد"}
+{"input": "he is feeling angry", "output": "دْجَاجْ لَكْحِلْ دَايِرْ بِيهْ"}
+{"input": "symbolic language, pictoral language", "output": "لغه رمزيه"}
+{"input": "we'll build on it, based on it", "output": "نِبْنِيوْ عْلِيهَا"}
+{"input": "interpretation of the Quran", "output": "تفسير القران"}
+{"input": "He played the middle man to get him a job.", "output": "توسطلو بش يدبرلو خدمة"}
+{"input": "to set lunch/breakfast on the table", "output": "حط الفطور"}
+{"input": "Weeping Wall in Israel", "output": "حائط المبكي"}
+{"input": "to mess up, screw up, confuse", "output": "عَاثْ فِيهَا فَسَادْ"}
+{"input": "to do bad or evil to someone", "output": "عْمَلْ مْعَاهْ الدْوانَةْ"}
+{"input": "things are hot, tense, difficult", "output": "جَوّ سْخُونْ"}
+{"input": "things are heard but have no effect: in one ear and out the other", "output": "دَاخِلْ مِنَّا خَارِجْ مِنْ غَادِي"}
+{"input": "doesn't go bad, stays edible/potable", "output": "مَا يَفْسِدِّشْ"}
+{"input": "in its right time", "output": "في وقتو"}
+{"input": "to protest, submit a protest", "output": "قدم احتجاج"}
+{"input": "he did his duty", "output": "قام بواجبو"}
+{"input": "his old age betrayed him, he grew old and unable", "output": "خَانُو عُمْرُو"}
+{"input": "to divorce for sexual reasons", "output": "طَلْقُو بِسْبَبْ الفَرْشْ"}
+{"input": "to whitewash/plaster the roof", "output": "جير السطح"}
+{"input": "he has bad luck, someone is doing magic against him", "output": "عَنْدُو التَّابْعَةْ"}
+{"input": "to dig the ground", "output": "حفر لرض"}
+{"input": "he's worn out, his brain is tired", "output": "مُخُّو تَاعِبْ"}
+{"input": "to meet, cross paths at", "output": "تعارضو في"}
+{"input": "war declaration, proclamation of war", "output": "اعلان الحرب"}
+{"input": "Chaanbi Mountain (near Kef)", "output": "جبل الشعانبي"}
+{"input": "There are a lot of political fronts in Tunisia: the Salvation Front, the Popular Front, and a lot of others; they're all political parties.", "output": "في تونس فما برشا جبهات,جبهة الإنقاذ و الجبهة الشعبية و برشا أخرين,بكلهم أحزاب"}
+{"input": "That guy makes a lot of noise; he talks all day long.", "output": "شسمو حسو برشا نهار و طولو و هوا يهتري"}
+{"input": "He was convicted of the crime", "output": "ثَابْتَة عْلِيهْ التُّهْمَة"}
+{"input": "to care for a flock", "output": "رعي السعي"}
+{"input": "he was thrown in jail", "output": "تحشى في الحبس"}
+{"input": "his nickname is … (I don't want to name him)", "output": "شهرا كذا"}
+{"input": "arrested, being held by the police, in custody", "output": "فِي لْوُقُوفْ"}
+{"input": "to force to eat", "output": "غَصِّبْ عْلِيهْ لْمَاكْلَةْ"}
+{"input": "to light on its own", "output": "شعلت وحدها"}
+{"input": "to make an offer, make a bid", "output": "عْمَلْ آبَالْ دُوفِرْ"}
+{"input": "at the peak, top", "output": "فِي تُنْبِكْهَا"}
+{"input": "a ritual consisting of giving supernatural power to water by reading Quranic verses", "output": "قْرَاوْ عَلْ المَاءْ"}
+{"input": "that is to say, I mean", "output": "سي تادير"}
+{"input": "he has go to the bathroom really bad, is about to burst", "output": "بَاشْ إيبُولْ عَلَى رُوحُو"}
+{"input": "To do something forecefully", "output": "دْخَلْ عْلَاهَا"}
+{"input": "he put on deodorant", "output": "عمل الديودورون"}
+{"input": "he feels guilty, is remorseful", "output": "قَلْبُو يَحْرِقْ فِيهْ"}
+{"input": "Carthage Palace, Presidential Palace", "output": "قصر قرطاج"}
+{"input": "to serve a plate/dish", "output": "قَدِّمْ طْبَقْ"}
+{"input": "cursed by poverty, he'll always be poor", "output": "مبلي بالفقر"}
+{"input": "to change one's actions negatively, not be the same", "output": "قْلِبْ الفِيسْتَةْ"}
+{"input": "he finished his term of leadership", "output": "نْهَى فَتْرَةْ الحُكْمْ"}
+{"input": "bread that was baked yesterday", "output": "خبز بايت"}
+{"input": "trip to outer space", "output": "رحله فضائيه"}
+{"input": "he got in at the end", "output": "مْشَى مِلِخِّرْ"}
+{"input": "a cut of wool", "output": "جَزَّة صُوفْ"}
+{"input": "the fire is growing", "output": "حريقه كبرت"}
+{"input": "he is wise and careful with his words", "output": "رْزِينْ فِي كْلَامُو"}
+{"input": "missing one's country, home", "output": "متوحش بلادو"}
+{"input": "they didn't respect him", "output": "مَعْطَاهُوشْ قَدْرُو"}
+{"input": "they saw things the same", "output": "خَزْرُو لِدُّنْيَا كِيفْ كِيفْ"}
+{"input": "it seems like, it's as if, you could say", "output": "تْقُولِشْ عْلِيهْ"}
+{"input": "to cast a glance, peek", "output": "رمي عينيه"}
+{"input": "he went to the brothel", "output": "مَشَى لِلْكَارْتِي"}
+{"input": "to adjudicate, rule between", "output": "فْصَلْ بِينَاتْهُمْ"}
+{"input": "Tomorrow I'm going to study.", "output": "غدوا ماشي نقرا"}
+{"input": "to make him a man", "output": "رَدُّو رَاجِلْ"}
+{"input": "it's in the wrong place", "output": "مَهُوشْ فِي بَلاَصْطُو"}
+{"input": "to spy on, tell on someone", "output": "صَبّْ بِيهْ الصَبَّةْ"}
+{"input": "he spoke openly, laying his hand (cards) down", "output": "حْكَى كَارْتْ سُورْ تَابْلْ"}
+{"input": "he couldn't care less, it doesn't matter to him", "output": "بَايَعْهَا بْلِفْتَه"}
+{"input": "you get goosebumps, are scared", "output": "لْبَدَنْ يِتْزُولِفْ"}
+{"input": "smell of human waste, something dirty", "output": "رِيحَةْ نْزَاسَة"}
+{"input": "to go to a really crowded place", "output": "مَشَّاهُمْ فِي العَفْسْ"}
+{"input": "the occupation army, colonist army", "output": "جنود الاحتلال"}
+{"input": "nothing gets by him, he knows it all", "output": "مَا ْيفُوتُو شَيْ"}
+{"input": "something secondary, to the side", "output": "حَاجَة عَلَى جْنَبْ"}
+{"input": "Turn on the machine so that we can start to work.", "output": "خدم المكينة خلي نبداو نخدمو"}
+{"input": "to line up, get in line", "output": "شَدّْ الصَفّْ"}
+{"input": "a period that comes immediately after the arrival of spring", "output": "نُزُولْ جَمْرِةْ التْرَابْ"}
+{"input": "very bad goods, worthless merchandise", "output": "سلعه زباله"}
+{"input": "to say directly, give the most important thing", "output": "جَابْ مِلّخِّرْ"}
+{"input": "he has a heart of stone, he's harsh", "output": "قلبو كلحجر"}
+{"input": "to go to the cashier, counter", "output": "تْعَدَّى لِلْكَاسَة"}
+{"input": "special words used only by young people in given neighborhood", "output": "لُغِةْ حَيّْ دْرَابِكْ"}
+{"input": "to get married by force", "output": "عَرِّسْ بَاهَا بِالسِّيفْ"}
+{"input": "I felt like he was on guard and didn't want anyone to come near him or talk with him.", "output": "حسيتو شاد ڨارد وما يحبش حتى حد يقربلو والا يحكي معاه"}
+{"input": "lighter/burner on a stove", "output": "كانون متاع الغاز"}
+{"input": "he doesn't have any with him", "output": "مَا فُوقُوشْ"}
+{"input": "to flush the toilet", "output": "جْبِدْ السَّاشْ"}
+{"input": "He wrote his will", "output": "كتب وصيه"}
+{"input": "to abhor, totally hate", "output": "نْقِمْ عَلِيهْ"}
+{"input": "American coffee: dark in large mug", "output": "قهوه اماريكان"}
+{"input": "to call the cops on someone", "output": "عِلْمُو عْلِيهْ"}
+{"input": "What, is he some kind of real jerk? I told him to get in line like everyone else, but he didn't want to.", "output": "آش بيه خراوات ياخي ، قتلو شد إصف كيناس لكل وما حبش"}
+{"input": "he has a short temper, always gets angry", "output": "دَمُّو سْخُونْ"}
+{"input": "to rely on, depend on", "output": "اعتمد علي"}
+{"input": "to make someone change course", "output": "دَوْرُو الدُّورَة"}
+{"input": "to treat with violence", "output": "تعامل بعنف"}
+{"input": "court room, hearing room, meeting room", "output": "قَاعَةْ الجَلْسَةْ"}
+{"input": "enjoying each other's company, spending time together", "output": "متونسين ببعضهم"}
+{"input": "he doesn’t say no, will allow it/go along with it", "output": "مَيْحُطِشْ العْصَا فِي العَجْلَةْ"}
+{"input": "water that carries with it soil and other things", "output": "مَاءْ يُجْرِفْ"}
+{"input": "he thinks of himself as (often something important)", "output": "حَاسِبْ روحو"}
+{"input": "he says nothing, there is nothing", "output": "صحْرَاء كُونْفُورْ"}
+{"input": "he realized what he had done was wrong", "output": "فَاقْ إِلِّي تْصَرِّفْ بِلْغَالِطْ"}
+{"input": "he doesn't want to hear anything, plugged ears", "output": "مَسَكِّرْ وِذْنِيهْ"}
+{"input": "someone who has a strong will", "output": "صاحب اراده"}
+{"input": "to find a solution to a problem, dilemna", "output": "حل العقده"}
+{"input": "he doesn't spend anything from his salary", "output": "شهريتو ميمسهاش"}
+{"input": "to give someone a surprising, unexpected beating", "output": "أعْطَاهَالُو لا تَقْرَا لَا تِكْتِبْ"}
+{"input": "cousin (father's sister's son)", "output": "ولد عمتي"}
+{"input": "identity card for police officers or army personnel", "output": "كَارْطْ دُو سَرْفِيسْ"}
+{"input": "it won't affect him, nothing will happen to him", "output": "مَا يَحُكِّشْ فِيهْ"}
+{"input": "Royal Suite, presidential rooms", "output": "جناح ملكي"}
+{"input": "acting arrogantly, puffed up", "output": "نَافِخْ صِدْرُو"}
+{"input": "to accept peace (usually by force)", "output": "رضخ للسلم"}
+{"input": "he brings bad luck", "output": "وْجْهْ النَّحْسْ"}
+{"input": "worthless, of no value", "output": "مَلِهَاشْ إِعْتِبَارْ"}
+{"input": "if you hadn't done that", "output": "كان معملتش أكا الحاجة خير"}
+{"input": "he finally got it (even though he's stupid)", "output": "دَخْلِتْ لْطَاسِةْ مُخًّو"}
+{"input": "they signed a marriage license", "output": "صَحْحُّو الصداق"}
+{"input": "your cooking is delicious", "output": "ماكلتك بنينه"}
+{"input": "he went by foot", "output": "مْشَي عَلْ لَحْدَاْش"}
+{"input": "he helped him to overcome a desperate and hard situation", "output": "خَرْجُو مِن الحُفْرَة"}
+{"input": "the arrival of summer", "output": "دخول الصيف"}
+{"input": "to mess things up, confuse things, conflate them", "output": "شربك يشربك"}
+{"input": "his relation with him became close", "output": "خْرَطْ عْلِيهْ"}
+{"input": "he isn't shy, he's bold", "output": "عِينُو صْحِيحَةْ"}
+{"input": "he was rewarded a title", "output": "خْذَا تِيتْرُو"}
+{"input": "to cover the roof (with aluminum or something else)", "output": "غَلِّفْ السْطَحْ"}
+{"input": "to gather the laundry after it's dried", "output": "لَمّْ الشْرِيطَةْ"}
+{"input": "he's shy, doesn't bother himself with others' affairs", "output": "حَدُّو حَدْ رُوحُو"}
+{"input": "to beg, ask for money", "output": "إمِدْ يِدُّو"}
+{"input": "the quality of the cloth", "output": "نوعيه القماش"}
+{"input": "to tell something incorrectly, report falsely", "output": "حْكَى الغْلَطْ"}
+{"input": "I'm going to complain to you superior.", "output": "بش نشكي للسوباريور متاعك"}
+{"input": "he loves it, is crazy for it", "output": "هَابِلْ عْلِيهْ"}
+{"input": "the afterlife, another life", "output": "دنيا الاخري"}
+{"input": "to clean out the intestines", "output": "فَرَّغْ مْصَارْنُو"}
+{"input": "he got in the cage", "output": "دخل للقفص"}
+{"input": "essence of flowers, concentrate", "output": "روح الورد.."}
+{"input": "it's going down, on the way down", "output": "ماشية و اطيح"}
+{"input": "he ate his and his friend's share", "output": "كْلَى بَايُو وْ بَايْ صَاحْبُو"}
+{"input": "connecting road, exit from highway", "output": "محول طريق"}
+{"input": "asleep on his back", "output": "رَاقِدْ عَلَى ظَهْرُو"}
+{"input": "to fill a diaper", "output": "عْمَلْهَا فِي الكُوشْ"}
+{"input": "to commit a sin", "output": "عمل خطيئه"}
+{"input": "he only wants to have fun, play", "output": "إمُوتْ كَانْ عَلْ الشِّيخَة"}
+{"input": "they agree, get along", "output": "مْشَاوْ فَرْدْ خَطْوَةْ"}
+{"input": "to lead a revolution", "output": "قاد ثوره"}
+{"input": "The angel of death took him, he died, he was scared out of his mind", "output": "عَزْرَائِيلْ قْبَضْلُو رُوحُو"}
+{"input": "Almonds are not commonly available.", "output": "اللوز مش موجود برشا"}
+{"input": "to come from, drawn from", "output": "مِتْفَرَّعْ مِنْ"}
+{"input": "her face makes you vomit, she's ugly", "output": "وْجْهَا إِرَدِّدْ"}
+{"input": "Leave it there; don't change anything.", "output": "خلي غادي ، ما تبدل شي"}
+{"input": "to face a major catastrophe", "output": "كْلَا رَاسُو"}
+{"input": "he left the game with nothing, no money", "output": "خْرَجْ صَابُونُو نْظِيفْ"}
+{"input": "flame of uprising, revolt", "output": "شعله الانتفاضه"}
+{"input": "to prepare for the final judgement", "output": "قْرَى حِساَبْ نَهَارْ آخِرْ"}
+{"input": "he prayed for the forgiveness of someone else's sins", "output": "دْعَالُو بِالمَغْفِرَة"}
+{"input": "to tell a secret, speak in secret", "output": "حْكَى سِكْرِيتُو"}
+{"input": "ok grade average grade", "output": "معدل متوسط"}
+{"input": "just alike, they're both just as dumb/bad as the other", "output": "فَرْدَةْ وُ لْقَاتْ أُخْتْهَا"}
+{"input": "to deny someone's rights, to deprive someone", "output": "مَعْطَاوْهُوشْ حَقُّو"}
+{"input": "he has a girlfriend", "output": "عَنْدُو صَاحْبَةْ"}
+{"input": "to run behind, go after something", "output": "جْرَى وْرَا"}
+{"input": "at his top, peak", "output": "فِي عِزُّو"}
+{"input": "to be sold in bulk", "output": "باع بالجمله"}
+{"input": "to cause to faint or pass out, make dizzy", "output": "إدَوِّرْ الخْوَاطِرْ"}
+{"input": "to loosen your belt", "output": "رْخِفْ السِّبْتَة"}
+{"input": "to sit down and hold on to your chair", "output": "شاد كرسيه"}
+{"input": "he prays, but is bad towards people: hypocrite; he does what he's supposed to do but causes lots of problems", "output": "أدَّى الفَرِضْ وْ يُنْقِبْ لَرِضْ"}
+{"input": "clear Boga soft drink", "output": "بُوڨَا بِيضَة"}
+{"input": "to always be on the street hanging out", "output": "شاد الحيوط"}
+{"input": "he's stupid, doesn't understand", "output": "مُخُّو سَاكِنْ فِيهْ جْرَانَةْ"}
+{"input": "he worked in order to defend his reputation", "output": "خْدِمْ عْلَى إسْمُو"}
+{"input": "he has to go to the bathroom, is going to wet his pants", "output": "بَاشْ يَعْمَلْهَا فِي سِرْوَالُو"}
+{"input": "to store, preserve food", "output": "صَبِّرْ لْمَاكْلَةْ"}
+{"input": "the fire was put out", "output": "نار طفات"}
+{"input": "he went on the pilgrimage to Mecca", "output": "مْشَى لِلْحِجْ"}
+{"input": "to keep on with the same rhythm", "output": "شَادّْ نَفْسْ الرِيتْمْ"}
+{"input": "don't depend on him, rely on him", "output": "مَا تَعَمِّلِشْ عَلِيهْ"}
+{"input": "in his peak form, ready", "output": "فِي نْهَارُو"}
+{"input": "to pay for someone else", "output": "شْرَى مِنْ عَنْدُو"}
+{"input": "name, father's name and grandfather's name", "output": "اسم ثلاثي"}
+{"input": "he's doing well, has a good life (crass)", "output": "حَاشْيَه فِي الدِّنْيَا"}
+{"input": "to gather the family together", "output": "إلِمْ الفَامِيلْيَا"}
+{"input": "to joke with someone, make fun of", "output": "كركر فيها"}
+{"input": "to wash one's clothes", "output": "غسل حوايجو"}
+{"input": "to look for trouble, cause problems", "output": "شْرَى الشْبُوكْ"}
+{"input": "to utilize evil spirits for a purpose", "output": "إستخار الجن"}
+{"input": "to not believe, apostasize", "output": "كفر بالايمان"}
+{"input": "he's really wealthy, there's a lot of food to eat", "output": "عَنْدُو الخِيرْ بْزَايِدْ"}
+{"input": "The big rival match will be played at the Rades stadium.", "output": "الدربي بش يتلعب في ستاد رادس"}
+{"input": "to lose one's parents", "output": "فقد والديه"}
+{"input": "he demanded his rights", "output": "طالِبْ بْحَقُّو"}
+{"input": "he doesn't care, it doesn't matter to him", "output": "مَهُوشْ مَعَبِّرْ"}
+{"input": "he kidnapped somone's daughter", "output": "خْطَفْ بِنْتْ النَّاسْ"}
+{"input": "really stupid, can't understand anything", "output": "مْسَكِّرْ بِلْفْلُورِتُونْشْ"}
+{"input": "statutes, articles of association/incorporation", "output": "قانون اساسي"}
+{"input": "he became someone who has money", "output": "دَارِتْ فِي يِدُّو الفْلُوسْ"}
+{"input": "there are some unclear things", "output": "فَمَّا حَاجَاتْ فْلُو"}
+{"input": "he is a hard worker, doesn't mess around or play", "output": "مَعَ الخِدْمَةْ مَا يِفْهِمْ شَيْ"}
+{"input": "to step on the gas, accelerate", "output": "نْزِلْ عَلْ لَكْسِيلِرَاتُورْ"}
+{"input": "despite the fact that", "output": "رغم الي"}
+{"input": "Zeitouna Mosque in Tunis", "output": "جَامَعْ الزِيتُونَة"}
+{"input": "to steal someone else's place", "output": "فك البقعه"}
+{"input": "he turned on the faucet", "output": "خَدِّمْ العُصْفُورْ مْتَاعْ المَاءْ"}
+{"input": "to take the top position, to take the lead", "output": "إحتل الصدارة"}
+{"input": "a person who performs miracles", "output": "صانع معجزات"}
+{"input": "to ask for help, rescue", "output": "طلب النجده"}
+{"input": "I didn't check it, look at it", "output": "مَثَبِتِشْ فِيهَا"}
+{"input": "to smack, click with lips", "output": "طرطق فمو"}
+{"input": "gave the word for someone to speak", "output": "عطي الكلمه"}
+{"input": "to peel an orange", "output": "قَشِّرْ البُرْدْقَانْ"}
+{"input": "Nida Tounis political party", "output": "نِدَاءْ تُونِسْ"}
+{"input": "he's super happy, walking on the clouds", "output": "بِشْ إطِيرْ مِلْ الفَرْحَة"}
+{"input": "to pay indemnity, repay, pay damages", "output": "عوضلو الضرر"}
+{"input": "he doesn't feel at ease, comfortable", "output": "مَهُوشْ حَاسْ رُوحُو فِي بْلَاصْتُو"}
+{"input": "something's bothering him, he's always thinking about something", "output": "شاغلتّو حاجة"}
+{"input": "to predict the future", "output": "تنبا بالمستقبل"}
+{"input": "they're distant, they don’t talk to eachother", "output": "فَمَّا فَرَاغْ بِينَاتْهُمْ"}
+{"input": "it made him frustrated, angry", "output": "طَلّعْلُو رُوحُو"}
+{"input": "to overcome, be stronger than, to show force", "output": "تْقَوَّا عْلِيهْ"}
+{"input": "living room, sitting room", "output": "بِيتْ القْعَادْ"}
+{"input": "give it to me, come one", "output": "هات جاي"}
+{"input": "to give birth to twins", "output": "جَابْتْ تْوَامَة"}
+{"input": "to switch gears (in car)", "output": "بَدِّلْ الفِيتَاسْ"}
+{"input": "laughing hard, dying of laughter", "output": "كِيخْ كِيخْ"}
+{"input": "to ask for directions", "output": "سهل ع الثنيّة"}
+{"input": "his nerves calmed down", "output": "تْرَتَّحْ الأَعْصَابْ"}
+{"input": "hold out your hands", "output": "مد يديك"}
+{"input": "he's married to a genie", "output": "مَاخُو جِنِيَّةْ"}
+{"input": "to have heard it a lot, to know the drill", "output": "عَبَّى مِنْهَا شْكَايَرْ"}
+{"input": "taking care of himself", "output": "لاهي بروحو"}
+{"input": "the hottest part of the afternoon", "output": "غَرْغُورْ لْقَايْلَةْ"}
+{"input": "yogurt dessert for kids (Petit Suisse)", "output": "بُوتِي سْوِيسْ"}
+{"input": "he's tired of life, really angry", "output": "كَارِهْ رُوحُو"}
+{"input": "to speak too much, use profanity", "output": "كثرلها بالكلام"}
+{"input": "to witness, give testimony", "output": "استشهد بشهود"}
+{"input": "to use, invest one's money", "output": "خدّمْ فْلُوسُو"}
+{"input": "to find a solution", "output": "لقي الحل"}
+{"input": "a long time ago, a while ago", "output": "من قبل"}
+{"input": "I'm going to do the car inspection tomorrow.", "output": "غدوة باش نمشي نعمل الفحص الفني للكرهبة"}
+{"input": "at the appropriate level, fitting", "output": "في المستوي"}
+{"input": "to lose one's memory", "output": "فقد ذاكره"}
+{"input": "he wasn't shaken, didn't move from his principles", "output": "مَا تَزَحْزَحِشْ عَلَى مَبْدَأْ"}
+{"input": "she pushed the child", "output": "دَزِّتْ الصْغِيرْ"}
+{"input": "to demand one's rights", "output": "طْلَبْ حَقُّو"}
+{"input": "to finish the rest", "output": "كمل الباقي"}
+{"input": "to cause a problem", "output": "شعّل النّار"}
+{"input": "to put a hand of Fatima up", "output": "حَطْ خُمْسَة"}
+{"input": "She put the sample in the tube to test it.", "output": "حطت العينة في التوب بش تحللها"}
+{"input": "he insulted him, ripped into him", "output": "سَمْعُو الكْلَامْ"}
+{"input": "he went in a disciplined manner", "output": "مْشَى سِتْرِيكْتْ"}
+{"input": "it turned out it was at that time?", "output": "طْلَعْ فِي الوَقْتْ الفُلَانِي"}
+{"input": "to pay a deposit for a band", "output": "عْطَى عَرْبُونْ فِي الفِرْقَةْ"}
+{"input": "to forget about them", "output": "شطب عليهم"}
+{"input": "to make a copy", "output": "عمل نسخه"}
+{"input": "to speak with a loud voice", "output": "حكي بالقوي"}
+{"input": "to calm oneself down", "output": "رَكَّحْ رُوحُو"}
+{"input": "to take a big gulp of water (antiquated)", "output": "شرب ڨرتوع"}
+{"input": "he has the right, he's right", "output": "فِي مَحَلُّو"}
+{"input": "he's a good person", "output": "قَلْبُو أَبْيِضْ"}
+{"input": "made a reputation for himself", "output": "مَحَيِّرْ إِسْمُو"}
+{"input": "it stopped in the middle of the road, he quit halfway through", "output": "وْقِفْ فِي شْطَرْ الثْنِيَّةْ"}
+{"input": "to have taken things into account", "output": "قَارِي حْسَابُو"}
+{"input": "to run away from", "output": "ڨَطَّعْ بِيهُمْ"}
+{"input": "his face reddened from anger or shame", "output": "وجهو تلون"}
+{"input": "in good spirits, feeling good", "output": "مُورَالْ طَالِعْ"}
+{"input": "to keep one's balance, to stay balanced", "output": "شاد الأكيليبر"}
+{"input": "he ate his food", "output": "خْذَا فْطُورُو"}
+{"input": "I've only seen good things in him", "output": "مَا رِيتْ مِنُّو كَانْ الخِيرْ"}
+{"input": "he brainwashed him, confused him", "output": "شْرَبْلو عَقْلُو"}
+{"input": "Honk at him so he gets out of the road.", "output": "زمر عليه بش يبعد م الكياس"}
+{"input": "country bumpkins, from the sticks", "output": "وراء لبلايك"}
+{"input": "he heard about me", "output": "سْمَعْ بِيَّا"}
+{"input": "to think too well of oneself, arrogant", "output": "غَالِطْ فِي رُوحُو"}
+{"input": "you wouldn’t recognize him", "output": "مَا يَتْعَقِّلِشْ"}
+{"input": "you have limits; don't get involved in others' business", "output": "حَدُّو حَدْ المْسُقِّي"}
+{"input": "they reconciled, there's no anger or bitterness anymore", "output": "قُلُوبْهُمْ صْفَاتْ"}
+{"input": "very new, brand new", "output": "جديد نبره"}
+{"input": "the edge of the stairs", "output": "حَرْفْ الدْرُوجْ"}
+{"input": "I'm done, can't take it anymore", "output": "مَاعَادِشْ إِنَجِّمْ"}
+{"input": "he got his punishment", "output": "خْذَا بَايُو"}
+{"input": "it confuses, distracts him", "output": "مشغشب عليه"}
+{"input": "Leave it for the party when we eat cake.", "output": "خلي في السهرية توا ناكلو القطو"}
+{"input": "His Holiness the Pope", "output": "قداسه البابا"}
+{"input": "to be reflected on", "output": "تنعكس علي"}
+{"input": "never in my life, never ever", "output": "جَامَا دْلَا فِي"}
+{"input": "to dig a tunnel", "output": "حفر خندق"}
+{"input": "he is out of money", "output": "وْفَاتْ فْلُوسُو"}
+{"input": "a bitter, pungent, sour smell", "output": "رِيحَة قَارْصَة"}
+{"input": "to change one's behavior", "output": "غير تصرفاتو"}
+{"input": "to raise one's hands", "output": "طَلَّعْ إِيدِيهْ"}
+{"input": "to start eating breakfast (break the fast)", "output": "شق فطرو"}
+{"input": "Hadith which is basically authentic", "output": "حَدِيثْ قَرِيبْ مِنَ الصَّحِيحْ"}
+{"input": "Take the kid by the hand and cross the street with him.", "output": "شد إطفل من يدو وشق بيه إلكياس"}
+{"input": "he signed a contract", "output": "صَحَّحْ كُونْتْرَا"}
+{"input": "he's not in full use of his faculties", "output": "مَهُوشْ فِي كَامِلْ قُدُرَاتُو العَقْلِيَّةْ"}
+{"input": "as skinny as a stick", "output": "ضْعَافْ كِي لْعُودْ"}
+{"input": "honestly, in truth, from his heart", "output": "من قلبو"}
+{"input": "he won one thing", "output": "ربح كعبه"}
+{"input": "common, recurrent, always happens", "output": "مِشْ مَرَّةْ مِشْ إِثْنِينْ"}
+{"input": "sea floor, bottom of the sea", "output": "قاع لبحر"}
+{"input": "she is taking care of the house", "output": "لَاهْيَةْ بِالدَّارْ"}
+{"input": "to go back, back up", "output": "اوخرو لتالي"}
+{"input": "to tie yourself to something, become obliged (often to somethingnegative)", "output": "رْبَطْ رُوحُو"}
+{"input": "he's like that, he has the tendency to", "output": "فيه طبيعه"}
+{"input": "surrounding someone or something", "output": "داير ب"}
+{"input": "he took a look", "output": "عْمَلْ طَلَّةْ"}
+{"input": "he followed his heart, did what he wanted", "output": "مْشَى بِهْوَاهْ"}
+{"input": "to be busy with something", "output": "تلهي بحاجه"}
+{"input": "he was proven guilty, was convicted", "output": "تِثْبِتْ عْلِيهْ الإِدَانَة"}
+{"input": "to open the window", "output": "حَلْ الشُبَّاكْ"}
+{"input": "care for the elderly", "output": "رعايه المسنين"}
+{"input": "In the seventh month, seventh week, seventh day", "output": "في السابع"}
+{"input": "to make a petition", "output": "قَدِّمْ عَرِيضَةْ"}
+{"input": "to become very rich", "output": "دَزْ الفْلُوسْ بِالرُّكْبَة"}
+{"input": "to take care of the bill", "output": "سَوَّى وَضْعِيَّةْ الفَاتُورَةْ"}
+{"input": "to void a law", "output": "لغي القانون"}
+{"input": "there is no one but them", "output": "مَا فَمَّاشْ غِيرْهُمْ"}
+{"input": "held up by a pushpin", "output": "مَشْدُودْ بِالبِينَاسْ"}
+{"input": "he followed the advice", "output": "خذا بالنصيحه"}
+{"input": "to blow one's cheeks", "output": "نفخ شبيخه"}
+{"input": "to get the house in order, clean up", "output": "تْرِيقْلِ الدَّارْ"}
+{"input": "it's increasing, going up", "output": "مَاشْيَةْ وَ تْزِيدْ"}
+{"input": "to win a lot of money, earn a lot", "output": "طَيَّحْ بَرْشَا فْلُوسْ"}
+{"input": "to respond physically or verbally", "output": "رَجَعْ عْلِيهْ"}
+{"input": "to take a bath", "output": "عْمَلْ بَانُو"}
+{"input": "to lose your fortune, wealth, money", "output": "ضيع ثروتو"}
+{"input": "to follow, spy on", "output": "تِلْهَى بِيهْ"}
+{"input": "he kept things secret", "output": "خَلَّاهَا سِكْرِيتُو"}
+{"input": "they lived at the same time, contemporaries", "output": "عَاشُو فَرْدْ وَقْتْ"}
+{"input": "Someone who is always helping people and is good to them", "output": "رَاجِلْ مْعَ العْبَادْ"}
+{"input": "the oil's rising, it's done cooking", "output": "تَاقِفْ عَلَى زِيتْهَا"}
+{"input": "to not care anymore, let it be", "output": "سيب الماء عل البطيخ"}
+{"input": "an economic leap forward, development", "output": "قفزه اقتصاديه"}
+{"input": "good time, joyful time", "output": "وقت سعيد"}
+{"input": "to make one's bed", "output": "ڨدْ فَرْشُو"}
+{"input": "it attracted him, it looked good to him", "output": "حْلَاتْ فِي عِينُو"}
+{"input": "to set a price for services", "output": "حْسِبْ هْبُوطُو"}
+{"input": "he became very angry, went wild", "output": "دْخَلْ وْ خْرَجْ فِي الحِلَّة"}
+{"input": "to grow up, start doing bad things", "output": "طَيَّحْ الرِّيشْ"}
+{"input": "to be arrogant, think of oneself as better", "output": "تعالى عليه"}
+{"input": "repulsive, wouldn't touch him with a pole", "output": "مَا يَتْهَزِّشْ بِمَقَصْ النَّارْ"}
+{"input": "be froze where he stood, couldn't do anything", "output": "جْمِدْ فِي بْلَاصْطُو"}
+{"input": "to give an award", "output": "عْطَاهْ جَايْزَةْ"}
+{"input": "he kept him waiting", "output": "خَلاَّهْ يِسْتَنَّى"}
+{"input": "to give a sideways glance, glare", "output": "غْزَرْ عَلَى جْنَبْ"}
+{"input": "to pour the cement for the roof", "output": "صَبّْ الدَّالَةْ"}
+{"input": "he harmed his reputation", "output": "شَوّهْلُو سُمْعْتُو"}
+{"input": "an authentic Hadith in islam", "output": "حَدِيثْ صَحِيحْ"}
+{"input": "to be defeated, be chewed up, criticized", "output": "كْلَا عَلَى رَاسُو"}
+{"input": "for the sake of", "output": "علي خاطر"}
+{"input": "to give someone her rights", "output": "عْطَاهَا حَقّْهَا"}
+{"input": "to give up, cancel, quit on something", "output": "طَيَّحْهَا لَحْكَايَةْ فِي المَاءْ"}
+{"input": "he went for, for a purpose", "output": "مْشَى عَلَى"}
+{"input": "to have a drink (especially tea)", "output": "عْمَلْ كَاسْ"}
+{"input": "to puff out one's chest", "output": "نفخ صدرو"}
+{"input": "he doesn't take advice, listen to advice", "output": "مَا يَاخُوشْ بِالنْصِيحَةْ"}
+{"input": "something that doesn't concern someone", "output": "حَاجَة مَا تَعْنِيهِشْ"}
+{"input": "hottest room in the hammam, sauna", "output": "بيت سخون"}
+{"input": "Arab trousers (loose pants)", "output": "سروال عربي"}
+{"input": "to cut in front, go in front", "output": "تعدي قبلو"}
+{"input": "a bucket full of cement, typically for construction work", "output": "سْطَلْ بَغْلِي"}
+{"input": "to open a bank account", "output": "حِلْ كُونْتْ"}
+{"input": "to reveal the truth", "output": "كشف لحقيقه"}
+{"input": "coffee with milk on bottom and coffee on top", "output": "قَهْوَةْ مَقْلُوبَةْ"}
+{"input": "he never stops talking", "output": "دِيمَا يهِرّْ"}
+{"input": "has no identity, isn't connected to his roots", "output": "معندوش هويه"}
+{"input": "in a hurry to get married", "output": "مَزْرُوبْ عَلْ العِرْسْ"}
+{"input": "to pull down one's pants, show private parts", "output": "كْشِفْ عَوْرْتُو"}
+{"input": "very quickly, hurry up", "output": "فيسع فيسع"}
+{"input": "he became a man", "output": "خَلِّفْ الرِّيشْ"}
+{"input": "room in a hotel", "output": "شومبر وتيل"}
+{"input": "it comes randomly, he's unlucky", "output": "وِينْ يَقَبِّلْ إِزَبِّلْ"}
+{"input": "to rely on oneself", "output": "عَمِّلْ عَلَى ذْرَاعُو"}
+{"input": "he put his hands up", "output": "هَزْ إِدِيهْ"}
+{"input": "going to pee, urinate (crass)", "output": "مَاشِي إِبَشْوِلْ"}
+{"input": "to cancel, tear up a contract", "output": "فَسِّخْ الكُونْتْرَا"}
+{"input": "to grant the kingly ring", "output": "عْطَاهَا خَاتِمْ العَهْدْ"}
+{"input": "weak person who can't do anything, powerless", "output": "رْهِينَة فِي تَرْكِينَة"}
+{"input": "he has no money to eat, no food", "output": "مَا عِنُوشْ بِشْ يَاكِلْ"}
+{"input": "The twelveth and final month of the islamic calendar", "output": "ذُو الحَجَّة"}
+{"input": "to give the time", "output": "قال الوقت"}
+{"input": "May God protect, preserve you", "output": "ربي اخليك"}
+{"input": "to sleep somewhere, use it as just a place to sleep", "output": "إحُطْ رَاسُو عَنْدْ"}
+{"input": "Each day has its situations, circumstances", "output": "كُلْ نْهَارْ وْ قَسْمُو"}
+{"input": "to get married, marry", "output": "لَمّْ سَاقِيهْ"}
+{"input": "it broke into pieces, fell apart", "output": "طَاحَتْ طْرُوفْ"}
+{"input": "get out of here, leave (impolite)", "output": "حنك الباب"}
+{"input": "He earned a lot of money.", "output": "صور برشا فلوس"}
+{"input": "cold days at the end of February", "output": "ڨِرّةْ العَنْزْ"}
+{"input": "He waited to eat because he was fasting.", "output": "شد روحو عل ماكلة خاترو صايم"}
+{"input": "good person, does what is right", "output": "وِلْدْ حْلَالْ"}
+{"input": "he believed the lie, to naiively believe", "output": "شرب لحكاية"}
+{"input": "to consider something, form an opinion", "output": "ضْرَبْ خْمَاسُو فِي سْدَاسُو"}
+{"input": "to study and respond/answer", "output": "قْرَى وِرْدْ"}
+{"input": "something that someone ignores", "output": "حاجه يجهلها"}
+{"input": "to mock, joke with, make fun of, indirectly criticize", "output": "زَلَّقْهَالُو بِتْفَدْلِيكَة"}
+{"input": "safe (in bank), vault", "output": "شُومْبِرْ فُورْتْ"}
+{"input": "a crowd and a goalkeeper, a large crowd, they only played defense", "output": "حَضْبَة وْ ڨُولْ"}
+{"input": "all the girls were dressed immodestly", "output": "عْرَى وَ ڨْرَى"}
+{"input": "to deny a belief, reject religion", "output": "رفض الايمان"}
+{"input": "he knows something, is aware", "output": "فِي بَالُو بْحَاجَةْ"}
+{"input": "he has found a solution by himself", "output": "دَبِّرْ رَاسُو وَحْدُو"}
+{"input": "sensible, good, appropriate idea", "output": "فِكْرَةْ فِي بْلَاصِتْهَا"}
+{"input": "he never leaves the house, don't come into the house", "output": "حَدُّو حَدْ الدَّارْ"}
+{"input": "empty, leave a place", "output": "دِيقَاجِي لِبْلَاصَة"}
+{"input": "he worked step by step", "output": "خْدِمْ وَحْدَا وَحْدَا"}
+{"input": "lower class, average people", "output": "طبقه شعبيه"}
+{"input": "well-educated, has studied a long time", "output": "قَارِي بَرْشَةْ"}
+{"input": "the air's not flowing, it's stuffy", "output": "هواء مسكر"}
+{"input": "to sleep together (usually sex)", "output": "رَقْدُو مْعَ بْعَضْهُمْ"}
+{"input": "I'm looking for a university where I can study theology.", "output": "نلوج على فاك بش نقرى فيها تيولوجي"}
+{"input": "to masturbate (ironic way of speaking)", "output": "حَيَّا العَلَمْ"}
+{"input": "dish with egg and ground meat (at weddings)", "output": "عِينْ سْبَنْيُورِيَّةْ"}
+{"input": "AKA, known by the name, with the nickname", "output": "معروف باسم"}
+{"input": "to deny, call something false", "output": "إفنِّدْ الأَقْوَالْ"}
+{"input": "mortuary, office in town hall related to deaths", "output": "قسم الوفيات"}
+{"input": "His expectations were not realistic", "output": "حْلِمْ بَرْشَا"}
+{"input": "to tighten one's muscles", "output": "كْبِسْ المُوسْكِلْ"}
+{"input": "he made him confused", "output": "دَخْلُو بَعْضُو"}
+{"input": "Salafism by words alone, theoretical salafism", "output": "سَلَفِيَّة عِلْمِيَّة"}
+{"input": "to curse one's father and relatives (crass)", "output": "لَعَنْ بُوكْ وْ بُو تْرَابْ بُوكْ"}
+{"input": "to become friends again", "output": "عَاوِدْ لْحِمْهُمْ"}
+{"input": "basket, container for carrying wedding jewelry", "output": "كْنَسْتْرُو ذْهَبْ"}
+{"input": "He ate just a little", "output": "كْلَى دُوبْ إِلَّاشْ"}
+{"input": "how did you figure out, come up with", "output": "كيفاش توصلتو"}
+{"input": "as he was born, pure, without sin", "output": "كِيمَا وِلْدِتُّو أُمُّو"}
+{"input": "to catch one's breath", "output": "رَجَّعْ النْفَسْ"}
+{"input": "to ask for mercy", "output": "طلب الرحمه"}
+{"input": "to be very stingy, tight with money", "output": "تْقَرْنِطْ بَرْشَا"}
+{"input": "to have a revolution", "output": "عْمَلْ ثَوْرَةْ"}
+{"input": "they held it up with wire", "output": "مْدَوْرِينْهَا بِالتَّلْ"}
+{"input": "I couldn't find the place, I'm lost", "output": "مَلْقِيتِشْ البُقْعَةْ"}
+{"input": "to wish bad, evil on someone", "output": "تنمنالو الشر"}
+{"input": "he always protects him, provides for him, covers him", "output": "مْسَخِّنْ بِيهْ أَكْتَافُو"}
+{"input": "the eleventh month in the Islamic calendar", "output": "ذُو القَعْدَة"}
+{"input": "to join, get involved, sign up", "output": "انضم الي"}
+{"input": "he received a money order", "output": "خْذَا مَانْدَا"}
+{"input": "oven/container for hookah coals", "output": "كَانُونْ مْتَاعْ وْلَعْ"}
+{"input": "house built by a construction company called Essnit", "output": "دَارْ مْتَاعْ السْنِيتْ"}
+{"input": "in the middle of the street", "output": "فِي فُمّْ الكَيَّاسْ"}
+{"input": "The Popular Front: political party", "output": "جبهه الشعبيه"}
+{"input": "one of the pilgrimage activities (walking between two springs)", "output": "سَعي بَيْنَ الصَّفَا وَ المَرْوَا"}
+{"input": "it's going up, rising", "output": "مَاشِي وْ يَطْلَعْ"}
+{"input": "to throw himself, go into something without thinking or caring", "output": "رْمَى رُوحُو وِينْ إجِي"}
+{"input": "to be treating each other poorly, mistreating each other, feuding", "output": "عَامْلِينْ الدْوَانَةْ مَعَ بْعَضْهُمْ"}
+{"input": "they always catch him, get him", "output": "كِي الجَرْبُوعْ دِيمَا يُحْصُلْ"}
+{"input": "to spread manure in a field", "output": "رَشْ لَغْبَارْ"}
+{"input": "she got custody of the children", "output": "خْذَاتْ الحَضَانَة"}
+{"input": "small plant eaten by sheep", "output": "بُو حْليبَة"}
+{"input": "friend, bro, man, dude (rare)", "output": "بْنِي عَمُوسْ"}
+{"input": "to become really tall (like a giraffe)", "output": "طْوَالْ كِي الزَّرَافَةْ"}
+{"input": "I'm goig to the national library tomorrow to look for references.", "output": "غدوة نمشي للمكتبة الوطنية بش نلوج عل المراجع"}
+{"input": "he's always willing to go along", "output": "مَا يْوَخِّرْهَاشْ لْتَالِي"}
+{"input": "to recite, quote (especially Quran)", "output": "تْلَا يَتْلُو"}
+{"input": "a good amount of money", "output": "دَزَّة بَاهْيَة"}
+{"input": "under his responsibility, at his service", "output": "عَلَى ذِمْتُو"}
+{"input": "to give an opinion", "output": "عْطَى رَايُو"}
+{"input": "someone who's always coming by, often to nag", "output": "خَرَّارْ مَرَّارْ"}
+{"input": "they organized a mass", "output": "عَمْلُو مَاسْ"}
+{"input": "He doesn't tell anything, he's a blank slate", "output": "صبُّورَة كَحْلَة"}
+{"input": "he doesn't eat carbs", "output": "مَا يَاكِلِّشْ العَجِينْ"}
+{"input": "He was well-behaved and began to eat well.", "output": "شد إريڨلة ونظم روحو فلماكلا"}
+{"input": "the voice of the law, power of the law", "output": "صَوّتْ لِقَانُونْ"}
+{"input": "to get good grades", "output": "عْطَاتْ نَتَائِجْ بَاهِيَةْ"}
+{"input": "the shape of the face", "output": "فورمه لوجه"}
+{"input": "to fold or put hands together", "output": "قرفص ايديه"}
+{"input": "God, the God of heaven", "output": "الاه السماء"}
+{"input": "taking care of his health", "output": "لَاهِي بْصَحْتُو"}
+{"input": "Take the shirt and wet it, then let it dry out.", "output": "شد بل المريول وبعد شيحو"}
+{"input": "he made a decision", "output": "خذا قرار"}
+{"input": "the chief of merchants (very old fashioned word)", "output": "شهبندر التجار"}
+{"input": "to let water flow, to not worry", "output": "اسيب الماء"}
+{"input": "he's found a way to earn money", "output": "دَبِّرْ رَاسُو"}
+{"input": "he's wise, thinks clearly and carefully", "output": "مُخُّو رْزِينْ"}
+{"input": "things got harder, life became difficult", "output": "ضْيَاقِتْ عْلِيهْ"}
+{"input": "expensive prices, really high prices", "output": "أَسْوَامْ نَارْ"}
+{"input": "he ate a ton, an unbelievable amount", "output": "كْلَى مِشْ نُورْمَالْ"}
+{"input": "to look down upon yourself", "output": "حْقَرْ رُوحُو"}
+{"input": "rain and sun at the same time", "output": "عِرْسْ الذِّيبْ"}
+{"input": "talking in his sleep", "output": "رَاقِدْ و يَحْكِي وَحْدُو"}
+{"input": "to brush one's hair", "output": "عْمَلْ بِلْبْرُوسْ"}
+{"input": "middle of house, hall", "output": "وسط الدار"}
+{"input": "Sheep dog, German shepherd", "output": "كلب بيرجا"}
+{"input": "he has a relationship with, it concerns", "output": "عَنْدُو عَلَاقَةْ بِ"}
+{"input": "he entered paradise, the kingdom", "output": "دخل الملكوت"}
+{"input": "to live a careless/reckless life, not care about anything", "output": "عَاشْ سَبْهْلَلَا"}
+{"input": "The first day of the new year in the Christian calendar", "output": "رَاسْ العَامْ العِجْمِي"}
+{"input": "unfriendly person, sociopath (crass)", "output": "عُصُّو رْزِينْ"}
+{"input": "someone who comes from a rough place", "output": "جَايْ مِالهِيهْ"}
+{"input": "amulet, small Quran worn around the neck", "output": "عَنْدُو حِصْنْ"}
+{"input": "only one of something", "output": "كعبه وحدا"}
+{"input": "to go on pilgrimage to Karbala (Shiite)", "output": "حَجْ إِلَى كَرْبَلَاءْ"}
+{"input": "made of, composed of", "output": "متكون من"}
+{"input": "he has nothing to do and just goes along with everybody", "output": "مَاشِي مَعَ المَاشِينْ وْ جَايْ مَعَ الجَّايِينْ"}
+{"input": "asleep on his stomach", "output": "رَاقِدْ عَلَى كِرْشُو"}
+{"input": "to marry for a benefit (not for love)", "output": "عِرْسْ مَصَالَحْ"}
+{"input": "to cut off, kill, eliminate", "output": "قْطَعْهُمْ مِلْ الوُجُودْ"}
+{"input": "to divide the inheritance", "output": "قسمو الورثه"}
+{"input": "to pull an all-nighter", "output": "عَدَّا نْوِي بْلُونْشْ"}
+{"input": "to sit next to", "output": "قعد بجنب"}
+{"input": "he does what he thinks is right, what he wants", "output": "تصرّف على زي راسو"}
+{"input": "to burn with a cigarette butt", "output": "كْوَاهْ بِالبُونْتَةْ"}
+{"input": "he keeps his dignity, honor, name", "output": "مَا يَطَيَّحِشْ قَدْرُو"}
+{"input": "he doesn't know how to make good decisions, act", "output": "مَا يَعْرِشْ وِينْ يَحُطْ سَاقِيهْ"}
+{"input": "the price is very high", "output": "سُومْ طَالَعْ بَرْشَا"}
+{"input": "to set the table", "output": "حضر الطاوله"}
+{"input": "the house of the bridegroom", "output": "دار العروس"}
+{"input": "he has tons of money and property, such that he doesn't know where some of it is", "output": "مَا يَعْرِشْ عَلَى طَرْفْ خْلَاهَا وِينْ"}
+{"input": "he is growing up", "output": "قَاعِدْ يِكْبِرْ"}
+{"input": "aroma/smell is wafting, detectable", "output": "ريحَة تْفُوحْ"}
+{"input": "to set the alarm clock", "output": "عَمِّرْ الفَيَّاقَةْ"}
+{"input": "responsible for, in charge of", "output": "مِتْكَلِّفْ بِ"}
+{"input": "happy with his life", "output": "فرحان بعيشتو"}
+{"input": "Could you do me a favor?", "output": "تَعْمِلْ عْلِيَّا مْزِيَّة"}
+{"input": "to lower the price a little", "output": "طَيَّحْ شْوَيَّا فِي السُّومْ"}
+{"input": "he gave feedback, review", "output": "عْمَلِّكْ بِيلُونْ"}
+{"input": "to die, go to God", "output": "طلع لربي"}
+{"input": "the air is stale, it's stuffy", "output": "هواء حبس"}
+{"input": "to pat on the back", "output": "دَهْدَهْ عْلَى ظَهْرُو"}
+{"input": "to discover a secret, figure something out", "output": "فَكّْ لْعُقْدَةْ"}
+{"input": "It went by peacefully, without trouble.", "output": "تعدى سلامات"}
+{"input": "to crush the enemy", "output": "سحق العدو"}
+{"input": "low production, small crop", "output": "مَنْتُوجْ قَلِيلْ"}
+{"input": "wedding hall, place for parties", "output": "قَاعِةْ أَفْرَاحْ"}
+{"input": "to stay to oneself", "output": "شَادْ بَبُّوشْتُو"}
+{"input": "I won't give you even a millime", "output": "فْرَنْكْ مَتْرَاهُوشْ مِنْ عَنْدُو"}
+{"input": "he gave up his weapons", "output": "سلم سلاحو"}
+{"input": "to lick the plate", "output": "لْحس الصّْحَنْ بِلْسَانُو"}
+{"input": "to shine, be bright and clean", "output": "تلمع بالنظافه"}
+{"input": "he won the battle", "output": "ربح معركه"}
+{"input": "busy line (on phone)", "output": "خط مشغول"}
+{"input": "to donate one's money", "output": "تبرع بفلوسو"}
+{"input": "Peace, mercy and blessings from God", "output": "سَلَامُ عَلَيْكُمْ وَ رَحْمَةُ الله وَ بَرَكَاتُه"}
+{"input": "white part of a bagette on the inside", "output": "بابه الخبز"}
+{"input": "to ride, surf the waves", "output": "ركب الموجه"}
+{"input": "total desert (there's absolutely nothing around)", "output": "صحراء كونفور"}
+{"input": "dying of hunger, starving", "output": "ميت بالجوع"}
+{"input": "to raise the volume", "output": "عَلَّى فِي الصُّوتْ"}
+{"input": "to hide your face from someone", "output": "تَڨّى رَاسُو عَندْ"}
+{"input": "his life is hard", "output": "حياتو صعيبه"}
+{"input": "to adjust the noise", "output": "يركح الصوت"}
+{"input": "aware of the issue, understands it", "output": "مِسْتَوْعِبْ الحْكَايَةْ"}
+{"input": "it's not an official copy", "output": "مَهِيشْ كُونْفُورْمْ"}
+{"input": "on its way to disaster, about to crash into a wall", "output": "داخل في حيط"}
+{"input": "Your Honor, term of respect for judge", "output": "حضره القاضي"}
+{"input": "a small amount of money", "output": "طَرْفْ فْلُوسْ"}
+{"input": "he believed in himself", "output": "عْطَا ثِقَةْ فِي رُوحُو"}
+{"input": "to say hurtful things", "output": "قَالْ كْلاَمْ جَارِحْ"}
+{"input": "it didn't go through", "output": "مَا تَعَدَّاشْ"}
+{"input": "to give to the poor", "output": "صدق للفقراء"}
+{"input": "he took it into consideration", "output": "قْرَالْهَا حْسَابْهَا"}
+{"input": "blood boiling out of anger, extreme anger", "output": "فوران دم"}
+{"input": "old-fashioned, no longer used or sold", "output": "مَعَاشْ طَالْعَةْ"}
+{"input": "she has a lot of children", "output": "عَنْدْهَا بَرْشَا ذِرِّي"}
+{"input": "they requisitioned all his property", "output": "صَادِرْولُو أَمْلَاكُو"}
+{"input": "he doesn't know how to get there", "output": "مُوشْ عَارِفْ مْنِينْ إِقَبِّلْ"}
+{"input": "loud voice or sound", "output": "صوت قوي"}
+{"input": "don't give up, keep going", "output": "رَّخْ لَا"}
+{"input": "to repent, come back to God", "output": "رجع لربي"}
+{"input": "sure about something, convinced", "output": "متيقن بحاجه"}
+{"input": "he keeps his word, he's a man of his word", "output": "عَنْدُو كِلْمَةْ"}
+{"input": "to remove seeds, pits", "output": "نَحِّي لِقْلُوبْ"}
+{"input": "These days I am very busy.", "output": "أنا ليامات لاهي برشا"}
+{"input": "he made a sound", "output": "خرج صوت"}
+{"input": "to explain the situation", "output": "فسر الوضعيه"}
+{"input": "what is he doing?", "output": "شعمل شيعمل"}
+{"input": "pretending to be an old man", "output": "لَاعِبْهَا عْزُوزْ"}
+{"input": "he's at the age for marrying", "output": "عُمْرُو مْتَاعْ عِرْسْ"}
+{"input": "Borj El Amri prison", "output": "حَبْسْ بُرْجْ العَامْرِي"}
+{"input": "he gave up his right to something", "output": "سَلِّم فِي"}
+{"input": "to praise the Lord", "output": "سبح لربي"}
+{"input": "come eat with us", "output": "هَايْ بِسْمِ اللَهْ"}
+{"input": "to stop traffic, block traffic", "output": "وَقْفُو السِرْكُولاَسْيُونْ"}
+{"input": "to take back what you said", "output": "سحب كلامو"}
+{"input": "quickly: \"boom boom\" or \"one two\"", "output": "تيك تاك"}
+{"input": "he got really confused", "output": "ضَاعْ فِيهَا"}
+{"input": "He got in line to buy a ticket for the metro.", "output": "شد الصف باش يقص إتسكر متع إلمترو"}
+{"input": "to toy with one's life, do something be very dangerous", "output": "لْعَبْ بِحْيَاتُو"}
+{"input": "to lower, reduce your speed", "output": "طَيَّحْ فِي الفِيتَاسْ"}
+{"input": "he granted his wishes", "output": "لبالو رغباتو"}
+{"input": "to take revenge on, revolt", "output": "ثار علي"}
+{"input": "Prop it up or grab it so that it doesn't fall down", "output": "كَالَاهَا بِشْ مَطِّيحِشْ"}
+{"input": "things are quite crazy, hot right now (lots of problems)", "output": "دِنْيَة شِعْلِتْ فِيهَا النَّارْ"}
+{"input": "they did the Lord's Prayer", "output": "عَمْلُو الصَلَاةْ الرَبَّانِيَّةْ"}
+{"input": "he makes a lot of noise, talks a lot", "output": "حِسُّو بَرْشَا"}
+{"input": "he feels weird, not on his game", "output": "إحِسْ رُوحُو دْرَا كِيفَاشْ"}
+{"input": "to dress up, freshen up, look good", "output": "زَيِّنْ رُوحُو"}
+{"input": "he took a certain path, lifestyle", "output": "مْشَى فِي ثْنِيَّةْ"}
+{"input": "to boast of one's wealth, be proud of it", "output": "شَبْرِشْ بِفْلُوسُو"}
+{"input": "idiot, mule, stupid person", "output": "راس لبغل"}
+{"input": "to calm things down", "output": "صَبّْ المَاءْ عَ النَّارْ"}
+{"input": "he died angry and frustrated with life", "output": "مات مقهور"}
+{"input": "everyone was hitting and fighting each other", "output": "ضَارِبْ وْ مَضْرُوبْ"}
+{"input": "to smell, put out a smell", "output": "سَيِّبْ فِي ريحَة"}
+{"input": "they asked for a ceasefire, truce", "output": "طَلْبُو هُدْنَةْ"}
+{"input": "bewitched by a woman, in love", "output": "مَسْحُورْ بِيهَا"}
+{"input": "he showed his agressive character", "output": "خَرِّجْ ضْوَافْرُو"}
+{"input": "The Gulf of Tunis", "output": "خليج تونس"}
+{"input": "the family of the deceased", "output": "عَايَلْةْ المَرْحُومْ"}
+{"input": "to be tougher, no longer be merciful", "output": "كْبِسْ عَلِيهْ"}
+{"input": "he acted like he didn't know, wasn't aware", "output": "حْسِبْ رُوحُو مَا فِيبَالُوشْ"}
+{"input": "old but does not appear to be so", "output": "شَارِفْ تَحْتْ الجِلْدَةْ"}
+{"input": "stuck alone, hanging out alone", "output": "مَطَيِّشْ وَحْدُو"}
+{"input": "they didn't take into account, consider", "output": "مَعْمَلُّوشْ حَسَابْ"}
+{"input": "to do something too hard for you", "output": "تْقَوَّى عَلَى بَدْنُو"}
+{"input": "not how he wanted", "output": "مِشْ عَلَى كِيفُو"}
+{"input": "he woke up scared", "output": "قَامْ خَايِفْ"}
+{"input": "Milien River (in Rades)", "output": "وَادْ مِلْيَانْ"}
+{"input": "man-to-man fight, one on one", "output": "عَرْكَةْ رَاسْ رَاسْ"}
+{"input": "to get a haircut", "output": "عْمَلْ كُوبْ"}
+{"input": "he gave the maximum", "output": "عْطَى المَاكْسِيمُومْ"}
+{"input": "he always helps the poor, generous", "output": "مَيْخَلِهَاشْ بِالزَوَّالِي"}
+{"input": "he did as much as he could", "output": "عْمَلْ المَاكْسِيمُومْ بُوسِيبِلْ"}
+{"input": "at the middle of the day", "output": "عقاب النهار"}
+{"input": "accompanying interpretation, attached commentary", "output": "تفسير ملحق"}
+{"input": "to get oneself into a problem, interfere", "output": "إدخّل فِي رُوحُو"}
+{"input": "prayer without heart or understanding, to be seen by people", "output": "صْلَاةْ التِبِّيبْ"}
+{"input": "they think the same, same perspective", "output": "مُونْتَالِيتَا وَحْدَا"}
+{"input": "Turn your car to the right and let the guy park.", "output": "دور الكرهبة ع اليمين خلي الراجل يبركي"}
+{"input": "meeting someone unexpectedly, finding someone right in front of", "output": "كَفْ وْ غُرْزَة"}
+{"input": "bad apple in a family", "output": "عَظْمَةْ حَارْمَةْ"}
+{"input": "unprotected, left wide open", "output": "مَهِيشْ مَحَصّْنَةْ"}
+{"input": "to have a great time, enjoy", "output": "عْمَلْ بُونْ كِيفْ"}
+{"input": "chili pepper, hot pepper", "output": "فِلْفِلْ بَارْ لَعْبِيدْ"}
+{"input": "to earn a lot of money", "output": "صَوِّرْ بَرْشَا فْلُوسْ"}
+{"input": "to tell about something incorrectly", "output": "حْكَى حَاجَة غَالْطَة"}
+{"input": "recipe, how to cook something", "output": "طريقه الطبخ"}
+{"input": "to pray for, ask for mercy for deceased person", "output": "ترحم عليه"}
+{"input": "she betrayed him with an other man", "output": "خَانِتُّو مْعَ رَاجِلْ آخِرْ"}
+{"input": "Sand Flower, desert rose", "output": "زهره الرمل"}
+{"input": "he becomes aggressive or angry very quickly", "output": "فِيسَعْ مَا يَتْهَزّْ وْ يَتِنْفَضْ"}
+{"input": "It's like you're running away from the police.", "output": "تْقُولْ هَارِبْ مِ الحَاكِمْ"}
+{"input": "to deprive someone of his rights", "output": "هضملو حقوقو"}
+{"input": "to be happy for someone", "output": "فرح لفلان"}
+{"input": "peninsula south of Tunis (Hammammat, Nabeul, etc.)", "output": "مِنْطَقَةْ الوَطَنْ القِبْلِي"}
+{"input": "to collect, gather one's things", "output": "لَمّْ دَبْشُو"}
+{"input": "Please, could I ask you something? How can I get to Marsa?", "output": "بالله بش نسهلك ، كيفاش نمشي للمرسى ،"}
+{"input": "to get married in secret", "output": "عَرِّسْ بِالسِّرْقَةْ"}
+{"input": "not connected, has nothing to do with", "output": "مِشْ مَرْبُوطْ بِحْكَايَةْ"}
+{"input": "to kill, take someone's soul", "output": "قبضلو روحو"}
+{"input": "bad deal, bad sale", "output": "بيعه مقطعه"}
+{"input": "to wake up from sleep", "output": "قَامْ مِالنُّومْ"}
+{"input": "he entered the bakery", "output": "دخل للكوشه"}
+{"input": "they're rich, God blessed them with a lot", "output": "عْطَاهُمْ رَبِّي"}
+{"input": "He's acting sick so he doesn't have to go to work.", "output": "يتمارض بش ما يمشيش يخدم"}
+{"input": "protectors of the country", "output": "حُمَاةَ الحِمَى"}
+{"input": "to ask for forgiveness", "output": "طْلَبْ سْمَاحْ"}
+{"input": "he registered it in his name", "output": "كْتِبْلُو بِسْمُو"}
+{"input": "followers, disciplers of Jesus", "output": "اتباع المسيح"}
+{"input": "he didn't work well", "output": "مَخْدِمِّشْ بِالقَدَا"}
+{"input": "he's a loser, doesn't succeed in anything", "output": "مَاهُو فَالَحْ فِي حَتَّى شَيْ"}
+{"input": "to ask somebody to get something, pass on message", "output": "عْطَاهْ وْصِيَّةْ"}
+{"input": "while it is still in the air", "output": "علي الطاير"}
+{"input": "the arrival of autumn/fall", "output": "دخول الخريف"}
+{"input": "to lease, sign a rental contract", "output": "عْمَلْ عَقْدْ كِرَاءْ"}
+{"input": "full of dirt, really dirty", "output": "مليان بالوسخ"}
+{"input": "there is a possibility", "output": "فما امكانيه"}
+{"input": "to dig someone's grave", "output": "حفرولو قبرو"}
+{"input": "to cut one's hair, get a haircut", "output": "قص شعرو"}
+{"input": "to give a recommendation, support", "output": "عْطَى تَزْكْيَةْ"}
+{"input": "he walked really slowly, hardly went anywhere", "output": "مْشَى بِالسِّيفْ"}
+{"input": "the market is getting better", "output": "مَرْشِي طَالَعْ"}
+{"input": "to live alone, be single", "output": "عاش وحداني"}
+{"input": "to put to sleep, lull", "output": "جاب النوم"}
+{"input": "to tell someone his/her fortune", "output": "قرالو حظو"}
+{"input": "young man who is after women (named after movie)", "output": "عَصْفُورْ سْطَحْ"}
+{"input": "road full of potholes", "output": "كَيَّاسْ مْحَفِّرْ"}
+{"input": "he's poorly educated doesn't know much", "output": "مَعْرِفْتُو قْلْيلَةْ"}
+{"input": "to erase somebody from memory", "output": "دِفْنُو فِي قْبَرْ مِنْسِي"}
+{"input": "to look down on, avoid", "output": "وَطَّى فِيهْ العِينْ"}
+{"input": "there's no one there at all, it's totally abandoned, desolate", "output": "رِيحَة البَشَرْ مَفَمَّاشْ"}
+{"input": "he let a few tears fall", "output": "هَبِّطْ دَمْعْتِينْ"}
+{"input": "That woman has a lot of children.", "output": "المرا هاذي عندها برشا ذري"}
+{"input": "burial necessities (plot, coffin, etc.)", "output": "لوازم الدفن"}
+{"input": "hotel in the old medina", "output": "فندق لمدينه"}
+{"input": "to make someone crazy, wild", "output": "خرج مالعقل"}
+{"input": "he's not content, isn't grateful for what he has", "output": "مَهُوشْ قَنُوعْ"}
+{"input": "things are terrible, unfair, what a bad situation", "output": "مَلَّا حَالَة"}
+{"input": "to kick someone and trip him", "output": "ضرب بمشته"}
+{"input": "he left it as he found it", "output": "خَلَّاهَا كِيمَا لْقَاهَا"}
+{"input": "self-respectful, doesn't bother others, keeps out of others' business", "output": "مُحْتَرِمْ رُوحُو"}
+{"input": "he threatened him, warned him", "output": "تحلف فيه"}
+{"input": "I put a lot of paprika in the food an it turned out to be very hot.", "output": "حطيت برشة بابريكا في الماكلة جات محرحرة برشة"}
+{"input": "to make a fortune", "output": "كون ثروه"}
+{"input": "summary of what was said", "output": "خلاصه القول"}
+{"input": "to become healthier, gain weight", "output": "رَبَّا صَحْتُو"}
+{"input": "starling bird found in olive trees", "output": "عصفور زيتون"}
+{"input": "to visit, stop by", "output": "عْمَلْ طَلَّةْ"}
+{"input": "he ran away as fast as he could", "output": "ڨَطَّعْ سَاقِيهْ أَعْلَى مِنْ رَاسُو"}
+{"input": "exempt from prosecutions or procedures", "output": "مُعْفَى مِنَ التَتَبُعًاتْ"}
+{"input": "I'm getting ready to sleep.", "output": "هاني نحضر في روحي بش نرقد"}
+{"input": "going to the bathroom", "output": "مَاشِي لِتْوَالِيتْ"}
+{"input": "two small coins (next to nothing)", "output": "زُوزْ صُورْدِي"}
+{"input": "he's always active, doing something", "output": "مَا يَرَكَحِّشْ"}
+{"input": "he has an active imagination", "output": "خْيَالُو شاسَعْ"}
+{"input": "he relies on him, depends on him", "output": "معمل عليه"}
+{"input": "the side of the road", "output": "حَرْفْ الكَيَّاسْ"}
+{"input": "to show surprise, raise one's eyebrows", "output": "هِزْ حْوَاجْبُو"}
+{"input": "to do good things", "output": "عمل لخير"}
+{"input": "one square meter of land", "output": "مِيتْرُو تْرَابْ"}
+{"input": "to be still in good health", "output": "شاد روحو"}
+{"input": "the same family, same blood", "output": "دم واحد"}
+{"input": "exchange of prisoners (in war)", "output": "تبادل اسري"}
+{"input": "he doesn't think carefully, he's not wise", "output": "مَاهُوشْ رِزِينْ"}
+{"input": "under the table, by bribe, without taxes", "output": "تحت الطاوله"}
+{"input": "to come back to zero, bad situation", "output": "رْجَعْ لِصْفِرْ"}
+{"input": "someone who assures that the fire keeps burning", "output": "حارس النار"}
+{"input": "The President of the Republic has a lot of money.", "output": "رئيس الجمعية عندو برشة فلوس"}
+{"input": "what wonderful hands, what a great job you've done", "output": "مَلَّا يْدَيَّاتْ"}
+{"input": "to push the wheelbarrow", "output": "دَزْ البَرْوِيتَة"}
+{"input": "party with a dj and sound system", "output": "سهريّة شان ستاريو"}
+{"input": "bricks made in Jammal, city in Monastir", "output": "يَاجُورْ جَمَّالْ"}
+{"input": "Ursula Minor (a constellation in the northern sky)", "output": "دُبْ الأَصْغَرْ"}
+{"input": "hermit, isolated, doesn't talk to anyone", "output": "مَسَكِّرْ عَلَى رُوحُو"}
+{"input": "he held on to his place, position", "output": "كَبِّشْ فِي بْلَاصْطُو"}
+{"input": "a daring attack, forceful attack", "output": "هجوم نوعي"}
+{"input": "he overcame a difficult situation or a disease", "output": "خْرَجْ مِنْهَا"}
+{"input": "peeled (and boiled) egg", "output": "عَظْمَةْ مْقَشْرَةْ"}
+{"input": "to be a little careful", "output": "سايس شويا"}
+{"input": "to wet one's pants", "output": "بَالْ عَلَى رُوحُو"}
+{"input": "boring, bad party (crass)", "output": "سهريّة معفطة"}
+{"input": "the same length or height as", "output": "فِي طُولْ"}
+{"input": "When I have a lot of work and the phone is ringing a lot, it distracts me.", "output": "وقتلي تبدى عندي برشة خدمة و التاليفون ينوقز برشة مرات إمهمشني"}
+{"input": "articulated bus, double bus", "output": "زِينَة وْ عْزِيزَة"}
+{"input": "to look for a house", "output": "لَوِّجْ عَلْ عِشّْ"}
+{"input": "to interact, treat with respect", "output": "تعامل بالمعروف"}
+{"input": "to unleash one's anger on someone, spill everything out", "output": "فَشّْ غِيضُو"}
+{"input": "the color drained from his face due to fear, shock", "output": "وِجْهُو لَخْلِخْ"}
+{"input": "he has deep insight, he's perceptive", "output": "نَظْرْتُو ثَاقْبَةْ"}
+{"input": "he speaks so quietly no one can hear him", "output": "حْكَى فِي حْوَايْجُو"}
+{"input": "wait one minute and I will come back", "output": "دْقِيقَة وْ نْجِيكْ"}
+{"input": "to give lessons, teach", "output": "عطي دروس"}
+{"input": "he moved toward her step by step", "output": "مَشَالْهَا دِيقَا دِيقَا"}
+{"input": "to toy with death, to do something very dangerous", "output": "لْعَبْ بِالمُوتْ"}
+{"input": "to split, divide into two parts", "output": "قْسِمْ عَلَى زُوزْ"}
+{"input": "Bab Jadid (neighborhood in southern medina of Tunis)", "output": "بَابْ الجْدِيدْ"}
+{"input": "to be really scared, pee one's pants out of fear", "output": "بَالْ عَلَى رُوحُو"}
+{"input": "he knows her/it very well", "output": "شاربها شربة ماء"}
+{"input": "The man yelled for help.", "output": "الراجل عيط بش إعاونوه"}
+{"input": "to inhale, to suck up, to aspirate", "output": "جبد النفس"}
+{"input": "he lost interest in", "output": "طَارَتْ النَّفْحَةْ"}
+{"input": "glasses with thick frames, coke bottle glasses", "output": "مْرَايَاتْ قَاعْ دَبُّوزَةْ"}
+{"input": "I was just thinking of you, we were thinking the same thing", "output": "قَلْبْ عَلْ القَلْبْ"}
+{"input": "Wow, she's really beautiful.", "output": "محلاها مزيانة برشا"}
+{"input": "Head Judge, head of court", "output": "رئيس محكمه"}
+{"input": "to open an investigation", "output": "فتح تحقيق"}
+{"input": "unregistered land, public property", "output": "أرْضْ عَل الشْيَاعْ"}
+{"input": "he's eavesdropping, listening in", "output": "حَاطِتْ وِذْنُو تَحْتْ البَابْ"}
+{"input": "a bad life, life of poverty and problems", "output": "عيشه حرفه"}
+{"input": "he has a problem with him, won't leave him", "output": "وَاحِلْ مْعَاهْ"}
+{"input": "they celebrated the anniversary of his death", "output": "قَامُو بْإِحْيَاءْ الذِكْرَى مْتَاعُو"}
+{"input": "he doesn't understand things, is stupid", "output": "مُخُّو مْبُوشِي"}
+{"input": "don't switch off the light", "output": "خَلِّي الضَوْ"}
+{"input": "to add to an argument, in addition to that", "output": "زَادْ زِيَادَة"}
+{"input": "he's caught up to him (positive or negative)", "output": "قَافِزْ عْلِيهْ"}
+{"input": "field of flocks, herds", "output": "رَحْبَةْ غْنَمْ"}
+{"input": "He persevered in his studies until he got a doctorate.", "output": "شد صحيح في قرايتو حتى خذى إدكتورا"}
+{"input": "he has no appetite", "output": "مَا عَنْدُوشْ شَاهْيَةْ"}
+{"input": "I don't know who he is", "output": "مَنَعْرِشْ عَلِيهْ شُكُونْ"}
+{"input": "Positive side and negative side", "output": "كُوتَا بُوزِيتِيفْ وْ كُوتَا نَاڨاتِيفْ"}
+{"input": "to think of someone, care for him/her", "output": "عْمَلْ حْسَاْب لْغِيرُو"}
+{"input": "to eavesdrop, listen in, spy", "output": "إمِدْ وِذْنِيهْ"}
+{"input": "Why are you using bad words with me? (crass)", "output": "شبيك تزبزب عليّا"}
+{"input": "to itch, entice, cause a strong desire", "output": "تَاكِلْ فِيهْ"}
+{"input": "to pay ransom, pay bail", "output": "دفع فديه"}
+{"input": "he sacrificed for him", "output": "ضَحَّى مِنْ أَجْلُو"}
+{"input": "Johnnie Walker, a brand of scotch whisky", "output": "جوني والكر"}
+{"input": "To invade a woman's privacy (sometimes to rape her)", "output": "دْخَلْ عْلَاهَا"}
+{"input": "to keep a patrol", "output": "عْمَلْ دَوْرِيَّةْ"}
+{"input": "to get very angry, unable to control oneself", "output": "دْخَلْ فِي الحِلَّة"}
+{"input": "living in poverty and difficulty", "output": "عَايِشْ فِي الهَمّْ"}
+{"input": "to be weak towards something, be unable to say no to, be addicted to", "output": "عَنْدُو ضُعْفْ لْحَاجَةْ"}
+{"input": "to get to know people", "output": "ربط علاقات"}
+{"input": "to go to school", "output": "مشي للمدرسه"}
+{"input": "he didn't know how to answer", "output": "مَعْرِفِشْ كِفَاشْ إِجَاوِبْ"}
+{"input": "can you please show me…", "output": "سَامَحْنِي تْنَجَّمْشِي تْوَرِّينِي"}
+{"input": "it happened because of him, it's all his fault", "output": "جْنَى علِيهْ"}
+{"input": "to lift weights, work out", "output": "رفع الاثقال"}
+{"input": "to hang up (on the phone)", "output": "علق عليه"}
+{"input": "he didn't notice, wasn't aware", "output": "مَافَاقِشْ بِيهْ"}
+{"input": "woman who has many children", "output": "مْرَا وَلّاَدَةْ"}
+{"input": "he died, was eaten by worms, rotted", "output": "كْلَاهْ الدُّودْ"}
+{"input": "to harvest, gather in the harvest", "output": "جمع الصابه"}
+{"input": "to leave the faith", "output": "ترك الايمان"}
+{"input": "he doesn't know, he didn't get a chance", "output": "فاتتو لحكايه"}
+{"input": "He tampered with checks and so went to jail.", "output": "ترفك الشيكات ياخي شد الحبس"}
+{"input": "awesome, professional, really good", "output": "معلم كبير"}
+{"input": "he pulled him from the bed: to wake someone up", "output": "جِبْدُو مِلْ فَرْشْ"}
+{"input": "pressing, extracting rose water", "output": "تَقْطِيرْ الزْهَرْ"}
+{"input": "Why are you humiliating yourself?, Why don't you stand up for yourself?", "output": "شبيك مطيّح من روحك"}
+{"input": "to break the law, transgress the law", "output": "تجاوز القانون"}
+{"input": "why, why in the world", "output": "فَاشْ قَامْ"}
+{"input": "Fuad has no money for food.", "output": "فؤاد ما عنوش بش ياكل"}
+{"input": "they don't look alike", "output": "مَيْشَبْهُوشْ لِبْعَضْهُمْ"}
+{"input": "La Marsa town hall, known for weddings", "output": "بَلَدِيَّة المَرْسَى"}
+{"input": "Salafi Jihadism (extremism, terrorism)", "output": "سلفيه جهاديه"}
+{"input": "come on and eat", "output": "هيا كولو"}
+{"input": "to understand life, be wise and experienced", "output": "فهم الدنيا"}
+{"input": "to give something a bad name, call it something bad", "output": "نَعَتْ بِالصُبُعْ"}
+{"input": "he wanted to improve his situation", "output": "حَبْ يِقْفِزْ بْرُوحُو"}
+{"input": "he doesn't stop talking", "output": "فَمُّو مَا يُسْكِتِّشْ"}
+{"input": "mouth of a river, endpoint of a river", "output": "مَصَبْ الوَادْ"}
+{"input": "burial procession, funeral procession", "output": "موكب الدفن"}
+{"input": "to cause a new development in a legal case", "output": "حَيِّرْ القَضِيَّة"}
+{"input": "strong wind, the wind's strong", "output": "هواء طاير"}
+{"input": "he spent his childhood in/doing…", "output": "صُغْرُو تْعَدَّى"}
+{"input": "cappucino with extra milk", "output": "كَابُوسَانْ بْزَايِدْ حْلِيبْ"}
+{"input": "to cut off a small piece", "output": "قَصْ طْرَيِّفْ"}
+{"input": "smell of humidity, mold", "output": "رِيحَة نْدَى"}
+{"input": "take care of yourself, he watched out", "output": "عَسْ عَلَى رُوحُو"}
+{"input": "He caught a big fish and it snapped the fishing line.", "output": "شد حوتا كبيرا ياخي قطعتلو خيط إصنارة"}
+{"input": "a loser of war", "output": "خاسر الحرب"}
+{"input": "he took the time he needed to do something", "output": "خْذَا وَقْتُو"}
+{"input": "bedroom of the parents", "output": "بيت النوم"}
+{"input": "Rabia 2: month in the Islamic calendar", "output": "رَبِيعْ الثَّانِي"}
+{"input": "after dinner or the evening prayers", "output": "بعد العشا"}
+{"input": "wealthy people, people living easy life", "output": "نَاسْ عَايْشَةْ"}
+{"input": "to cheat in card games", "output": "سْرِقْ في الكَارْطَة"}
+{"input": "to lean over people, come close to", "output": "كَهِّبْ عَلْ عْبَادْ"}
+{"input": "Rabia 1: month in the Islamic calendar", "output": "رَبِيعْ الأَوَّلْ"}
+{"input": "he betrayed his country, to commit treason", "output": "خَانْ بْلَادُو"}
+{"input": "to take the throne", "output": "تولي العرش"}
+{"input": "a woman according to his taste", "output": "مْرَا عْلَى كِيفُو"}
+{"input": "polyandry, to have more than one husband", "output": "تعدد الازواج"}
+{"input": "because he wanted to do that thing", "output": "خَاطِرْ حَبْ يَعْمِلْ أكَا الحَاجَة"}
+{"input": "to grab, catch something so it doesn't fall", "output": "شدها لطيح"}
+{"input": "someone who always gets in others' business", "output": "حَاجْ كْلُوفْ"}
+{"input": "protect the place, keep things safe, stay here", "output": "حَافْضُو عَلْ المَوْقَعْ"}
+{"input": "polite company, refined class", "output": "طبقة منحطة"}
+{"input": "to serve a jail term", "output": "عَدَّى رَبْطِيَّةْ"}
+{"input": "Whistle and let him turn.", "output": "زفرلو خلي يدور"}
+{"input": "they don't count, aren't part of it", "output": "ما يتحسبوش"}
+{"input": "he wanted to set a trap for him, catch him", "output": "حَبّْ إِكَعْبِرْهَالُو"}
+{"input": "to shoot, hit with a bullet", "output": "نَوِّضْ عْلَى"}
+{"input": "they gave him up to the enemy", "output": "سَلْمُو لِلْعَدُوّْ"}
+{"input": "he took his share", "output": "خْذَا بَايُو"}
+{"input": "to gain the trust of someone", "output": "رْبَحْ الثِّقَة"}
+{"input": "to study, to research", "output": "عْمَلْ دِرَاسَةْ"}
+{"input": "He ate fast food", "output": "كْلَى حَاجَةْ خْفِيفَةْ"}
+{"input": "a man of politics", "output": "رجل سياسه"}
+{"input": "people from olden days, the previous generations", "output": "فُخَّارْ بِكْرِي"}
+{"input": "he's embarrassed, ashamed of himself because of what he's done or asked for", "output": "إحَشْمُو عَلَى رُوحُو"}
+{"input": "forbidden, banned, unlawful meat", "output": "لحم حرام"}
+{"input": "wrinkles in the face", "output": "تجاعيد الوجه"}
+{"input": "35 cL coke bottle", "output": "كُوكَا تْرُونْتْ سَانْكْ"}
+{"input": "a man of state", "output": "رجل دوله"}
+{"input": "to set a trap", "output": "نصب المنداف"}
+{"input": "according to the orders, instructions", "output": "حسب التعليمات"}
+{"input": "to be nosy, look into others' business", "output": "تِلْهَى بِالعْبَادْ"}
+{"input": "El Kef, Jendouba, Béja, tunisian northwest region", "output": "كَ جِ بَ"}
+{"input": "he's lost his confidence", "output": "مَعَادِشْ عَنْدُو كُونْفْيُونْسْ فِي رُوحُو"}
+{"input": "gross domestic product (GDP)", "output": "نَّاتِجْ القَوْمِي الخَامْ"}
+{"input": "not too hard, pretty easy", "output": "مَهِيشْ صَعِيبَةْ بَرْشَا"}
+{"input": "he tells secrets, doesn't keep his mouth shut", "output": "مَا يْشِدِّشْ فَمُّو"}
+{"input": "vegetable (greens) sauce dish", "output": "مرقه خضره"}
+{"input": "he wanted to attract a girl", "output": "حَبّْ إطَيَّحْهَا"}
+{"input": "they spent the time walking", "output": "عداوالوقت بالمشي"}
+{"input": "to speak negatively about someone", "output": "ضَرْبُو بْكَرْطُوشَةْ"}
+{"input": "to sew the mouth of the dead (black magic that uses a corpse)", "output": "خَيِّطْ فُمْ مَيِّتْ"}
+{"input": "where have you been, how are you?", "output": "وين حيك"}
+{"input": "to push oneself, insist on a position or power", "output": "ڨَلَّعْ بْلَاصْتُو"}
+{"input": "to look from the window", "output": "غْزَرْ مِ الشِّبَاكْ"}
+{"input": "to rest (let your sweat dry)", "output": "شرب عرقو"}
+{"input": "he took the name of", "output": "حمل اسم"}
+{"input": "software language, programming language", "output": "لغه البرمجيات"}
+{"input": "period in January with cold nights", "output": "لْيَالِي السُّودْ"}
+{"input": "new rule, new period, era", "output": "عهد جديد"}
+{"input": "manner of use, how to use something", "output": "طريقه استعمال"}
+{"input": "took us to, its result was…", "output": "وصلتنا ل"}
+{"input": "adulterous, cheating on his wife", "output": "مْصُوحِبْ عَلَى مَرْتُو"}
+{"input": "to free up traffic, open up the street", "output": "سَرَّحْ الكَيَّاسْ"}
+{"input": "all of the sudden, chaotically", "output": "جْلَاطْ بلاط"}
+{"input": "Turn on the air conditioner in the office and let it cool off quickly.", "output": "كيف البيرو خلي يبرد فيسع"}
+{"input": "to have strong faith, own your faith", "output": "امتلك الايمان"}
+{"input": "he prays so that someone else might receive mercy", "output": "دْعَاوْلُو بِالرَّحْمَة"}
+{"input": "to wipe the floor with a brush", "output": "حَكْ القَاعَة بِالبْرُوصْ"}
+{"input": "to butcher a sheep", "output": "قص العلوش"}
+{"input": "it doesn't work any more, out of date, obsolete", "output": "مَعَادِشْ تُصْلِحْ"}
+{"input": "to be well-behaved, to be responsible", "output": "شد الريقلة"}
+{"input": "to call over the interphone", "output": "طْلَبْ عَلْ الأَنَتَرْفُونْ"}
+{"input": "He took his place in the bus before everyone else.", "output": "شد بلاصتو فلكار قبل إناس إلكل"}
+{"input": "he's always lazy, tired, worn out", "output": "عَنْدُو الفَشْلَةْ"}
+{"input": "he beat him up, made him eat dirt", "output": "وَكْلُو التَرَابْ"}
+{"input": "to make an offer", "output": "قَدِّمْ عَرْضْ"}
+{"input": "he doesn't have what he needs to depend on himself", "output": "مَا يَنَجِّمِشْ يَاقِفْ عَلَى سَاقِيهْ"}
+{"input": "he left and came back quickly", "output": "مَشَى وَ جَى وَمْيَةْ"}
+{"input": "get up on your feet (forceful command)", "output": "تْقَعِّدْ مِلْ البْلَاصَة"}
+{"input": "he didn't take the advice", "output": "مَخْذَاشْ بِالنَصِيحَةْ"}
+{"input": "according to the law", "output": "حسب القانون"}
+{"input": "there's air flow, it's fresh", "output": "هواء يدور"}
+{"input": "step by step, slowly", "output": "دَبَّة دبَّة"}
+{"input": "to lock the door", "output": "كوب الباب"}
+{"input": "they gave him a gift", "output": "هدالو حاجة"}
+{"input": "he's counting stars: doesn't have anything to do", "output": "حسب النجوم"}
+{"input": "filled with fines, charges", "output": "مِلْيَانْ بِالخْطَايَا"}
+{"input": "to come right after the other, come consecutively", "output": "عَلَى رْيُوسْ بْعَضْهُمْ"}
+{"input": "to poop, defecate (baby)", "output": "عْمَلْ كَاكَا"}
+{"input": "he took long strides", "output": "مشي بالفحجه"}
+{"input": "He gets things done and will help you for sure.", "output": "تُقْصْدُو تَلْقَاهْ"}
+{"input": "to buy from someone", "output": "شْرَى مِنْ عَنْدُو"}
+{"input": "he knows what he's doing", "output": "وَاعِي بِالشَّيْ إِلِّي عَمْلُو"}
+{"input": "he couldn't find anything to say", "output": "مَلْقَى آشْ إِقُولْ"}
+{"input": "Ahmed took over administration of the company provisionally until the director comes back from traveling.", "output": "أحمد شد بروفيزوار ادارة الشركة حتى لين يرجع المدير من السفر"}
+{"input": "to love someone a ton, be crazy about", "output": "مَاتْ عْلَاهَا"}
+{"input": "passing clouds, it will go away", "output": "سْحَابْ مِتْعَدِّي"}
+{"input": "I won't go back, no turning back", "output": "ماعادش نتراجع"}
+{"input": "he turned out to be brave, courageous", "output": "طْلَعْ بْقَلْبُو"}
+{"input": "he's from my neighborhood", "output": "ولد حومتي"}
+{"input": "he got what he deserved", "output": "جْنَى إلِي عَمْلِتُو يْدِيهْ"}
+{"input": "real love for, significant passion for", "output": "غرام كبير"}
+{"input": "he went early, was first", "output": "مْشَي مِ لُوِّلْ"}
+{"input": "in a desolate place", "output": "فِي لِخْلَى"}
+{"input": "what's his perspective on life?", "output": "كِيفَاشْ يْشُوفْ الدِّنْيَا"}
+{"input": "from here or from another, one way or another", "output": "تِي مِنَّا وَلَّا مِنَّا"}
+{"input": "he doesn't miss a thing, he knows about everything", "output": "مَا يْرَاتِي شَيْ"}
+{"input": "he got a good deal", "output": "عْمَلْ آفَارْ"}
+{"input": "a big family, powerful family, good name", "output": "عَايْلَةْ كْبِيرَةْ"}
+{"input": "he wiped his butt", "output": "مسح ترمتو"}
+{"input": "to put on sale", "output": "حط للبيع"}
+{"input": "taking care of her", "output": "لاهي باها"}
+{"input": "Bab Bhar, Porte de France (main gate of Tunis medina)", "output": "بَابْ بْحَرْ"}
+{"input": "to has found a solution for himself", "output": "دَبِّرْ رَاسُو"}
+{"input": "to get out of bed", "output": "قَامْ مالفَرْشْ"}
+{"input": "to be pathetic, to induce pity (lit. \"When you look at him, you say,'Mercy!'\")", "output": "تُخزِرْ تْقُولْ اللُّطْفْ"}
+{"input": "to follow someone around, not leave him alone", "output": "شَدّْ ڨَارْدْ"}
+{"input": "registered letter, express mail", "output": "لَاتِرْ رُوكُومُونْدَا"}
+{"input": "to dress well out of respect for the place/person/event", "output": "عْطَاهَا حَقّْهَا"}
+{"input": "meal of rice mixed with meat and vegetables", "output": "رُوزْ جِرْبِي"}
+{"input": "the arrival of spring", "output": "دخول الربيع"}
+{"input": "they went the same way", "output": "مْشَاوْ ثْنِيَّةْ وَحْدَا"}
+{"input": "the edge of the table", "output": "حافه الطاوله"}
+{"input": "to hold on tightly", "output": "كبس بايديه"}
+{"input": "my cousin (maternal aunt)", "output": "ولد خالتي"}
+{"input": "Where've you been? It's been a while", "output": "هَلْ الغِيبَةْ"}
+{"input": "to look for somebody, something (regional)", "output": "دَوِّرْ عْلِيهْ"}
+{"input": "he only cares about himself", "output": "مَارْكَا مَصْلْحَةْ"}
+{"input": "certain unnamed or theoretical people", "output": "فْلَانْ و فَلْتَان"}
+{"input": "no entry, one way", "output": "سونس أنتاردي"}
+{"input": "to answer, let someone know", "output": "رد خبر"}
+{"input": "he challenged the position, fought against his difficult circumstances", "output": "تحدّى الموقف"}
+{"input": "to know, be aware of the good and the bad in something", "output": "قْرَى البَاهِي وِ الخَايِبْ"}
+{"input": "to see again, reconsider", "output": "عَاوِدْ شَافْ"}
+{"input": "they're lucky, everything's going well for them", "output": "عْبَادْ مَاشْيَةْ مْعَاهَا"}
+{"input": "his face is whiter after having shaved", "output": "وجهو ضوي"}
+{"input": "to lose everything, go back to having nothing", "output": "طَاحْ مِ السَّلُومْ"}
+{"input": "chimney fire, fire in fireplace", "output": "نار الشمينيه"}
+{"input": "he became an orphan", "output": "ولي يتيم"}
+{"input": "he gave the green light", "output": "عْطَى الفُو فَارْ"}
+{"input": "they had sex (crass)", "output": "عَمْلُو نِيكَةْ"}
+{"input": "to hit with a hammer, strike a piece of metal", "output": "ضْرَبْ لَحْدِيدْ"}
+{"input": "to relax the nerves, calm stress", "output": "رَتَّحْ الأَعْصَابْ"}
+{"input": "to get angry inside, start to churn", "output": "غْلَى مِنْ دَاخِلْ"}
+{"input": "Iljias fingers (tunisian food)", "output": "صوابع علجيه"}
+{"input": "he ignores him, doesn't care about him, doesn't pay attention to him", "output": "هَزْ عْلِيهْ السَّاشْ"}
+{"input": "to decorate the house", "output": "زَيِّنْ الدَّارْ"}
+{"input": "to stand up and sit down out of surprise", "output": "تْهَزْ وْتِنْفَضْ"}
+{"input": "to constantly bother, use someone's things, be a bit pushy", "output": "خَارِطْ عْلَى"}
+{"input": "all he has is God, he's very poor", "output": "مَا يَكْسَابْ كَانْ وِجْهْ رَبِّي"}
+{"input": "good trip, bon voyage", "output": "سفره طيبه"}
+{"input": "roll of red thread", "output": "كب احمر"}
+{"input": "a young person who does foolish, childish things", "output": "فَرْخْ بِزْڨِلِّيفْ"}
+{"input": "well-known and respected Hadith", "output": "حَدِيثْ مِتْوَاتِرْ"}
+{"input": "he doesn't depend on anyone, self-reliant", "output": "مَيَعْمِّلْ عَلَى حَدّْ"}
+{"input": "one before the last, penultimate", "output": "قبل لخراني"}
+{"input": "to take something carefully", "output": "شَدّْ بِالسْيَاسَةْ"}
+{"input": "to predict by stars, practice astronomy", "output": "تْكَهِّنْ بِالنُّجُومْ"}
+{"input": "he made him crazy", "output": "دَخِّلْ فِي مُخُّو غُولَة"}
+{"input": "her heart was broken", "output": "قلبها تقطع"}
+{"input": "to take off one's clothes, undress", "output": "نَحَّي حْوَايْجُو"}
+{"input": "door with chain lock", "output": "باب بالبلوكيس"}
+{"input": "Play without making noise; let people take naps.", "output": "ألعب بلا حس خلي لعباد مقيلة"}
+{"input": "he's living well, doing well for himself", "output": "وِلْدْ زْمَانُو"}
+{"input": "The man who robbed the house was pardoned; he leaves jail tomorrow", "output": "الراجل الي سرق الدار عفاو عليه و غدوة يخرج من الحبس"}
+{"input": "he took a bite of something", "output": "خْذَا قِدْمَة"}
+{"input": "to prepare for the future", "output": "قْرَى حِساَبْ نَهَارْ آخِرْ"}
+{"input": "he tried his luck, went for it", "output": "مْشَى تَزَهِّرْشِي مَعَاهْ"}
+{"input": "supporting him, behind him", "output": "واقف معاه"}
+{"input": "not polite, poorly raised", "output": "قْلِيلْ أَصْلْ"}
+{"input": "fun person, likes to have a good time", "output": "صَاحِبْ جَوْ"}
+{"input": "to spend way too much", "output": "طَيِّشْ فْلُوسُو"}
+{"input": "sound or voice that reaches far", "output": "صوت يوصل"}
+{"input": "to wait to eat, to control yourself from eating", "output": "شد روحو عل الماكلة"}
+{"input": "he made his bed", "output": "ڨدْ فَرْشُو"}
+{"input": "he is still single, still hasn't settled down", "output": "بْقَى كِي العَتْرُوسْ"}
+{"input": "to wet the bed", "output": "بَلْ فَرْشُو"}
+{"input": "he has a lot of money", "output": "عَنْدُو بَرْشَا فْلُوسْ"}
+{"input": "to bring a secret to light", "output": "فْضَحْ سِرّْ"}
+{"input": "polygamy, to have more than one wife", "output": "تعدد الزوجات"}
+{"input": "to have sleepy, sunken, droopy eyes", "output": "عينيه طايحه"}
+{"input": "someone needs to stop the fight, solve the problem", "output": "وَاحِدْ إِفُضْهَا"}
+{"input": "to close a door partially", "output": "رد الباب"}
+{"input": "good appetite, healthy appetite", "output": "شاهية محلولة"}
+{"input": "to collect fruit from trees", "output": "جْمَعْ الشْجَرْ"}
+{"input": "something specific to a person, characteristic", "output": "خاصيه متاعو"}
+{"input": "think of the next move", "output": "خَمِّمْ فِي الكُو الِي بَعْدْهَا"}
+{"input": "he'll always be bad", "output": "مَا يَصْلَحِشْ"}
+{"input": "to pass a year of school, be successful in school", "output": "نْجِحْ فِي قْرَايْتُو"}
+{"input": "to provide evidence, proof", "output": "قَدِّمْ أدِلَّةْ"}
+{"input": "rare, not commonly available", "output": "مِشْ مَوْجُودْ بَرْشَا"}
+{"input": "to take revenge on one's own", "output": "انتقم لنفسو"}
+{"input": "to grab someone's attention, sight", "output": "جلب الانظار"}
+{"input": "nothing gets passed him, he knows it all", "output": "مَايَفَلِّتْ شَيْ"}
+{"input": "he was killed by an electric shock", "output": "قَتْلُو مَاصْ فِي الضَوْ"}
+{"input": "to speak openly, frankly", "output": "حْكَى فْرُونْشْمُونْ"}
+{"input": "he didn't think of, consider", "output": "مَقْرَاشْ حَسَابُو"}
+{"input": "he went to school", "output": "مشي للمدرسه"}
+{"input": "to empathize, feel for someone", "output": "حس بيه"}
+{"input": "to no longer have feelings, be hard", "output": "مَاعَادِشْ إِحِسّْ"}
+{"input": "they were in jail together", "output": "وِلْدْ رَبْطِيتُو"}
+{"input": "still young and immature, you don't understand", "output": "مِزَّالْ فَرْخْ"}
+{"input": "to put someone to sleep, lay someone down", "output": "حَطُّو فِي الفَرْشْ"}
+{"input": "to meet by chance, randomly", "output": "تقابلنا بالصدفه"}
+{"input": "nominal Muslim, not practicing", "output": "مسلم بالاسم"}
+{"input": "application of the law, execution", "output": "تطبيق القانون"}
+{"input": "CNSS (health care and retirement) card", "output": "كَرْنِي سِنِسْسْ"}
+{"input": "can you lower the price for us?", "output": "بِشْ تْنَقْصِلْنَا فِي السُّومْ"}
+{"input": "swear with his wife", "output": "عْطَى القَسَمْ مْعَ مَرْتُو"}
+{"input": "research office; research center", "output": "مكتب دراسات"}
+{"input": "The first day of the Christian calendar", "output": "رَاسْ السَّنَة العِجْمِيَّة"}
+{"input": "salad made of boiled carrots", "output": "أمِّكْ حُورِيَّة"}
+{"input": "he woke up scared, surprised", "output": "قام مفجوع"}
+{"input": "under occupation, colonial rule", "output": "تحت الاستعمار"}
+{"input": "to study in a private school", "output": "قْرَى فِي الخَوَاصْ"}
+{"input": "to cover over a woman's sins/mistakes so she won't be shamed", "output": "سْتَرْ بِنْتْ النَّاسْ"}
+{"input": "sleep on the side", "output": "رَاقِدْعَلَى جَنْبُو"}
+{"input": "to deform someone's face", "output": "فَسَّدْلُو خْلِيقْتْلُو"}
+{"input": "to blow your nose, clean nose", "output": "نظف خشمو"}
+{"input": "it's really close, around the corner", "output": "هَاوْ فِي الشُّوكَةْ"}
+{"input": "new trend, popular thing", "output": "توندونس جديده"}
+{"input": "she had an abortion", "output": "طَيْحِتْ الصّْغِيرْ"}
+{"input": "he brought trouble on himself", "output": "كَرّْ عَلَى رُوحُو"}
+{"input": "Ahmed insisted that I go to the party with them.", "output": "أحمد شد فيا الصحيح باش نمشي نسهر معاهم"}
+{"input": "he knew it right away", "output": "فَاقْ بِيهَا عَلَ طَّايِرْ"}
+{"input": "to make the bed", "output": "حَضِّرْ الفَرْشْ"}
+{"input": "he's going to the bathroom", "output": "مَاشِي يَسْتَرِيحْ"}
+{"input": "to honor, praise, often to brown-nose", "output": "رْمَالُو الوُرُودْ"}
+{"input": "The disciples of Christ", "output": "تلاميذ المسيح"}
+{"input": "She's not polite, well-mannered", "output": "مَعَنْدْهَاشْ أَصْلْ"}
+{"input": "you're doing well, you're lucky", "output": "حَالّة مْعَاكْ"}
+{"input": "he created a mess", "output": "دَخّلْهَا بْعَضْهَا"}
+{"input": "to connect with difficulty", "output": "كَبْطَى بِالسِّيفْ"}
+{"input": "still dark (daylight hasn't come yet)", "output": "مزالت مظلمه"}
+{"input": "he wanted to know", "output": "حب يعرف"}
+{"input": "to find a solution, answer to problem", "output": "حل المساله"}
+{"input": "she takes care of herself, dresses well", "output": "تتلهي بروحها"}
+{"input": "to start being careful about spending, tighten the belt", "output": "كْبِسْ السَنْتُورَةْ"}
+{"input": "to tear things apart out of anger", "output": "قلِبْ الأَرْضْ"}
+{"input": "iron (vitamin in food)", "output": "حْدِيدْ فِي المَاكْلَة"}
+{"input": "he watched out, was careful", "output": "رَدْ بَالُو"}
+{"input": "he turned against him and became his enemy", "output": "دَارْ عْلِيهْ"}
+{"input": "he fell into the net, was caught", "output": "طَاحْ فِي الشِّبْكَةْ"}
+{"input": "generally, most of it", "output": "في معظمها"}
+{"input": "He gained his health", "output": "كسب صحتو"}
+{"input": "may it turn out well for you by God's mercy", "output": "حُسْنْ عَاقِبْتِكْ"}
+{"input": "I got some information that there is a train strike tomorrow.", "output": "جاتني أنفورماسيون إلي فمة إضراب متاع ترينوات غدوة."}
+{"input": "to thread a needle", "output": "عَيِّنْ الخِيطْ"}
+{"input": "they harvested, pulled out potatoes", "output": "ڨلعو البطاطا"}
+{"input": "to allow the dough to ferment, prove, rise", "output": "خَمِّرْ العْجِينَة"}
+{"input": "his shoes hurt him", "output": "صَبَّاطْ ضَارْبُو"}
+{"input": "worldview, understanding of reality", "output": "رؤيه الواقع"}
+{"input": "Day of Evacuation (when France left Binzerte)", "output": "عِيدْ الجَلَاءْ"}
+{"input": "it wasn't his time to die", "output": "عُمْرُو مَازَالْ"}
+{"input": "to clean the house", "output": "عْمَلْ مَينَاجْ"}
+{"input": "he wrote a remark, write notes", "output": "خْذَا نُوتْ"}
+{"input": "The kid is going to die of happiness because his dad bought him a bike.", "output": "الوليد بش إموت مل الفرحة على خاطر بوه شرالو بسكلات."}
+{"input": "to make or teach to say the Muslim testimony", "output": "لَقْنُوهْ الشَّهَادَةْ"}
+{"input": "the Friday speech of an imam at a mosque", "output": "خُطْبَة الجُمْعَة"}
+{"input": "it's time for a nap", "output": "وْقَيِّتْ تَعْسِيلَةْ"}
+{"input": "she eloped with him", "output": "هَرْبِتْ مَعَاهْ"}
+{"input": "natural gas from pipelines", "output": "ڨَازْ دُو فِيلْ"}
+{"input": "he understood something very quickly and in an intelligent and remarkable way", "output": "خْطَفْهَا وْ هِيَ طَايْرَة"}
+{"input": "to shake (dice or coins)", "output": "شقشق يشقشق"}
+{"input": "Playing around a ton smacked him in the face and caused him to fall behind in his studies.", "output": "اللعب برشة برشة صطكو و خلاه يوخر في قرايتو"}
+{"input": "he picks things up, understands quickly", "output": "فِيسَعْ مَا يَسْتَوْعِبْ"}
+{"input": "he did a good job", "output": "ڨَدّْ رُوحُو"}
+{"input": "to give advantage, benefit", "output": "تَعطِيهْ آفُونْتَاجْ"}
+{"input": "to set the price", "output": "حدد الثمن"}
+{"input": "vegetable oil sold at subsidized price by government", "output": "زِيتْ حَاكِمْ"}
+{"input": "how much is this?", "output": "قَدَّاشْ هَاذِي"}
+{"input": "it's time to get married", "output": "وْقَيِّتْ مْتَاعْ عِرْسْ"}
+{"input": "to increase the speed", "output": "زِيدْ فِي الفِيتَاسْ"}
+{"input": "no problem, we're friends, we don't keep score", "output": "مَا بِينَاتْنَاشْ"}
+{"input": "at the peak of performance", "output": "فِي أَوَجّْ العَطَاءْ"}
+{"input": "his dossier was sent to the Mufti", "output": "عَدَّاوْ وُرَاقُو لِلْمُفْتِي"}
+{"input": "to win someone to your side", "output": "جِلبُو لِيهْ"}
+{"input": "my nephew (sister's son)", "output": "ولد اختي"}
+{"input": "to remain ignorant, understand nothing", "output": "قْعَدْ صَبُّورَةْ كَحْلَةْ"}
+{"input": "sweet water (spring water)", "output": "ماء حلو"}
+{"input": "action of being stubborn, unwilling to change", "output": "تَكْسِيحْ الرَّاسْ"}
+{"input": "his family is supporting him", "output": "دَارْهُم ْوَاقْفِينْ مْعَاهْ"}
+{"input": "you can't sit down? You have thorns under you?", "output": "تَحْتْ الشُّوكْ"}
+{"input": "to start walking quickly", "output": "كْبِسْ مَشْيْتُو"}
+{"input": "they locked him up for questioning", "output": "حْشَاوَهْ فِي الجِيُورْ"}
+{"input": "to relax, calm the nerves", "output": "رْخِفْ الأَعْصَابْ"}
+{"input": "He held to his opinion and didn't want to change his ideas.", "output": "شد في رايو وما حبش يبدل فكرتو"}
+{"input": "to make someone proud", "output": "هَازْلُو رَاسُو"}
+{"input": "it has value, is beneficial", "output": "فيه منفعه"}
+{"input": "he married her, took her from her father's house", "output": "هَزْهَا مِنْ دَارْ بُوهَا"}
+{"input": "judicial ruling, court ruling", "output": "امر قضائي"}
+{"input": "to run quickly, get up and go", "output": "طْلَعْ فْلَاشْ"}
+{"input": "to call the wrong number", "output": "طْلَبْ بِلْغَالِطْ"}
+{"input": "they stepped over the fish the seventh day after their wedding", "output": "فَحْجُو عَلْ الحُوتْ فِي السَّابَعْ"}
+{"input": "to make a fist, clench one's hands", "output": "كبس اديه"}
+{"input": "to not stop, be very persistent and impertinent", "output": "شَدّْ مَا سَيِّبْ"}
+{"input": "Court of Cassation, Supreme Court", "output": "محكمه التعقيب"}
+{"input": "he stopped the enemy's attacks", "output": "صَدّْ هَجَمَاتْ العَدُوّْ"}
+{"input": "he spent a lot of money: credit card upon credit card", "output": "حُطْ كَارْطَا تْحُكْ فِي كَارْطَة"}
+{"input": "to fertilize the land", "output": "خصب الارض"}
+{"input": "he did not change it", "output": "خَلَّاهَا كِيفْ مَا هِيَّا"}
+{"input": "happiness and misery, good and bad", "output": "هناء وشقاء"}
+{"input": "to be patient, not get angry, calm down", "output": "توَسَّعْ البَالْ"}
+{"input": "he thinks deeply before doing anything", "output": "فِكْرُو رْزِينْ"}
+{"input": "to travel, make a trip", "output": "عْمَلْ فْوَايَاجْ"}
+{"input": "to make a will", "output": "عْطَاهْ وْصِيَّةْ"}
+{"input": "he doesn't have an opinion, just follows everyone else", "output": "مَاشِي مَعَ المَاشِينْ وْ جَايْ مَعَ الجَّايِينْ"}
+{"input": "there is a lot of it", "output": "فَمَّا مِنُّو بَرْشَا"}
+{"input": "to become a father", "output": "وَلَّي بُو عَاْيلَةْ"}
+{"input": "Tahrir Party: Islamist party", "output": "حزب التحرير"}
+{"input": "tame dog, housebroken dog", "output": "كلب سوري"}
+{"input": "he knew something bad was going to happen", "output": "شَمّْهَا قارصة"}
+{"input": "to do a Sufi concert", "output": "عْمَلُّو حَضْرَةْ"}
+{"input": "to light a hookah pipe", "output": "وَلَّعْ شِيشَةْ"}
+{"input": "give me something to drink", "output": "اعطيني شربا"}
+{"input": "confused and can't do a thing, very confused", "output": "حَايِرْ دَايِرْ"}
+{"input": "The Avenue des Champs-Élysées", "output": "شان زاليزي"}
+{"input": "he has a very good understanding of something", "output": "شرب لحكاية"}
+{"input": "to end a relationship", "output": "قص العلاقه"}
+{"input": "going really well, things are great", "output": "مْرِيقْلاَ بِلْقْدَا"}
+{"input": "He gained his freedom", "output": "كْسِبْ حُرِّيتُو"}
+{"input": "public idol, popular celebrity", "output": "معبود الجماهير"}
+{"input": "he'll regret it, he'll bite his fingers out of regret", "output": "بَاشْ يعَضْ صْوَابْعٌو مِالنْدَمْ"}
+{"input": "on its last leg", "output": "شادد في كحة"}
+{"input": "he left a gap after his departure(or after his death)", "output": "خَلَّى بْلَاصْتُو"}
+{"input": "move yourself, get going", "output": "حَرِّكْ رُوحِكْ"}
+{"input": "I'm getting ready for bed", "output": "نَحَضِّرْ فِي رُوحِي بِشْ نُرْقِدْ"}
+{"input": "to cut one's fingernails", "output": "قص الضوافر"}
+{"input": "to get a job", "output": "شد بلاصتو"}
+{"input": "almost, nearly, really close", "output": "شَعْرَة لا"}
+{"input": "regarding, related to, as to", "output": "فيما يخص"}
+{"input": "he stook with him, had his back, helped", "output": "مَخَلَّهَاشْ بِيهْ"}
+{"input": "to get stuck on a sentence, not know how to put it together", "output": "وْحِلْ فِي جُمْلَةْ"}
+{"input": "to be jailed, put in prison, behind bars", "output": "تحط وراء القضبان"}
+{"input": "he has no self-respect", "output": "مَا عَنْدُوشْ هِمَّةْ"}
+{"input": "The clothes you wear before going to sleep, pyjamas", "output": "حْوَايِجْ النُّومْ"}
+{"input": "people of high class", "output": "ناس هاي"}
+{"input": "to write off , cross out", "output": "شَطِّبْ عْلِيهُمْ"}
+{"input": "woman for having fun with, sleeping around with", "output": "مْرَا مْتَاعْ شِيخَةْ"}
+{"input": "party with lots of dancing", "output": "سَهْرِيَّةْ شْطِيحْ وُ رْدِيحْ"}
+{"input": "source language, original language", "output": "لُّغَة أَصْلِيَّة"}
+{"input": "to prepare a little bit of food", "output": "رَكِّبْ فُمْ"}
+{"input": "to find the sum, total", "output": "طَلَّعْ التُوتَالْ"}
+{"input": "in conformity with the law", "output": "مطابق للقانون"}
+{"input": "his wife to be, future wife", "output": "مَرْطُو نْهَارْ آخِرْ"}
+{"input": "Cap Bon, Nabuel peninsula", "output": "شِبْهْ جَزِيرَةْ الوَطَنْ القِبْلِي"}
+{"input": "to be puffed up (grow fat or grow proud) like a rose water jar", "output": "تِنْفَخْ كِي الفَاشْكَة"}
+{"input": "to furnish a house", "output": "جَهِّزْ الدَّارْ"}
+{"input": "the arrival of winter", "output": "دخول الشتاء"}
+{"input": "red tea (black tea)", "output": "تاي احمر"}
+{"input": "alive but dead, with no point in life", "output": "ميت بالحياه"}
+{"input": "Sousse Kantaoui (tourist area)", "output": "سوسه القنطاوي"}
+{"input": "let's agree on the price first", "output": "نِتْفَاهْمُو فِي السُّومْ السَّاعَةْ"}
+{"input": "He totally fell down, crashed", "output": "جَا مَمْدُودْ"}
+{"input": "he finally understood it", "output": "دَخْلِتْ لْمُخُّو"}
+{"input": "to bite one's nails", "output": "قْرَضْ صْوَابْعُو"}
+{"input": "became a soldier, enlist", "output": "جَنِّدْ رُوحُو"}
+{"input": "to throw in prison, warehouse", "output": "رْمَاوَهْ فِي الدِّبُّو"}
+{"input": "a man who acts like a woman", "output": "مِشَ رَاجِلْ"}
+{"input": "he figured out what he would lay down (rummy)", "output": "حْسِبْ هْبُوطُو"}
+{"input": "he had nothing to say, couldn't find anything to say", "output": "مَا لْقَى مَا يَحْكِي"}
+{"input": "to gulp down, swallow without chewing", "output": "بْلَعْ بَلْعَانْ"}
+{"input": "to file for bankrupcy", "output": "قَيِّدْ فَلْسَةْ"}
+{"input": "to prune, cut branches", "output": "زْبَرْ الشُّجْرَة"}
+{"input": "marble for a gravestone", "output": "رخامه القبر"}
+{"input": "the lighthouse of Alexandria", "output": "مَنَارَةْ الِإسْكَنْدَرِيَّةْ"}
+{"input": "you shiver, quiver, shake", "output": "لبدن يرجف"}
+{"input": "he mixed it with sauce", "output": "خَلَّطْهَا بِالصُّوصْ"}
+{"input": "he asked God for mercy to get married", "output": "طْلَبْ بَرْكَةْ رَبِّي بَاشْ إِعَرِّسْ"}
+{"input": "get your hand off that (rude)", "output": "نحي كسره"}
+{"input": "to hit your head on the wall, give up", "output": "ضْرَبْ رَاسُو عَلْ حِيطْ"}
+{"input": "to get high (on drugs), have a good time", "output": "طَّلَّعْ الشِّيخَة"}
+{"input": "busy with something, taking care of something", "output": "مِتْوَلْهِي بِحَاجَةْ"}
+{"input": "it happened really quickly, in a flash", "output": "تْعَدَّى فْلَاشْ"}
+{"input": "busy with something, concerned with a matter", "output": "مَسْكُونْ بِحْكَايَةْ"}
+{"input": "Why are you always following that girl? You keep following her from place to place.", "output": "شبيك شاد قارد للطفلة تبع فيها من بلاصة لبلاصة"}
+{"input": "to beat, overcome, win against", "output": "رقد عليه"}
+{"input": "let them fight it out, I don't care", "output": "نَارْ تَاكِلْ فِي بْعَضْهَا"}
+{"input": "It ended up being not too bad; it was manageable", "output": "جَا بِاللُّطْفْ"}
+{"input": "he grew tired, shaken", "output": "بَدْنُو تْخَلْخِلْ"}
+{"input": "to milk a cow", "output": "حلب البقره"}
+{"input": "river in northwest Tunisia", "output": "وَادْ مَلَّاقْ"}
+{"input": "to announce one's faith/belief", "output": "اعلن ايمانو"}
+{"input": "it extinguished, went out on its own", "output": "طْفَاتْ وَحَدْهَا"}
+{"input": "to give a presentation", "output": "عْمَلْ بْرِيزْونْتَاسْيُونْ"}
+{"input": "to be in the café a long time without doing anything useful", "output": "كَارِكْ فِي القَهْوَةْ"}
+{"input": "to explain a topic in more detail", "output": "تفصل الموضوع"}
+{"input": "pasta with lots of sauce", "output": "مَقْرِونَةْ جَارْيَةْ"}
+{"input": "to stick up one's hair (like rooster), spike hair", "output": "فَيِّشْ شَعْرُو"}
+{"input": "high-ranking attorney with greater powers, works for state", "output": "وَكِيلْ الجُمْهُورِيَّة"}
+{"input": "he married her by force", "output": "فَكّْهَا مِنْ دَارْ بُوهَا"}
+{"input": "he risks his life", "output": "ريسكي بحياتو"}
+{"input": "he put it in back", "output": "حَطْهَا مِنْ تَالِي"}
+{"input": "to pity someone or something, feel sympathy", "output": "سْخِفْ عْلِيهْ"}
+{"input": "I have no contact with him", "output": "مَاعَنْدِيشْ بِيهْ كُونْطَاكْتْ"}
+{"input": "to light on fire", "output": "شعل النار"}
+{"input": "Acts of the Apostles (Bible)", "output": "اعمال الرسل"}
+{"input": "his face brightened, his countenance improved", "output": "وِجْهُو نَوِّرْ"}
+{"input": "one spirit, they really love each other", "output": "نَفْسْ وَحْدَا"}
+{"input": "he's still really young", "output": "مِزَّالْ حْلِيبْ أُمُّو بِينْ سِنِّيهْ"}
+{"input": "foldable bed, pack n play", "output": "فَرْشْ يِتِطْوَى"}
+{"input": "to laugh at someone", "output": "ضحك عليه"}
+{"input": "to think of someone, consider someone's needs", "output": "إخَمِّمْ عْلِيهْ"}
+{"input": "to discuss a problem, bring it up", "output": "طرح الاشكاليه"}
+{"input": "to put everything in its place", "output": "حَطْ كُلْ حَاجَة فِي بْلَاصِتْهَا"}
+{"input": "to give someone a good price", "output": "عَمْلُو سُومْ"}
+{"input": "It wore him out and took advantage of him", "output": "جَابْ عْلِيهْ المَاءْ"}
+{"input": "woman who recently lost her virginity", "output": "مْكَسْرَةْ جْدِيدَةْ"}
+{"input": "they cancelled the follow-up/investigations", "output": "لْغَاوْ التَّتَبُّعَاتْ"}
+{"input": "he has nothing but the clothes on his back", "output": "مَا يَكْسَابْ فِي الدِّنْيَا كَانْ حَوَايْجُو"}
+{"input": "the passing of rule, government", "output": "تمرير الحكم"}
+{"input": "one way, same path", "output": "ثنيه وحده"}
+{"input": "he flew off, went really quickly", "output": "مْشَى سَاقِيهْ أَعْلَى مِنْ رَاسُو"}
+{"input": "under the control, domination of", "output": "تحت الهيمنه"}
+{"input": "the act of disobedience", "output": "خُرُوجْ عَالطَّاعَة"}
+{"input": "to go backward, get worse", "output": "رجع بالتوالي"}
+{"input": "to wring wet clothes", "output": "عْصَرْ لِحْوَايِجْ"}
+{"input": "to enforce, execute one's prestige", "output": "فْرَضْ لْهَيْبَةْ مْتَاعُو"}
+{"input": "he got everything out of them, milk them for all their worth", "output": "خَرِّجْ مِنْهُمْ الزِّيتْ"}
+{"input": "oh the good old days, that was a long time ago", "output": "يَا حَسْرَةْ عْلاَهَا"}
+{"input": "born one right after another", "output": "عَلَى رْيُوسْ بْعَضْهُمْ"}
+{"input": "he doesn't know what to do", "output": "مَا يَعْرِفِشْ آشْ يَعْمِلْ"}
+{"input": "to run as fast as possible", "output": "جْرَى أتُوتْ فِيتَاسْ"}
+{"input": "to do wrong to, to violate someone's rights", "output": "تْعَدَّى عْلِيهْ"}
+{"input": "Islamic healing method/magic for exorcism, etc.", "output": "رُقْيَة شَرْعِيَّة"}
+{"input": "to beat someone violently", "output": "دڨدڨو بالضرب"}
+{"input": "he struck him with a weapon", "output": "ضربو بالسلاح"}
+{"input": "to dry up, evaporate", "output": "انشح الماء"}
+{"input": "a Hadith received in Jerusalem", "output": "حديث قدسي"}
+{"input": "pray for mercy for someone", "output": "صلاو عليه"}
+{"input": "he used his mental abilities", "output": "خدم مخو"}
+{"input": "he relies on himself", "output": "مْعَمِّلْ عَلَى ذْرَاعُو"}
+{"input": "his mind was frozen, blown, stopped working", "output": "مخو وقف"}
+{"input": "to shake out clothes, clean them off", "output": "نْفَضْ لَحْوَايِجْ"}
+{"input": "everything, including the kitchen sink", "output": "صحْرِي بَحْرِي"}
+{"input": "Are you going to give things to the bride for the wedding?", "output": "بش تعملو رمو فالعرس ،"}
+{"input": "he walked with a limp", "output": "مشي يعكز"}
+{"input": "Barcelona station (downtown Tunis)", "output": "مَحَطَّةْ بَرْشَلُونَةْ"}
+{"input": "hanging/stuck in the air", "output": "مَا بٍينْ السَّمَاءْ و الأَرْضْ"}
+{"input": "to get a higher rank in the military", "output": "علْقُولُو قْرَادْ"}
+{"input": "home for elderly, nursing home", "output": "دَارْ العُجْزْ"}
+{"input": "to become more calm than before", "output": "رَاضْ عَلَى قْبَلْ"}
+{"input": "he's always thinking about her", "output": "شَاغْلِتْلُو تَفْكِيرُو"}
+{"input": "a usuless story, pointless talk", "output": "حكايه فارغه"}
+{"input": "in his mind, he thought that…", "output": "فِي بَالُو"}
+{"input": "he lost his possessions", "output": "خسر املاكو"}
+{"input": "Bab Souika (neighborhood in medina of Tunis)", "output": "بَابْ سْوِيقَة"}
+{"input": "he's doing well in life, he's lucky", "output": "مَاشْيَةْ مْعَاهْ"}
+{"input": "he was careful of him, watched out for him", "output": "رَدْ بَالُو مِنُّو"}
+{"input": "he relied on God (usually when the person cannot do anything)", "output": "خَلَّاهَا عَلَى رَبِّي"}
+{"input": "it all went to pieces, ended up in nothing", "output": "طَاحَتْ فِي المَاءْ"}
+{"input": "to be persistent, to not give up", "output": "شَدّْ صْحِيحْ"}
+{"input": "he's poor, lost everything", "output": "رَاسُو عِرْيَانْ"}
+{"input": "he walked really slowly like a clam", "output": "مْشَى كِلْبَبًّوشَةْ"}
+{"input": "to be determined, decide to really do something, take courage", "output": "عْمَلْ قْلَيِّبْ"}
+{"input": "ksar said, city in Manouba", "output": "قْصَرْ سْعِيدْ"}
+{"input": "judgement day, end of the world", "output": "يوم لقيامه"}
+{"input": "land area, surface area", "output": "مساحه الارض"}
+{"input": "to give time to something", "output": "عطي الوقت"}
+{"input": "Get in line; buying tickets is one by one.", "output": "شد الصف قصان التساكر بالطور"}
+{"input": "Be a little looser with your money and quit being so stingy.", "output": "تحل شويا في المصروف و يزي م التقرنيط"}
+{"input": "he buried the secret", "output": "دفن السر"}
+{"input": "to make one's first steps", "output": "عْمَلْ خُطْوَاتُو لُولَا"}
+{"input": "the middle of the year", "output": "وسط العام"}
+{"input": "to figure things out, improve your life", "output": "سَلِّكْ أُمُورُو"}
+{"input": "to smoke a pipe", "output": "تْكَيِفْ البِيبَا"}
+{"input": "standard flavor for hookahs", "output": "شيشة جيراك"}
+{"input": "they shared in his joy/happiness", "output": "إشَارْكُو فِي فَرْحْتُو"}
+{"input": "he changed his mind", "output": "بَدِّلْ رَايُو"}
+{"input": "there's a huge flood", "output": "دِنْيَة بِحْرِتْ"}
+{"input": "he has a weak heart, can't handle certain things", "output": "قَلْبُو ضْعِيفْ"}
+{"input": "small pasta used in soup", "output": "لْسَانْ عَصْفُورْ"}
+{"input": "they're sold really cheaply", "output": "بَاعُو بْزُوزْ صُورْدِي"}
+{"input": "the alarm went off", "output": "ضْرَبْ الأَلَارِمْ"}
+{"input": "to toss food with force", "output": "لَوَّحْ المَاكْلَةْ تَلْوِيحْ"}
+{"input": "they're torturing him (cutting his fingernails with large clippers)", "output": "إقُصُّولُو ضْوَافْرُو بِالكُلَّابْ"}
+{"input": "he took the train", "output": "خْذَا التْرَانْ"}
+{"input": "to have fun at someone's expense", "output": "دَوَّرْهَا عْلَى"}
+{"input": "they didn't give her her rights", "output": "مَعْطَهَاشْ حَقَّهَا"}
+{"input": "satisfied, doesn't bother others", "output": "مستكفي بروحو"}
+{"input": "one hundred percent iron, very strong", "output": "حْدِيدْ فِي حْدِيدْ"}
+{"input": "to remove dirty water, dirt around water sources", "output": "نَحَّى لِغْرَمْ"}
+{"input": "to organize a march, protest", "output": "انظم مسيره"}
+{"input": "to cancel a wedding", "output": "أَنُولَى المَارْيَاجْ"}
+{"input": "That guy is rich.", "output": "هذاكا فلوسو برشا"}
+{"input": "to pass by on the road", "output": "قَصْ عْلِيهْ"}
+{"input": "to guard, keep watch", "output": "شَادْ لْعَسَّةْ"}
+{"input": "mother tongue, native language", "output": "لغه الام"}
+{"input": "it's just an empty bottle", "output": "شقف بركا"}
+{"input": "to check, look twice", "output": "ثبت مرتين"}
+{"input": "he is becoming very confused", "output": "دْخَلْ وْ خْرَجْ فِي الحِلَّة"}
+{"input": "he woke up scared, terrified", "output": "قَامْ مَرْعُوبْ"}
+{"input": "to fail a school year, repeat", "output": "عَاوِدْ كَرِّك"}
+{"input": "he took great care in how he raised his kids", "output": "حْرَصْ عْلَى التَّرْبِيَة"}
+{"input": "you can't go up it", "output": "مَا تَطْلَعِشْ عْلِيهْ"}
+{"input": "why do you walk so much?", "output": "قَاتِلْهَا بِالمَشْيْ"}
+{"input": "he took a small piece from something", "output": "خذا لقشه"}
+{"input": "Hadith whose authenticity is unclear", "output": "حَدِيثْ ضَعِيفْ"}
+{"input": "to eat a ton", "output": "مَيَرْحِمِّشْ مَعَ المَاكْلَةْ"}
+{"input": "orphan, his mother died", "output": "يتيم الام"}
+{"input": "pretending to be someone awesome, good at everything (slang)", "output": "لَاعِبْهَا طَيِّبْ جِعْبَةْ"}
+{"input": "people talk bad about him", "output": "عْبَادْ تَحْكِي عْلِيهْ بِلْخَايِبْ"}
+{"input": "to dial a number, type a number", "output": "كُمْبُوزَى النُّومْرُو"}
+{"input": "very few, just a few", "output": "كَعْبْتِينْ وْ كَعْبَةْ"}
+{"input": "contains a high percentage of", "output": "فَاهَا بُورْسُونْتَاجْ كْبِيرْ مِنْ"}
+{"input": "to give a definition, define", "output": "عْطَى دِيفِينِيسْيُونْ"}
+{"input": "he never leaves the bottle, he's always drinking", "output": "مِ الدَّبُوزَةْ مَايَتْقَعِّدِشْ"}
+{"input": "he has nothing to do with this", "output": "مَعَنْدُوشْ دَخْلْ فِي الحَكَايَةْ"}
+{"input": "to follow, come in footsteps", "output": "جَابْ جُرْتُو"}
+{"input": "to get tired, wear out for no reason, in vain", "output": "تْعَبْ بِالفَارَغْ"}
+{"input": "he blew his nose", "output": "مسح خنانتو"}
+{"input": "to block pregnancy, use contraception", "output": "وَقْفِتْ لِحْبَالَةْ"}
+{"input": "to reduce its value", "output": "حِطِ مِلْ القِيمَة مْتَاعْهَا"}
+{"input": "postponing of court hearing", "output": "تاجيل الجلسه"}
+{"input": "he followed the advice of somebody", "output": "خْذَا بِنْصِيحَة فُولَانْ"}
+{"input": "someone who keeps himself from spending much money", "output": "حَازَقْ رُوحُو فِي المَصْرُوفْ"}
+{"input": "he can hardly open his eyes (about to fall asleep)", "output": "عِينِينْ مَحْلُولَةْ بِالسِّيفْ"}
+{"input": "to put someone (baby) to sleep", "output": "هَزُّو يُرْقِدْ"}
+{"input": "he fought with him, quarrelled with him", "output": "تعارك معاه"}
+{"input": "to cut off water supply", "output": "قص الماء"}
+{"input": "people are flocking to, crowding around", "output": "عْبَادْ هَابْطَةْ عْلَى"}
+{"input": "he did good deeds without expecting something in return", "output": "عْمَلْ الخِيرْ وْمَحْسِبْشْ"}
+{"input": "game for inviting evil spirits", "output": "إسبري إسبرا"}
+{"input": "he got an idea about …", "output": "خذا فكره"}
+{"input": "he's stupid, stubborn, doesn’t want to learn or change", "output": "مُخُّو مْسَكِّرْ"}
+{"input": "to wake up to pray the optional midnight prayers", "output": "قَامْ اللِّيلْ"}
+{"input": "to make a talisman, use magical writing", "output": "عَمْلُو طْلَامِسْ"}
+{"input": "to run away (rural)", "output": "شد الربعي"}
+{"input": "always stops by to get something from someone", "output": "دايْر ب"}
+{"input": "burned wood, coal, charcoal", "output": "لُوحْ مْفَحِّمْ"}
+{"input": "death sentence, capital punishment", "output": "حكم بالاعدام"}
+{"input": "a strong, pungent odor (good or bad)", "output": "رِيحِتْهَا فَاوْحَة"}
+{"input": "extremely excited, having a great time", "output": "شَايِخْ عَلْ الِإخِرّْ"}
+{"input": "don't touch, don't mess with", "output": "مَا تْبَرْبِشِّشْ"}
+{"input": "he lifted him up with joy", "output": "حَمْلُو مِلْ الفَرْحَة"}
+{"input": "primary principles of religion", "output": "اصول الدين"}
+{"input": "to take the presidential oath", "output": "أَدَّى اليَمِينْ الجُمْهُورِي"}
+{"input": "almost 40 years old, nearly over the hill", "output": "مْكَهِّبْ عَلَى الأَرْبْعِينْ"}
+{"input": "he drinks (alcohol) a lot", "output": "ماركا شراب"}
+{"input": "nice person, kind, well-behaved", "output": "لَا يْخَبِّشْ لَا يْدَبِّشْ"}
+{"input": "he did something or some work for him", "output": "قْضاَلُو حَاجْتُو"}
+{"input": "he left a will before his departure or death", "output": "خَلَّا وْصِيَّة"}
+{"input": "to push the door", "output": "دز الباب"}
+{"input": "honey-soaked dessert in spiral shape", "output": "وِذْنِينْ القَاضِي"}
+{"input": "good, how are you, ok, fine", "output": "سَا فَا"}
+{"input": "he bothered him a lot, wore him out", "output": "خَرَّجْلُو رُوحُو"}
+{"input": "bill (to be paid)", "output": "فَاتُورَةْ الِإسْتِخْلَاصْ"}
+{"input": "at the (appropriate) level", "output": "عل المستوي"}
+{"input": "he has a ton of money, he stuffs it in containers", "output": "رُصْ فِي الفْلُوسْ رَصَّانْ"}
+{"input": "to study in a public school", "output": "قْرَى فِي الدُوَلِي"}
+{"input": "to be scared of or watch out for someone", "output": "عْمَلْ حْسَاْب لْغِيرُو"}
+{"input": "coal that isn't very hot, just smoking, ember", "output": "فَحْمَةْ مَرْعُوبَةْ"}
+{"input": "avoiding it/her, trying to keep away", "output": "نافر منها"}
+{"input": "to grab his hand", "output": "شَدُّو مِنْ يِدُّو"}
+{"input": "to figure out the result", "output": "طَلَّعْ الرَّازُولْتَا"}
+{"input": "immodesty, lack of respect", "output": "قِلِّةْ الحَيَاءْ"}
+{"input": "jibba made of special material", "output": "جِبَّة خَمْرِي"}
+{"input": "to lie down in bed", "output": "تْمَدْ عَلْ الفَرْشْ"}
+{"input": "to make something up, create it out of nowhere", "output": "جَابْهَا مِنْ رَاسُو"}
+{"input": "to sign a marriage contract at the town hall", "output": "كَتْبَانْ صْدَاقْ فِي البَلَدِيَّةْ"}
+{"input": "fire that is spreading, growing", "output": "نار سرحت"}
+{"input": "to keep a collection", "output": "عْمَلْ كُولَكْسْيُونْ"}
+{"input": "he stored the crop", "output": "خَزِّنْ الصَّابَة"}
+{"input": "his words proved to be right", "output": "صح كلامو"}
+{"input": "to grab by the throat", "output": "شدو من خناقو"}
+{"input": "to be hanging on by a thread", "output": "شدها بالشكاكل"}
+{"input": "Every time, each time", "output": "كل مره"}
+{"input": "to use, wield a veto", "output": "إستعمل الفيتو"}
+{"input": "sick, can't pick up her head", "output": "رَاسْهَا مَتْهِزُّوشْ مِلْ القَاعَة"}
+{"input": "Mourad gave his fiancee her engagement ring; they'll get married this summer.", "output": "غدوة خويا باش يلبس الخاتم"}
+{"input": "Belhadj Kassem (last name)", "output": "بالحَاجْ قَاسِمْ"}
+{"input": "old medina, old city center", "output": "مْدِينَة عَرْبِي"}
+{"input": "My brother is well-educated.", "output": "خويا قاري برشة"}
+{"input": "perspective on life, worldview", "output": "نظره للحياه"}
+{"input": "he got all dressed up", "output": "بَرْقِشْ رُوحُو"}
+{"input": "he suddenly changed his behaviour and tricked somebody else", "output": "دَارْ فِي الحْيَاصَة"}
+{"input": "bad party, no fun", "output": "سهريّة بدونة"}
+{"input": "purely fiction, not true", "output": "محض خيال"}
+{"input": "he doesn't listen to others' advice", "output": "مَا يَاخُوشْ بِرَايْ غِيرُو"}
+{"input": "you're still a little kid, you're so tiny", "output": "مَازَالْ فَرْخْ حْلِيبْ"}
+{"input": "tabula rosa, knows nothing", "output": "صَفْحَةْ بِيضَةْ"}
+{"input": "He is planning to do something on New Year's.", "output": "معمل بش يعمل حاجة لراس العام"}
+{"input": "they went in a coordinated way", "output": "مْشَاوْ بْتَنَاسًقْ"}
+{"input": "He ate a ton, anything he found", "output": "كْلَى عَلَى بَعْضُو"}
+{"input": "to cause fights, problems", "output": "شعال نار"}
+{"input": "planning to, fixing to", "output": "مَعَمِّلْ بَاشْ"}
+{"input": "to attach (to an email)", "output": "عْمَلْ بْيَاسْ جْوَانْتْ"}
+{"input": "to gather the harvest, bring it in", "output": "لمو الصابه"}
+{"input": "Turn off the light and let us sleep.", "output": "طفي الضو خلي نرقدو"}
+{"input": "rich people, high class people", "output": "وْلَادْ بُمْ بُمْ"}
+{"input": "to add on to something", "output": "زادت عليه"}
+{"input": "he empathizes with him", "output": "حاس عليه"}
+{"input": "to guard something that was entrusted to you by someone else", "output": "خَلّاَهَا عْلَى ذِمْتُو"}
+{"input": "a work plan, action plan", "output": "خطه عمل"}
+{"input": "he has no time at all", "output": "دْقِيقَة فْضَاءْ مَا عَنْدُوشْ"}
+{"input": "to touch a tender spot, rekindle sad feelings", "output": "حَيّرْلُو مْوَاجْعُو"}
+{"input": "he's thinking about something, is distracted/worried", "output": "نفسو مشغوله"}
+{"input": "he doesn't do what I tell him to do", "output": "مَاهُوشْ بَرَاتِيكُونْ"}
+{"input": "use your brain, think (informal)", "output": "خَدِّمْ الطَّاسَة"}
+{"input": "it has a strong taste", "output": "مطعمو قوي"}
+{"input": "how terrible, oh no (only used by women)", "output": "يا شومي"}
+{"input": "nothing's left of the food, he took everything", "output": "جلد و العظم"}
+{"input": "they held the post-breaking of the fast prayers in Ramadan", "output": "أقامو التَرَاوِيحْ"}
+{"input": "he demanded a divorce", "output": "طالب بالطلاق"}
+{"input": "sound so loud it deafens", "output": "صوت اطرش"}
+{"input": "to reply/react to something or someone", "output": "رد عليه"}
+{"input": "I wouldn't withhold what you need", "output": "مَانْرَجَّعْهَاشْ بِيكْ"}
+{"input": "Amar's mountain: a small mountain located in Ariana", "output": "جبل عمار"}
+{"input": "He ate a lot and loosened his belt to relax.", "output": "كلا برشة ياخي رخف السبتة بش يرتاح"}
+{"input": "without checking, making sure", "output": "مِنْ غِيرْ تَمْحِيصْ"}
+{"input": "I don't know where I am, I'm lost", "output": "مَنَعْرِشْ عَلَى رُوحِي فِينْ"}
+{"input": "he entered into a relationship", "output": "دْخَلْ فِي عَلَاقَة"}
+{"input": "Africa has a lot of diamonds, but it is very poor.", "output": "لافريك فيها برشا ديامون لكن فيها برشا فقر"}
+{"input": "to feel the pain", "output": "حس بالالم"}
+{"input": "He earned a lot of money from the new project.", "output": "طيح برشة فلوس من مشروعو الجديد"}
+{"input": "he's bored/tired of work", "output": "قَالِقْ فِي لْخِدْمَةْ"}
+{"input": "marginalized, living on the edge of society", "output": "عَلْ هَامِشْ"}
+{"input": "Sunna, the books about the prophetic traditions", "output": "كْتَابْ سُنَّة"}
+{"input": "to give a guarantee, warranty", "output": "عْطَاهْ ضَمَانْ"}
+{"input": "his faith is weak", "output": "ضعيف ايمان"}
+{"input": "in the end, the point is", "output": "فِي لِخِّرْ"}
+{"input": "I trust him, I'm comfortable with him", "output": "مِتْهَنِّي بِيهْ"}
+{"input": "A coastal region near the capital (Lagoulette)", "output": "حَلْقْ الوَادْ"}
+{"input": "to cook over a low fire", "output": "طَيِّبْ عَلَى نَارْ هَادْيَةْ"}
+{"input": "to use magic on someone with different plants", "output": "عْمَلُّو الحَيَّةْ وَ المِيتَةْ"}
+{"input": "legal counsel at a company", "output": "مِتْكَلِّفْ عَدْلِي"}
+{"input": "my life companion, soulmate", "output": "عشير عمري"}
+{"input": "to wash the dishes", "output": "غسل الماعون"}
+{"input": "period in December with warm nights", "output": "لْيَالِي البِيضْ"}
+{"input": "to be saved, to receive salvation", "output": "نال الخلاص"}
+{"input": "Turkish waterpipe, hookah (nicer and traditional)", "output": "شيشه تركيه"}
+{"input": "the hill at Sidi Bou Said", "output": "رَبْوَة سِيدِي بُوسْعِيدْ"}
+{"input": "he is too self-confident", "output": "يَاسِرْ عَاطِي كُونْفِيُونْسْ فِي رُوحُو"}
+{"input": "to dry your hair", "output": "شيّح شعرو"}
+{"input": "He kept singing and wouldn't stop from morning to night.", "output": "شد ما سيب فلغنى مصباح لليل"}
+{"input": "well-behaved, doesn't cause problems", "output": "قَدْ قَدّْ"}
+{"input": "to read coffee grounds", "output": "قْرَى الفِنْجَانْ"}
+{"input": "didn't do anything all day, stayed put", "output": "نْهَارْ الكُلْ بَارِكْ"}
+{"input": "everything, without checking first, by chance", "output": "شيلا بيلا"}
+{"input": "he's very rich, healthy", "output": "لَابَاسْ عْلِيهْ بَرْشَا"}
+{"input": "to make alimony payments", "output": "صَبْ عْلَاهَا النَّفْقَة"}
+{"input": "he kept the same speed", "output": "مْشَى فِيتَاسْ وَاحِدْ"}
+{"input": "a deadly feeling of guilt", "output": "ذنب قاتل"}
+{"input": "He grabbed the mirror firmly and broke it.", "output": "شد لمرايا بلقوي ياخي كسرها"}
+{"input": "the sun has set", "output": "شمس غابت"}
+{"input": "he feels something, it affects him", "output": "حَاسّْ بْحَاجَة"}
+{"input": "to press charges against someone", "output": "شكى بيه"}
+{"input": "he glared at him really rudely", "output": "عْطَاهْ صِفِةْ قَحْرَةْ"}
+{"input": "to walk away from God, distance oneself from God, go one's own way", "output": "بْعِدْ عَلَى رَبِّي"}
+{"input": "the beginning of the hottest part of the summer (mid-July)", "output": "أوِّلْ أَوِسُّو"}
+{"input": "is this the road that takes to ….?", "output": "خُويَا أَذِيَّا الثْنِيَّة إِلِّي تْهِزْ لْ"}
+{"input": "a delicious, good smell", "output": "رِيحَة بْنِينَة"}
+{"input": "put on the waiting list", "output": "مَحْطُوطْ فِي اللِّيسْتْ دَاطُونْتْ"}
+{"input": "it doesn't fit, suit him", "output": "مَا تَوَاتِيهُوشْ"}
+{"input": "to open something up for the benefit of someone else", "output": "حَلْ البَابْ لْغِيرُو"}
+{"input": "he's not young anymore, he's grown up", "output": "مَعَادِشْ صْغِيرْ"}
+{"input": "go, get out of here", "output": "هِزْ رُوحِكْ"}
