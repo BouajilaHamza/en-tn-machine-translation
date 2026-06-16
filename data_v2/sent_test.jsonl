@@ -1,0 +1,400 @@
+{"input": "they look the same, hard to tell them apart", "output": "ما يفرقش بيناتهم"}
+{"input": "to cross one's legs", "output": "ساق علي ساق"}
+{"input": "to switch topics, to change the conversation", "output": "تعدي لموضوع اخر"}
+{"input": "he carried something on his back", "output": "هز علي ظهرو"}
+{"input": "extremely tight with money, stingy, Scrooge", "output": "كموشه عل لفلوس"}
+{"input": "hear and forget, don't pay attention to what I'm saying", "output": "وذن تسمع و وذن متسمعش"}
+{"input": "I went to Sousse a lot.", "output": "مشيت برشا مرات لسوسه."}
+{"input": "he has confidence in himself", "output": "عندو ثقه في روحو"}
+{"input": "she went her way", "output": "مشات علي روحها"}
+{"input": "scattered all over like a partridge's children", "output": "مفرتين كي ولاد الحجله"}
+{"input": "he has general knowledge of", "output": "عرف حاجات عامه"}
+{"input": "Do you have an idea?", "output": "تكون عندك فكره"}
+{"input": "small prayer book for day and night", "output": "اذكار الليل و النهار"}
+{"input": "It will rain in the northwest tomorrow.", "output": "غدوه باش تصب المطر في جهه الشمال الغربي"}
+{"input": "a supreme order, order from the top", "output": "اوردر مل الفوق"}
+{"input": "a very hot sun", "output": "شمس تنقب راس العصفور"}
+{"input": "he went on all fours, crawled", "output": "مشي علي اربعه"}
+{"input": "He took the chair with his leg and threw it.", "output": "شد الكرسي من ساقو ورماه"}
+{"input": "We will meet tomorrow morning, Lord willing.", "output": "نتقابلو غدوا الصباح انشاء الله"}
+{"input": "to request someone's presence", "output": "طلب منو لحضور"}
+{"input": "he's attached to something", "output": "روحو متعلقه بحاجه"}
+{"input": "his share of the inheritance", "output": "نابو في الميراث"}
+{"input": "let's not exclude anyone", "output": "من غير مانستثناو حد"}
+{"input": "to spend without thinking", "output": "صرف من غير مخ"}
+{"input": "to not care about life, live how one wants", "output": "ما علابالوش بالدنيا"}
+{"input": "hardly standing on his feet", "output": "واقف علي ساقيه بالسيف"}
+{"input": "he laugh out of misery", "output": "ضحك مل هم"}
+{"input": "He got a job and is working; he's doing well.", "output": "شد بلاصتو و يخدم لاباس عليه"}
+{"input": "beneficiary of the inheritance", "output": "مستنفع مل الورثه"}
+{"input": "Let's meet in the set place tomorrow.", "output": "نتقبلوا غدوا في المكان المحدد"}
+{"input": "to try one's luck", "output": "حاول يلقي حظو"}
+{"input": "Rami took Marwa and lifted her up to have sex with her.", "output": "رامي شد مروي هزلها ساقيها"}
+{"input": "Go open the window and let some air in.", "output": "برا حل اشباك خلي لهوا يدخل"}
+{"input": "he has executive authority", "output": "عندو السلطه التنفيذيه"}
+{"input": "to eat and criticize food at same time, enjoy yet complain", "output": "كلا الغله و سب المله"}
+{"input": "he walked on his tiptoes", "output": "مشي علي اطراف صوابعو"}
+{"input": "a very funny person", "output": "طقطوقه متاع ضحك"}
+{"input": "lunch or breakfast get-together", "output": "لمه متاع فطور"}
+{"input": "to strike where the fighters were found", "output": "ضرب مواقع المقاتلين"}
+{"input": "to reconcile with an enemy", "output": "تصالح مع العدو"}
+{"input": "on the anniversary of his death", "output": "في الذكري متاعو"}
+{"input": "to kill/mortify the desires of the flesh", "output": "قتل شهوات الجسد"}
+{"input": "hungry for science and knowledge", "output": "متعطش للعلم و المعرفه"}
+{"input": "to lead an armed attack", "output": "قاد هجوم مسلح"}
+{"input": "Patience and self-control is a necessary thing.", "output": "شد النفس والتحكم فيها حاجا ضروريه"}
+{"input": "Dad propped up the door with a pillar so it wouldn't fall.", "output": "بابا كالا الباب بعرصه بش ميطحش"}
+{"input": "to participate in a war", "output": "شارك في الحرب"}
+{"input": "Tomorrow is a holiday.", "output": "غدوا نهار عطله"}
+{"input": "he has a mission", "output": "عندو اوردر ميسيون"}
+{"input": "You'll start work tomorrow.", "output": "من غدوا تبدي الخدمه"}
+{"input": "he exposed himself to danger", "output": "عرض روحو للخطر"}
+{"input": "to be ready for everything", "output": "تكون مستعد لكل شيء"}
+{"input": "to pray for someone", "output": "صلي من اجلو"}
+{"input": "He worked hard to reach the top.", "output": "عمل مجهودو بش يوصل للصداره"}
+{"input": "thankless, ungrateful, returns good with bad", "output": "ما يشوفش بالخير"}
+{"input": "execution of a request", "output": "تنفيذ بعد الطلب"}
+{"input": "Brother, these shoes are really expensive; can youlower the price for us?", "output": "خويا ، الصباط هذا غالي برشه ، بش تنقصلنا في السوم."}
+{"input": "to respect traditions, mores, norms", "output": "احترم العرف الاجتماعي"}
+{"input": "he couldn't sleep at night", "output": "هرب عليه النوم في الليل"}
+{"input": "I have a meet-up tomorrow morning.", "output": "عندي رنديفو غدوه الصباح"}
+{"input": "He drank a lot because he was so thirsty.", "output": "شرب برشا من كثره ما عطش"}
+{"input": "he calculated his steps", "output": "حسبلو قداه عمل من خطوه"}
+{"input": "best man at wedding", "output": "وزير متاع لعروس"}
+{"input": "Don't turn off the light; I'm still up.", "output": "خلي اضو ، راني مازلت ساهر"}
+{"input": "under the same roof, living together", "output": "تحت سقف واحد"}
+{"input": "he answered the explanation, gave his comments", "output": "رد علي استفسار"}
+{"input": "just a second and i will be back", "output": "لحظه و نرجعلك"}
+{"input": "I'm not connected to, I have no relation to, I have nothing to do with", "output": "ما عندي حتي علاقه"}
+{"input": "That case draws attention.", "output": "الحاله هاذي تشد الانتباه"}
+{"input": "he expressed his refusal of", "output": "عبر عن رفضو ل"}
+{"input": "it touched a nerve", "output": "ضربلو عل الوتر الحساس"}
+{"input": "he can't stop laughing, dying of laughter", "output": "مينجمش اشد روحو م الضحك"}
+{"input": "to keep your position, not change it", "output": "شد في موقفو"}
+{"input": "He did what he did, and soon God will reveal the truth", "output": "شق شق و ربي اجيب الحق"}
+{"input": "Leave a small opening in the box.", "output": "خلي فتحه صغيره في الصندوق"}
+{"input": "from very far away, not closely", "output": "من بعيد لبعيد"}
+{"input": "lots of tears, crying like rain", "output": "دموع كي الشتاء"}
+{"input": "to be released from prison/jail", "output": "اخرجوه مل الحبس"}
+{"input": "one way or another (threat)", "output": "هكا ولا هكا"}
+{"input": "to come back to the intial point", "output": "رجع لنفس النقطه"}
+{"input": "to drink from the bottle", "output": "شرب م الدبوزه"}
+{"input": "to save money, hide it under the mattress", "output": "اخبي تحت راسو"}
+{"input": "it's for sure, no doubt", "output": "غير مشكوك فيه"}
+{"input": "no problem, no worries", "output": "من غير قلق"}
+{"input": "He lost a lot of money over stupid things.", "output": "خسر برشا فلوس علي حكايات فارغا"}
+{"input": "Tunisian General Labor Federation", "output": "اتحاد العام التونسي للشغل"}
+{"input": "Hurry up a little so we can get there on time.", "output": "ازرب شويا بش نخلطو في الوقت"}
+{"input": "they went out together", "output": "خرجو مع بعضهم"}
+{"input": "his conscience pricked him", "output": "ضميرو يانب فيه"}
+{"input": "Tomorrow is independence day.", "output": "غدوا عيد الاستقلال"}
+{"input": "hit straight on the head, affected the head immediately", "output": "ضرب في الراس ديراكت"}
+{"input": "He heard a great joke and laughed until his sides hurt.", "output": "سمع نكت خشينا ياسر ياخي شد جنابو مضحك"}
+{"input": "to relight, catch on fire again", "output": "لهبت من جديد"}
+{"input": "he's dying of hunger", "output": "مات مل الجوع"}
+{"input": "Aymen grabbed the kid and beat him bloody.", "output": "ايمن شد الطفل دمدمو بطريحه"}
+{"input": "he has something to do, he's busy", "output": "عندو ما يعمل"}
+{"input": "to turn up the volume, raise one's voice", "output": "قوي في الصوت"}
+{"input": "I need to go to the radiologist tomorrow morning.", "output": "يلزمني نمشي لراديولوق غدوه الصباح"}
+{"input": "siblings from your mother", "output": "خوات من الام"}
+{"input": "he tends toward a certain opinion", "output": "اميل لراي معين"}
+{"input": "he expressed his gratitude to", "output": "عبر عل الامتنان متاعو تجاه"}
+{"input": "regretting the past, rueful", "output": "نادم علي فات"}
+{"input": "to put someone in the grave", "output": "حطوه في القبر"}
+{"input": "he took a lot of time", "output": "خذا برشا وقت"}
+{"input": "his opinion on the subject", "output": "نظرو في الموضوع"}
+{"input": "he considered it, thought about it", "output": "حسبها في مخو"}
+{"input": "Someone gave him his word that he'll come tomorrow.", "output": "فما شكون عاطيه كلمه باش يجيه غدوا"}
+{"input": "Of course, now. You'll have your money tomorrow.", "output": "بهيشي عاد غدوا فلوسك يكونو عندك"}
+{"input": "the drop that made the cup overflow (the straw that broke the camel's back)", "output": "قطره لي تفيض الكاس"}
+{"input": "enjoy your meal, bon appetit", "output": "ايا صحا ليكم"}
+{"input": "something deep in the heart, determination, set something as a goal", "output": "حاط في قلبو"}
+{"input": "he hasn't bathed in a year, he's dirty", "output": "عندو عام مامشاش للحمام"}
+{"input": "Tomorrow we're going to bring a sample of the new product.", "output": "غدوه باش نمشي للمعمل نجيب عينه من البرودوي الجديد"}
+{"input": "love at first sight", "output": "حب من اول نظره"}
+{"input": "to run after something", "output": "جري في جرت حاجه"}
+{"input": "do it once and move on", "output": "مره و عدي"}
+{"input": "God be with you and protect you", "output": "في وديعه ربي"}
+{"input": "he extracted oil from things", "output": "خرج منهم الزيت"}
+{"input": "living in fear, always afraid", "output": "عايش في خوف"}
+{"input": "Minister of Foreign Affairs", "output": "وزير الشؤون الخارجيه"}
+{"input": "he crawled underneath enemy fire", "output": "زحف تحت رصاص العدو"}
+{"input": "I'm tired; I'm going to sleep now.", "output": "تاعب ماشي باش نرقد توا"}
+{"input": "He's so skiny he's going to die; he's doing poorly.", "output": "ضعيف بش يموت في حاله"}
+{"input": "to do something too firmly, strongly", "output": "تقوي علي حاجه"}
+{"input": "he has no conscience", "output": "ما عندوش ضمير"}
+{"input": "he told him how to get where he was going", "output": "دلو عل البقعه الي ماشيلها"}
+{"input": "Tomorrow is going to be hot.", "output": "غدوه باش يجي نهار سخون"}
+{"input": "to make a grammatical mistake", "output": "غلط في لڨرامار"}
+{"input": "to be thrown in prison", "output": "ترمي في الحبس"}
+{"input": "he has tricks or bad intentions hidden", "output": "شيطانو في مكتوبو"}
+{"input": "they think the same way, act the same way", "output": "قارين عند نفس المدب"}
+{"input": "to step on something", "output": "عفس بساقيه علي"}
+{"input": "standing on his tiptoes", "output": "واقف علي اطراف ساقيه"}
+{"input": "don't do anything wrong, behave", "output": "لا هكا لا هكا"}
+{"input": "from the first, from the beginning, from the first try", "output": "م الضربه لولا"}
+{"input": "from head to toe, top to bottom", "output": "مل فوق للوطا"}
+{"input": "he knew how to trick him, take advantage of him", "output": "عرف منين يدخل و يخرج"}
+{"input": "to make oneself laugh forceably", "output": "ضحك روحو بالسيف"}
+{"input": "God bless you, your excellecy", "output": "سيادتك ربي اهنيك"}
+{"input": "In summary, I'm not coming with you tomorrow.", "output": "الحاصل انا غدوا مانيش باش نجي معاكم"}
+{"input": "to light two candles in the Saint's tomb, visit the saint", "output": "شعل شمعتين في قبر الولي"}
+{"input": "Oh, wow, is there really a taxi strike today?", "output": "اوخ ! بلحق فمه اضراب تاكسيات غدوه ،"}
+{"input": "We talked with him for two hours to calm him down.", "output": "ساعتين نحكيو معاه بش ركح"}
+{"input": "have put him in a cage / prison", "output": "حشاوه في القفص"}
+{"input": "to reveal spiritual forces, spirits", "output": "تكشف علي العباد لخري"}
+{"input": "he abandoned an idea he had in mind", "output": "خرجها من مخو"}
+{"input": "he shocked people with his words", "output": "شوكا الناس بكلامو"}
+{"input": "a sun that makes pomegranates ripe (in September)", "output": "شمس تطيب الرمان"}
+{"input": "has a life plan", "output": "عامل خطه لحياتو"}
+{"input": "the same social class", "output": "نفس الطبقه الاجتماعيه"}
+{"input": "to gain control over an area (military)", "output": "سيطره عل الذخيره"}
+{"input": "come on, get up!", "output": "هيا تقعد م النوم"}
+{"input": "to go too far, overdo something", "output": "تمد علي طولو"}
+{"input": "may God make more of you, you're great", "output": "ربي اكثر منو الناس"}
+{"input": "to finish the term of office", "output": "انهي فتره الحكم"}
+{"input": "to slip out of one's hands, to be lost, gone", "output": "تفلت من يدو"}
+{"input": "May God solve your problem, provide a way out", "output": "فرج علاها ربي"}
+{"input": "clothes for going out", "output": "لبسه متاع خرجه"}
+{"input": "let me think about it", "output": "خليني نعمل رايي"}
+{"input": "under his authority, rulership", "output": "تحت الهيمنه متاعو"}
+{"input": "God willing you'll figure it out tomorrow in the test.", "output": "انشالله تسلكها غدوه في الاكزامان"}
+{"input": "to fast from meat", "output": "صام ع لحم"}
+{"input": "he took revenge by himself", "output": "خذا حقو بيديه"}
+{"input": "to move forward slowly", "output": "قدم وحدا وحدا"}
+{"input": "to lower someone into the grave, bury", "output": "هبطوه في القبر"}
+{"input": "Accelerate a little so we can get there on time.", "output": "زيد في الفيتاس شويا خلي نوصلو في الوقت"}
+{"input": "Tomorrow is the sacrifice holiday.", "output": "غدوا عيد الاضحي"}
+{"input": "He won a lot of money and has great luck.", "output": "ربح برشه فلوس ، عندو بخت طياره برشه."}
+{"input": "to rest in the shade", "output": "ارتاح في الظل"}
+{"input": "to embellish a speech", "output": "زين في الكلام"}
+{"input": "fighting under the banner of a belief or idea", "output": "حارب تحت لواء"}
+{"input": "think and tell me", "output": "خمم و قلي"}
+{"input": "to double cross, be a traitor, spy for the enemy", "output": "تجسس لحساب العدو"}
+{"input": "useless talk, pointless conversation", "output": "حديث في الفارغ"}
+{"input": "Let the fire go down a little.", "output": "خلي النار تهفت شويا"}
+{"input": "he fell on his knees", "output": "هبط علي ركايبو"}
+{"input": "we'll sleep wherever we are when night falls", "output": "وين يطيح علينا الليل نباتو"}
+{"input": "to jump off of", "output": "نقز من فوق"}
+{"input": "to come back from a distant place, far away", "output": "رجع من بعيد"}
+{"input": "he submitted himself to God, he left it to God", "output": "سلم امرو لله"}
+{"input": "highly flammable, easily angered", "output": "لف لف ما يشعل"}
+{"input": "let one person dictate and the other can write", "output": "واحد يمل و واحد يكتب"}
+{"input": "to throw something everywhere", "output": "رماها في الشيرات الكل"}
+{"input": "to say something pointless, dumb", "output": "قال حاجه فارغه"}
+{"input": "to identify, find a person's identity (official)", "output": "تعرف عل الهويه"}
+{"input": "inspired by the Holy Spirit", "output": "من وحي الروح القدس"}
+{"input": "he consencrated his life to the Lord", "output": "سخر حياتو لربي"}
+{"input": "He took a lot of time to think about the subject and we are waiting for him until now.", "output": "خذا برشا وقت باش يخمم فلموضوع وهانا لتوا نستناو"}
+{"input": "he thought it was something else, didn't understand", "output": "ماشي في مخو حكايه اخري"}
+{"input": "to be able to control something", "output": "تمكن من السيطره علي"}
+{"input": "in the last place", "output": "في اخر بلاصه"}
+{"input": "he became wiser and more careful in how he acted", "output": "رزان في مخو"}
+{"input": "he wiped him off the earth", "output": "مسحو مل الكره الارضيه"}
+{"input": "I'm going to the doctor to get a certificate.", "output": "ماشي للطبيب بش ندبر سرتفيكه"}
+{"input": "to hang a fishtail (for protection from the evil eye)", "output": "علق بعبوس حوته"}
+{"input": "she's gorgeous like the moon", "output": "وجه كيما القمره"}
+{"input": "give me a sip", "output": "هات نعمل رشفه"}
+{"input": "he regretted what he did", "output": "ندم علي عملو"}
+{"input": "in God's safe hands", "output": "في امان الله"}
+{"input": "to get a massage at the public baths", "output": "عمل طياب في لحمام"}
+{"input": "Think, now: are you going to go ahead or backward?", "output": "ثبت روحك بش تقدم و الا بش توخر"}
+{"input": "he has the right to the inheritance", "output": "عندو الحق بش يورث"}
+{"input": "a night to forget, a bad night", "output": "ليله و نساها"}
+{"input": "he crushed them, embarassed them", "output": "مسح بيهم القاعه"}
+{"input": "holy man, Sufi's tomb", "output": "زاويه متاع صوفيه"}
+{"input": "funeral prayer for person whose body isn't present", "output": "صلاه الجنازه عل غائب"}
+{"input": "he keeps looking all around", "output": "عينيه تلعب برشا"}
+{"input": "to put food over a fire", "output": "حط الماكله عالنار"}
+{"input": "to erase the past, forget what had happened", "output": "فسخ الي تعدي"}
+{"input": "to watch a movie", "output": "تفرج في فيلم"}
+{"input": "he's going to die of happiness", "output": "بش اموت مل الفرحه"}
+{"input": "he added to his words", "output": "زاد علي كلامو"}
+{"input": "he has no idea", "output": "ما عندو حتي فكره"}
+{"input": "he has no taste, doesn't choose well", "output": "ما عندوش ذوق"}
+{"input": "give me a sip/gulp of water", "output": "اعطيني نعمل جغمه"}
+{"input": "to have high hopes for, think well of", "output": "متوسم فيه الخير"}
+{"input": "he appeared in the role of…", "output": "ظهر في دور"}
+{"input": "to do his duty before God (pray, etc.)", "output": "عطي حق ربي"}
+{"input": "he got out of the situation safely", "output": "خرج منها سلامات"}
+{"input": "I have something to tell you", "output": "عندي ما نقلك"}
+{"input": "not the same weight", "output": "مش نفس الميزان"}
+{"input": "according to my point of view, perspective", "output": "حسب وجهه النظر متاعي"}
+{"input": "When he was little he dreamt a lot and wanted to achieve many things.", "output": "كيف كان صغير كان يحلم برشا ويحب يحقق برشا حاجات"}
+{"input": "for the sake of the nation, for the country", "output": "في سبيل لوطن"}
+{"input": "he took a pen and a paper", "output": "خذا ستيلو و ورقه"}
+{"input": "he's not focusing, he's not thinking", "output": "مخو مش فوقو"}
+{"input": "It's time for a nap now; let him reset.", "output": "وقت تعسيله توا خلي الواحد يرتاح"}
+{"input": "he wanted to give a suggestion", "output": "حب يعطي اقتراح"}
+{"input": "he rose from the dead", "output": "قام ما بين الاموات"}
+{"input": "Democratic Constitutional Rally - RCD, Ben Ali's old party", "output": "تجمع الدستوري الديمقراطي"}
+{"input": "to give something under the table, illegally", "output": "عطاه تحت الطاوله"}
+{"input": "to go off topic", "output": "خرج عل الموضوع"}
+{"input": "take care of yourself", "output": "رد بالك علي روحك"}
+{"input": "Mohsen held the boy and tricked him.", "output": "محسن شد الطفل لعب بيه لعب"}
+{"input": "Take a chance, and see what God does", "output": "ريسكي و مولاها ربي"}
+{"input": "arable land, fertile land", "output": "ارض صالحه للزراعه"}
+{"input": "Bring a Tunisian flag tomorrow.", "output": "غدوه جيب معاك علم تونس"}
+{"input": "Leave the bread in the oven until it's done.", "output": "خلي الخبز في الكوشه حتي لين يتحمر"}
+{"input": "to be full of the Holy Spirit", "output": "تعبي بالروح بالقدس"}
+{"input": "he got out of danger safe and sound", "output": "خرج كي شعره من عجينه"}
+{"input": "it only added to something (they uvulated in the bride's ear)", "output": "زغرطو لها في وذنها"}
+{"input": "to take custody of", "output": "تحمل مسؤوليه الحضانه"}
+{"input": "He gave an introduction to the subject he's going to talk about.", "output": "عمل تقديم للموضوع الي بش يحكي فيه"}
+{"input": "to complain and cry, whine", "output": "شكي و بكي"}
+{"input": "he grew wild, no longer calm, come out of one's shell", "output": "خرج من ببوشتو"}
+{"input": "someone gave him his word", "output": "فما شكون عاطيه كلمه"}
+{"input": "very poor person who does evil and shows off", "output": "فقر و فرعنه"}
+{"input": "he made it into a chart/graph", "output": "عمللها الرسم البياني"}
+{"input": "it's not attached well, tied well", "output": "مهيش مشدوده بلقدا"}
+{"input": "The factory's director gave orders for us to work on Sunday.", "output": "مدير المعمل اعطي تعليماتو بش نخدمو نهار الاحد"}
+{"input": "misery and happiness, good times and bad times", "output": "تعاسه و سعاده"}
+{"input": "curse using religion and God's name", "output": "ياعن دين ربك"}
+{"input": "they're just probabilities, possibilities", "output": "ماهم الا احتمالات"}
+{"input": "he put the inheritance in his name", "output": "كتبلو الورثه بسمو"}
+{"input": "to curse the day one was born", "output": "لعن النهار الي جابوه فيه"}
+{"input": "to request the presence of God", "output": "طلب حضور الله"}
+{"input": "inhospitable, doesn't welcome guests", "output": "ما يفرحش بالضيف"}
+{"input": "to save him from misery, rescue", "output": "تنقضو مل الميزيريه"}
+{"input": "There are a lot of people who say our age now is very bad and they describe it as the fallen age.", "output": "فمه برشه ناس يقولوا العصر متاعنا توه خايب برشه و يوصفوه بعصر الانحطاط."}
+{"input": "to declare the glory of Jesus", "output": "علن مجد يسوع"}
+{"input": "he shook with fear", "output": "رعش مل الخوف"}
+{"input": "he escaped from prison", "output": "هرب مل حبس"}
+{"input": "I have a test tomorrow.", "output": "غدوه عندي اكزامان"}
+{"input": "Let's go home and let what may come come.", "output": "هي نمشو نروحو وخلي وين باش ترصي ترصي"}
+{"input": "to laugh a lot until your sides hurt", "output": "شد جنابو م الضحك"}
+{"input": "to insult, speak harshly to", "output": "سمعو وسخ وذنيه"}
+{"input": "When the cat's away, the mice come out to play.", "output": "غيب يا قط العب يا فار"}
+{"input": "to dance out of joy", "output": "شطح مل الفرحه"}
+{"input": "to laugh out of good fortune against others", "output": "ضحكه متاع شبعان"}
+{"input": "he hid his head under the sand", "output": "خبا راسو في الرمل"}
+{"input": "his parents' curse came back on him", "output": "رجع عليه دعاء الوالدين"}
+{"input": "We took the flight to go to Jerba.", "output": "خذينا الطياره بش نمشيو لجربه"}
+{"input": "keep your word, be faithful to what you've said", "output": "نفذ الوعد متاعك"}
+{"input": "go to hell, curse (crass)", "output": "برا يعطك بشوله علي راسك"}
+{"input": "God caught him, repaid him", "output": "طاح فيه ربي"}
+{"input": "sound of a switchknife popping out", "output": "طرشق البو سعاده"}
+{"input": "he regretted the day…", "output": "ندم ع النهار الي"}
+{"input": "commemoration of Mohammad's birth", "output": "احياء ذكري المولد النبوي الشريف"}
+{"input": "his eyes filled with tears", "output": "عينيه زغلت بالدموع"}
+{"input": "welcome, come on in", "output": "اهلا و سهلا"}
+{"input": "to live in terror", "output": "عايش في رعب"}
+{"input": "he looked at all possibilities", "output": "شاف الامكانيات الكل"}
+{"input": "to be getting old, to pass a long time", "output": "تعدي بيه العمر"}
+{"input": "to accelerate, go faster", "output": "زاد في الفيتاس"}
+{"input": "Your friend keeps looking all around.", "output": "عينيه تلعب برشا صاحبك"}
+{"input": "Don't forget to come on time for the meeting tomorrow.", "output": "ماتنساش غدوا باش تجي في الوقت متاع الاجتماع"}
+{"input": "they talked with each other", "output": "حكاو مع بعضهم"}
+{"input": "her face scares kids, she's ugly", "output": "وجها اخوفو بيه الصغار"}
+{"input": "Go in and leave the door open.", "output": "ادخل و خلي الباب محلول"}
+{"input": "to grant political asylum", "output": "عطاوه اللجوء السياسي"}
+{"input": "it became really hot under fire", "output": "حمي علي النار"}
+{"input": "he did his best", "output": "عمل الي عليه"}
+{"input": "to complain about life", "output": "تذمر مل المعيشه"}
+{"input": "from one place to another", "output": "من بلاصه لبلاصه"}
+{"input": "That shirt is all over the market.", "output": "المريول هذا فما منو برشا فالسوق"}
+{"input": "in a relationship with God, prays", "output": "في علاقه مع ربي"}
+{"input": "to mourn, weep for a deceased person", "output": "انوح عل الميت"}
+{"input": "visited a saint (saint's tomb)", "output": "زار الولي الصالح"}
+{"input": "he pushed with all his might", "output": "دز بكل قوتو"}
+{"input": "to dive underwater, put under water", "output": "غطس تحت الماء"}
+{"input": "have a subscription card", "output": "عندو بطاقه انخراط"}
+{"input": "no hope, no way out, stuck, beaten up", "output": "مغلوب علي امرو"}
+{"input": "to come back to one's senses", "output": "رجعلو شاهد العقل"}
+{"input": "A lot of visitors come in the summer.", "output": "في الصيف يجيو برشا زمقري"}
+{"input": "created for a specific purpose", "output": "مخلوق علي خاطر حاجه معينه"}
+{"input": "he confessed what he had done", "output": "اعترف بالعمله متاعو"}
+{"input": "I wish you a sweet morning", "output": "صباحك دقله و حليب"}
+{"input": "to research one's family tree", "output": "لوج علي شجره العايله"}
+{"input": "to propose services to someone", "output": "عرض عليه خدماتو"}
+{"input": "he joined in something crazy and active", "output": "دخل في المعمعه"}
+{"input": "he kept his promise", "output": "وفي بالوعد متاعو"}
+{"input": "to speak behind someone's back, to gossip", "output": "حكي ورا الظهر"}
+{"input": "We'll talk about that soon.", "output": "تو نحكيوو فيه الموضوع"}
+{"input": "on the left side", "output": "م الجهه لسار"}
+{"input": "he gave his best", "output": "عطي احسن ما عندو"}
+{"input": "on the right side", "output": "م الجهه لمين"}
+{"input": "calm down, think carefully, don't rush", "output": "اكون منك لعقل"}
+{"input": "to read in a loud voice", "output": "قري بصوت عالي"}
+{"input": "Adjust the sound of the radio and let me hear it.", "output": "عدل في الصوت متع الراديو خلي نسمع"}
+{"input": "don't put your hands on it/her", "output": "ما تحطش علاها يدك"}
+{"input": "to put them together", "output": "حطهم مع بعضهم"}
+{"input": "to drink the oil of something", "output": "شرب الزيت متاعو"}
+{"input": "in a joking manner", "output": "في قالب ضحكه"}
+{"input": "to treat poorly, like animals", "output": "عاملهم كي الحيوانات"}
+{"input": "he doesn't doubt himself, self-confident", "output": "ميشكش في روحو"}
+{"input": "economy and management (course in school)", "output": "اقتصاد و تصرف"}
+{"input": "There is a festival in Hammamat tomorrow.", "output": "فما فستفال فالحمامات غدوا"}
+{"input": "Let the dough rise.", "output": "خلي العجينه تخمر"}
+{"input": "to yell for help", "output": "عيط بش اعاونوه"}
+{"input": "he laughed from his heart, naturally", "output": "ضحك من قلبو"}
+{"input": "to listen to something by accident", "output": "سمع كلام ع الطاير"}
+{"input": "In his final resting place", "output": "في مثواه الاخير"}
+{"input": "it's not real, doesn't exist in reality", "output": "مفماش في الواقع"}
+{"input": "he can't stand on his feet", "output": "ما ينجمش ياقف علي ساقيه"}
+{"input": "to get up on the stage", "output": "طلع فوق الركح"}
+{"input": "to plunge into a deep sleep", "output": "تعدي في الطويل بالنوم"}
+{"input": "God gave her children", "output": "ربي رزقها بالصغار"}
+{"input": "he knew what to say", "output": "عرف اش اخرج من فمو"}
+{"input": "pioneer in a field", "output": "رائد في المجال"}
+{"input": "end, crust or heel of bread", "output": "قعموره متاع خبز"}
+{"input": "can I just say something to you?, sorry to bother you", "output": "خويا سامحني في كلمه"}
+{"input": "to introduce people, let them get to know each other", "output": "ربط ما بيناتهم"}
+{"input": "to violate the law, transgress the law", "output": "تعدي ع القانون"}
+{"input": "nothing is clear, nothing's come up", "output": "مازال ما ظهر حتي شي"}
+{"input": "the age for having children, child-bearing age", "output": "عمر متاع جيبان صغار"}
+{"input": "I have a meeting tomorrow.", "output": "عندي اجتماع غدوه"}
+{"input": "I assume tomorrow will be the first day of Ramadan.", "output": "نظن انو غدوا اول يوم في رمضان"}
+{"input": "they have the same perspective, theory", "output": "عندهم نفس النظريه"}
+{"input": "it's not his fault, he's innocent", "output": "لا لوم عليه"}
+{"input": "to ask from God", "output": "طلب من ربي"}
+{"input": "from what I see", "output": "حسب ما نشوف"}
+{"input": "to took into consideration", "output": "خذا بعين الاعتبار"}
+{"input": "i just ate breakfast/lunch", "output": "مزلت كي فطرت"}
+{"input": "he lost a lot of money", "output": "خسر برشا فلوس"}
+{"input": "to enact a state of emergency", "output": "طبق قانون الطوارئ"}
+{"input": "to determine, set your mind/heart on something", "output": "حط في قلبو"}
+{"input": "to remember, hold a grudge", "output": "احطها في مخو"}
+{"input": "Take the cup carefully so you don't spill it.", "output": "شد الكاس بشويا لا توا تبزعو"}
+{"input": "to grill over fire", "output": "شوي في النار"}
+{"input": "to mitigate, lessen a punishment/sentence", "output": "اخففلو في الحكم"}
+{"input": "Free National Union political party", "output": "اتحاد الوطني الحر"}
+{"input": "He's eaten so much his stomach is going to explode.", "output": "كرشو بش تتفلق بالماكله"}
+{"input": "to do good to someone", "output": "عمل معاه الباهي"}
+{"input": "he knows who is on his side and who is against", "output": "اشوف شكون معاه و شكون ضدو"}
+{"input": "he said what what was on his mind", "output": "حكي الي في مخو"}
+{"input": "plugged in to each other", "output": "متبرنشين مع بعضهم"}
+{"input": "to win/earn lots of money", "output": "ربح برشا فلوس"}
+{"input": "at the age of marriage, old enough to get married", "output": "في سن الزواج"}
+{"input": "the nights and days are of equal length", "output": "استواء الليل والنهار"}
+{"input": "to lower the volume", "output": "نقص في الصوت"}
+{"input": "milk and its derivatives", "output": "حليب و مشتقاتو"}
+{"input": "his face became red our of shame", "output": "وجو حمار مل الحشمه"}
+{"input": "his stomach hurts from laughing", "output": "كرشو وجعتو م الضحك"}
+{"input": "to look out the window", "output": "طل م الشباك"}
+{"input": "He went to SONED to pay the water bill.", "output": "مشي للسوناد بش يخلص فاتوره الماء"}
+{"input": "Our neighbor is very rich.", "output": "جارنا لاباس عليه برشا"}
+{"input": "to keep something in mind, never forget", "output": "حطو في مخو"}
+{"input": "The beach is very rough today; there is a lot of wind.", "output": "البحر اليوم اموج برشه, فمه برشه ريح"}
+{"input": "Give us a good price and we'll buy from you.", "output": "اعطينا سوم باهي خلي نشريو من عندك"}
+{"input": "Speaker of the House, head of Parliament", "output": "رئيس مجلس النواب"}
+{"input": "to exceed limits, go too far", "output": "تعدي الحدود متاعو"}
+{"input": "there is an unclear point", "output": "فما نقطه مهيش واضحه"}
+{"input": "he won easily (with his eyes closed)", "output": "ربح عينيه مغمضه"}
+{"input": "to make a schedule", "output": "عمل جدول اوقات"}
+{"input": "to hold something in the hand", "output": "شدها في كفو"}
+{"input": "the bath that the bride and the bridegroom take before the day of wedding", "output": "حمام العروسه و العروس"}
+{"input": "rescue plane that puts out fires", "output": "طياره متاع حرايق"}
+{"input": "His Excellency the President of the Republic", "output": "معالي سياده رئيس الجمهوريه"}
+{"input": "Today is Friday and the day after tomorrow is Sunday.", "output": "اليوم جمعه ، بعد غدوه احد."}
+{"input": "He wrote a petition to the public prosecutor", "output": "كتب عريضه لوكيل الجمهوريه"}
+{"input": "to live in misery, a rough life", "output": "عاش عيشه اميزرا"}
+{"input": "to die young, as a young person", "output": "مات في طمبك شبابو"}
+{"input": "The price of meat is going up a lot these days.", "output": "سوم اللحم طالع برشا ليامات"}
+{"input": "to be killed in an accident", "output": "تقتل في اكسيدون"}
+{"input": "in addition to, plus", "output": "زيد علي هذاكا"}
+{"input": "he was a permanent member", "output": "كان عضو مستديم"}
+{"input": "I'll finish working on it tomorrow.", "output": "اتوا نكمل نخدمها غدوه"}
+{"input": "fatigue, tiredness came back", "output": "رجع عليه التعب"}
+{"input": "So it's like that?", "output": "صارا هيا هكا"}
+{"input": "once upon a time, one day", "output": "في يوم مل الايام"}
