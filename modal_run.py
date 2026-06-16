@@ -43,6 +43,29 @@ def log(msg):
     print(f"[EN-TN] {msg}", flush=True)
 
 
+def _load_model(model_path):
+    """Load a translation model, handling LoRA-adapter checkpoints.
+
+    SFT/DPO checkpoints are saved as PEFT adapters (only adapter_config.json +
+    adapter weights), so they must be loaded on top of the base NLLB model
+    rather than via AutoModelForSeq2SeqLM directly.
+    """
+    import torch
+    from transformers import AutoModelForSeq2SeqLM
+
+    if os.path.exists(os.path.join(model_path, "adapter_config.json")):
+        from peft import PeftModel
+
+        base = AutoModelForSeq2SeqLM.from_pretrained(
+            "facebook/nllb-200-3.3B", dtype=torch.bfloat16, device_map="auto",
+        )
+        return PeftModel.from_pretrained(base, model_path)
+
+    return AutoModelForSeq2SeqLM.from_pretrained(
+        model_path, dtype=torch.bfloat16, device_map="auto",
+    )
+
+
 def _prepare_data(csv_data: str):
     import pandas as pd
     from sklearn.model_selection import train_test_split
@@ -87,11 +110,11 @@ def _prepare_data(csv_data: str):
 def _evaluate_model(model_path, pairs):
     import torch
     import evaluate as ev
-    from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, pipeline
+    from transformers import AutoTokenizer, pipeline
 
     log(f"Loading model from {model_path}...")
     tokenizer = AutoTokenizer.from_pretrained("facebook/nllb-200-3.3B")
-    model = AutoModelForSeq2SeqLM.from_pretrained(model_path, dtype=torch.bfloat16, device_map="auto")
+    model = _load_model(model_path)
     model.eval()
     tokenizer.src_lang = "eng_Latn"
     tokenizer.tgt_lang = "aeb_Arab"
@@ -158,7 +181,7 @@ def prepare_data(csv_data: str):
 def train_sft(max_steps=600):
     import torch
     from datasets import Dataset
-    from peft import LoraConfig, get_peft_model
+    from peft import LoraConfig, TaskType, get_peft_model
     from transformers import (
         AutoModelForSeq2SeqLM, AutoTokenizer,
         Seq2SeqTrainer, Seq2SeqTrainingArguments, DataCollatorForSeq2Seq,
@@ -194,7 +217,7 @@ def train_sft(max_steps=600):
 
     model = get_peft_model(model, LoraConfig(
         r=32, lora_alpha=64, target_modules=["q_proj", "v_proj", "k_proj", "o_proj"],
-        lora_dropout=0.05, bias="none",
+        lora_dropout=0.05, bias="none", task_type=TaskType.SEQ_2_SEQ_LM,
     ))
     model.print_trainable_parameters()
 
@@ -231,25 +254,23 @@ def train_sft(max_steps=600):
     tokenizer.save_pretrained(save)
     vol.commit()
 
-    final = compute_metrics(trainer.predict(val_ds))
-    log(f"SFT done — BLEU: {round(final[0]['bleu'], 2)}")
-    return {"bleu": round(final[0]["bleu"], 2)}
+    # predict() already runs compute_metrics; metrics are prefixed with "test_"
+    final_bleu = trainer.predict(val_ds).metrics["test_bleu"]
+    log(f"SFT done — BLEU: {round(final_bleu, 2)}")
+    return {"bleu": round(final_bleu, 2)}
 
 
 @app.function(image=image, gpu="t4", timeout=3600 * 4, volumes={RESULTS_DIR: vol})
 def generate_dpo():
     import torch
-    from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+    from transformers import AutoTokenizer
     from tqdm import tqdm
 
     log("Generating MSA rejected translations...")
     tokenizer = AutoTokenizer.from_pretrained("facebook/nllb-200-3.3B")
     tokenizer.src_lang = "eng_Latn"
 
-    model = AutoModelForSeq2SeqLM.from_pretrained(
-        f"{RESULTS_DIR}/nllb-en-tn-sft",
-        dtype=torch.bfloat16, device_map="auto",
-    )
+    model = _load_model(f"{RESULTS_DIR}/nllb-en-tn-sft")
     model.eval()
 
     records = list({json.loads(l)["input"]: json.loads(l) for l in open(f"{RESULTS_DIR}/clean_en_tn_all.jsonl")}.values())
@@ -292,7 +313,7 @@ def generate_dpo():
 def train_dpo(beta=0.3, max_steps=400):
     import torch
     from datasets import Dataset
-    from peft import LoraConfig, get_peft_model, PeftModel
+    from peft import LoraConfig, TaskType, get_peft_model, PeftModel
     from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
     from trl import DPOTrainer, DPOConfig
 
@@ -307,18 +328,19 @@ def train_dpo(beta=0.3, max_steps=400):
     base = AutoModelForSeq2SeqLM.from_pretrained(
         "facebook/nllb-200-3.3B", dtype=torch.bfloat16, device_map="auto",
     )
+    base.config.use_cache = False
     base.enable_input_require_grads()
-
-    model = get_peft_model(base, LoraConfig(
-        r=32, lora_alpha=64, target_modules=["q_proj", "v_proj", "k_proj", "o_proj"],
-        lora_dropout=0.05, bias="none",
-    ))
 
     sft_path = f"{RESULTS_DIR}/nllb-en-tn-sft"
     if os.path.isdir(sft_path):
-        log("Loading SFT LoRA weights...")
-        model = PeftModel.from_pretrained(base, sft_path)
-        model.enable_input_require_grads()
+        log("Loading SFT LoRA weights for continued training...")
+        model = PeftModel.from_pretrained(base, sft_path, is_trainable=True)
+    else:
+        model = get_peft_model(base, LoraConfig(
+            r=32, lora_alpha=64, target_modules=["q_proj", "v_proj", "k_proj", "o_proj"],
+            lora_dropout=0.05, bias="none", task_type=TaskType.SEQ_2_SEQ_LM,
+        ))
+    model.enable_input_require_grads()
 
     args = DPOConfig(
         output_dir=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta{beta}",
@@ -349,9 +371,12 @@ def train_dpo(beta=0.3, max_steps=400):
 
 @app.function(image=image, gpu="t4", timeout=3600 * 2, volumes={RESULTS_DIR: vol})
 def evaluate(model_path: str = ""):
-    import torch
+    path = model_path if model_path else f"{RESULTS_DIR}/nllb-en-tn-sft"
+    if not os.path.isdir(path):
+        log(f"Model not found: {path} — skipping eval")
+        return {"error": f"not found: {path}"}
     pairs = [json.loads(l) for l in open(f"{RESULTS_DIR}/clean_en_tn_test.jsonl")]
-    return _evaluate_model(model_path if model_path else f"{RESULTS_DIR}/nllb-en-tn-sft", pairs)
+    return _evaluate_model(path, pairs)
 
 
 # ============================================================
@@ -369,12 +394,12 @@ def main(mode="full"):
     log(f"CSV: {len(csv_data)} bytes")
 
     if mode == "eval":
+        # The volume only exists inside containers, so existence is checked
+        # remotely inside evaluate() rather than here on the local host.
         sft = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-sft")
         log(f"SFT: {sft}")
-        dpo_path = f"{RESULTS_DIR}/nllb-en-tn-dpo-beta0.3"
-        if os.path.isdir(dpo_path):
-            dpo = evaluate.remote(model_path=dpo_path)
-            log(f"DPO: {dpo}")
+        dpo = evaluate.remote(model_path=f"{RESULTS_DIR}/nllb-en-tn-dpo-beta0.3")
+        log(f"DPO: {dpo}")
         return
 
     prepare_data.remote(csv_data)
